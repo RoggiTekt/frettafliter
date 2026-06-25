@@ -4,6 +4,7 @@
 import json
 import os
 import pathlib
+import re
 import sys
 import time
 import urllib.request
@@ -25,7 +26,7 @@ API_KEY = os.environ.get("GEMINI_API_KEY")
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 
 MAX_PER_RUN = 40
-SLEEP_BETWEEN_CALLS = 6.0
+SLEEP_BETWEEN_CALLS = 2.0
 MAX_KEPT = 250
 
 CATEGORIES = {
@@ -36,6 +37,9 @@ CATEGORIES = {
     "frettir":    "Hard news",
     "menning":    "Culture",
 }
+
+OG1 = re.compile(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)(?::src)?["\'][^>]+content=["\']([^"\']+)["\']', re.I)
+OG2 = re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)', re.I)
 
 
 def load_json(path, default):
@@ -55,8 +59,14 @@ def in_dropped_section(entry, drop_sections):
     return any(s in blob for s in drop_sections)
 
 
+def html_image(html):
+    if not html:
+        return ""
+    m = OG1.search(html) or OG2.search(html)
+    return m.group(1).strip() if m else ""
+
+
 def feed_image(entry):
-    """Pull an image URL straight from the RSS entry, if present."""
     for key in ("media_content", "media_thumbnail"):
         v = entry.get(key)
         if v and isinstance(v, list) and v[0].get("url"):
@@ -71,7 +81,7 @@ def feed_image(entry):
 
 
 def fetch_article(url, fallback_text=""):
-    """Return (text, image) for one article."""
+    """Return (text, image)."""
     text, image = fallback_text[:6000], ""
     try:
         downloaded = trafilatura.fetch_url(url)
@@ -80,12 +90,14 @@ def fetch_article(url, fallback_text=""):
                                     favor_precision=True)
             if t and len(t) > 120:
                 text = t[:6000]
-            try:
-                md = trafilatura.extract_metadata(downloaded)
-                if md and md.image:
-                    image = md.image
-            except Exception:
-                pass
+            image = html_image(downloaded)
+            if not image:
+                try:
+                    md = trafilatura.extract_metadata(downloaded)
+                    if md and md.image:
+                        image = md.image
+                except Exception:
+                    pass
     except Exception:
         pass
     return text, image
@@ -104,15 +116,15 @@ def gemini_post(payload):
                 return json.loads(resp.read().decode("utf-8"))
         except urllib.error.HTTPError as e:
             if e.code in (429, 503) and attempt < 3:
-                time.sleep(12 * (attempt + 1))
+                time.sleep(8 * (attempt + 1))
                 continue
             raise
 
 
 def gemini_judge(preferences, source, trusted, title, body):
     trusted_note = (
-        "This source only publishes Icelandic building-industry news, so it is "
-        "PRE-APPROVED: set keep=true. Still categorise, summarise and spin-check it."
+        "This source is PRE-APPROVED: set keep=true. Still categorise, summarise "
+        "and spin-check it."
         if trusted else
         "Decide keep vs discard against the preferences. When it sits inside one of "
         "the owner's topics but you are unsure, LEAN TOWARD keeping it."
@@ -167,6 +179,27 @@ BODY:
     return out
 
 
+def gemini_brief(items):
+    lines = "\n".join(
+        f"- [{CATEGORIES.get(i['category'], i['category'])}] {i['title']}"
+        for i in items[:25])
+    prompt = f"""Write a short "today's brief" for a personal Icelandic news reader.
+3-5 sentences, English, calm and plain, summarising the day's most important items
+below. Lead with architecture, planning or real-estate items if present. No preamble,
+no heading, just the brief.
+
+ITEMS:
+{lines}
+"""
+    payload = {"contents": [{"parts": [{"text": prompt}]}],
+               "generationConfig": {"temperature": 0.3}}
+    try:
+        data = gemini_post(payload)
+        return data["candidates"][0]["content"]["parts"][0]["text"].strip()
+    except Exception:
+        return ""
+
+
 def main():
     if not API_KEY:
         sys.exit("GEMINI_API_KEY is not set.")
@@ -175,7 +208,8 @@ def main():
     preferences = (ROOT / "preferences.md").read_text(encoding="utf-8")
     drop_sections = [s.lower() for s in config.get("drop_sections", [])]
     seen = set(load_json(SEEN_FILE, []))
-    kept = load_json(ARTICLES_FILE, {}).get("items", [])
+    existing = load_json(ARTICLES_FILE, {})
+    kept = existing.get("items", [])
     kept_ids = {a["id"] for a in kept}
 
     candidates = []
@@ -210,7 +244,7 @@ def main():
             verdict = gemini_judge(preferences, feed["name"],
                                    feed.get("trusted", False), title, text)
         except Exception as e:
-            print(f"  ! skip (retry next run) {title[:50]}: {e}")
+            print(f"  ! skip (retry next run) {title[:45]}: {e}")
             continue
 
         seen.add(eid)
@@ -225,16 +259,26 @@ def main():
             })
             kept_ids.add(eid)
             added += 1
-            print(f"  + KEEP [{verdict['category']}] {title[:55]}")
+            print(f"  + KEEP [{verdict['category']}] {title[:50]}")
         else:
-            print(f"  - drop {title[:55]}")
+            print(f"  - drop {title[:50]}")
         time.sleep(SLEEP_BETWEEN_CALLS)
 
     kept.sort(key=lambda a: a.get("added_at", ""), reverse=True)
     kept = kept[:MAX_KEPT]
 
+    today = time.strftime("%Y-%m-%d", time.gmtime())
+    todays = [a for a in kept if a.get("added_at", "").startswith(today)]
+    brief = existing.get("brief", "")
+    if todays:
+        b = gemini_brief(todays)
+        if b:
+            brief = b
+    print(f"brief: {'generated' if todays else 'kept previous'}")
+
     ARTICLES_FILE.write_text(json.dumps(
         {"updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+         "brief": brief, "brief_date": today,
          "items": kept}, ensure_ascii=False, indent=2), encoding="utf-8")
     SEEN_FILE.write_text(json.dumps(list(seen)[-5000:]), encoding="utf-8")
     print(f"Done. {added} kept this run, {len(kept)} in feed.")
