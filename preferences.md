@@ -48,5 +48,4 @@ so "Martin skaut á foreldra sína" is personal drama, a DISCARD, not a crime st
 
 ## Things I'm into right now (update this whenever)
 
-- (add current obsessions here so they get surfaced — e.g. specific architects,
-  a competition, a neighbourhood, an upcoming vote)
+-ESB Talks
