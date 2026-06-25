@@ -40,6 +40,9 @@ CATEGORIES = {
 
 OG1 = re.compile(r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)(?::src)?["\'][^>]+content=["\']([^"\']+)["\']', re.I)
 OG2 = re.compile(r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)', re.I)
+LD_IMG = re.compile(r'"image"\s*:\s*(?:\{[^}]*?"url"\s*:\s*"([^"]+)"|"([^"]+)"|\[\s*\{?\s*(?:"url"\s*:\s*)?"([^"]+)")', re.I)
+IMG_TAG = re.compile(r'<img[^>]+(?:data-src|data-original|src)=["\']([^"\']+\.(?:jpe?g|png|webp)[^"\']*)["\']', re.I)
+_BAD_IMG = ("logo", "icon", "sprite", "placeholder", "avatar", "1x1", "blank", "default")
 
 
 def load_json(path, default):
@@ -63,7 +66,18 @@ def html_image(html):
     if not html:
         return ""
     m = OG1.search(html) or OG2.search(html)
-    return m.group(1).strip() if m else ""
+    if m:
+        return m.group(1).strip()
+    m = LD_IMG.search(html)
+    if m:
+        url = next((g for g in m.groups() if g), "")
+        if url:
+            return url.strip()
+    for m in IMG_TAG.finditer(html):
+        url = m.group(1).strip()
+        if url and not any(b in url.lower() for b in _BAD_IMG):
+            return url
+    return ""
 
 
 def feed_image(entry):
@@ -146,6 +160,15 @@ Write the summary in clear English, 2-3 sentences, plain language, jargon remove
 Set spin_flag=true ONLY if the headline oversells, misleads, or is one-sided versus
 the body; if so, spin_note explains the gap in one sentence (else empty string).
 
+Set "importance" 1-5: 5 = major/breaking that the owner must see (big policy,
+inflation/rate moves, major planning decision, serious crime, disaster); 3 = solid
+relevant news; 1 = minor/niche. Architecture, planning, real-estate and economy
+items the owner cares about should skew higher.
+
+Set "why_matters" to ONE short sentence explaining the real-world consequence, but
+ONLY for items that genuinely matter (policy, economy, planning, major news).
+For routine or light items leave it an empty string.
+
 SOURCE: {source}
 TITLE: {title}
 BODY:
@@ -162,12 +185,14 @@ BODY:
                     "keep":      {"type": "boolean"},
                     "category":  {"type": "string"},
                     "summary":   {"type": "string"},
+                    "importance":{"type": "integer"},
+                    "why_matters":{"type": "string"},
                     "spin_flag": {"type": "boolean"},
                     "spin_note": {"type": "string"},
                     "reason":    {"type": "string"},
                 },
-                "required": ["keep", "category", "summary", "spin_flag",
-                             "spin_note", "reason"],
+                "required": ["keep", "category", "summary", "importance",
+                             "why_matters", "spin_flag", "spin_note", "reason"],
             },
         },
     }
@@ -254,6 +279,8 @@ def main():
                 "source": feed["name"], "image": image,
                 "published": entry.get("published", "") or entry.get("updated", ""),
                 "category": verdict["category"], "summary": verdict["summary"],
+                "importance": verdict.get("importance", 3),
+                "why_matters": verdict.get("why_matters", ""),
                 "spin_flag": verdict["spin_flag"], "spin_note": verdict["spin_note"],
                 "added_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
             })
