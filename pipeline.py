@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fréttafilter — personal Icelandic news filter."""
+"""Fréttvaldur — personal Icelandic news filter."""
 
 import json
 import os
@@ -55,21 +55,43 @@ def in_dropped_section(entry, drop_sections):
     return any(s in blob for s in drop_sections)
 
 
-def fetch_body(url, fallback=""):
+def feed_image(entry):
+    """Pull an image URL straight from the RSS entry, if present."""
+    for key in ("media_content", "media_thumbnail"):
+        v = entry.get(key)
+        if v and isinstance(v, list) and v[0].get("url"):
+            return v[0]["url"]
+    for enc in entry.get("enclosures", []) or []:
+        if str(enc.get("type", "")).startswith("image") and enc.get("href"):
+            return enc["href"]
+    for link in entry.get("links", []) or []:
+        if link.get("rel") == "enclosure" and str(link.get("type", "")).startswith("image"):
+            return link.get("href", "")
+    return ""
+
+
+def fetch_article(url, fallback_text=""):
+    """Return (text, image) for one article."""
+    text, image = fallback_text[:6000], ""
     try:
         downloaded = trafilatura.fetch_url(url)
         if downloaded:
-            text = trafilatura.extract(downloaded, include_comments=False,
-                                       favor_precision=True)
-            if text and len(text) > 120:
-                return text[:6000]
+            t = trafilatura.extract(downloaded, include_comments=False,
+                                    favor_precision=True)
+            if t and len(t) > 120:
+                text = t[:6000]
+            try:
+                md = trafilatura.extract_metadata(downloaded)
+                if md and md.image:
+                    image = md.image
+            except Exception:
+                pass
     except Exception:
         pass
-    return fallback[:6000]
+    return text, image
 
 
 def gemini_post(payload):
-    """POST with retry/backoff on rate-limit (429) and transient (503)."""
     url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
            f"{MODEL}:generateContent?key={API_KEY}")
     body = json.dumps(payload).encode("utf-8")
@@ -92,7 +114,8 @@ def gemini_judge(preferences, source, trusted, title, body):
         "This source only publishes Icelandic building-industry news, so it is "
         "PRE-APPROVED: set keep=true. Still categorise, summarise and spin-check it."
         if trusted else
-        "Decide keep vs discard strictly against the preferences."
+        "Decide keep vs discard against the preferences. When it sits inside one of "
+        "the owner's topics but you are unsure, LEAN TOWARD keeping it."
     )
     prompt = f"""You curate a personal Icelandic news feed. Judge ONE article
 against the owner's preferences. The article is in Icelandic — read idiom in
@@ -107,9 +130,9 @@ context, never translate word-for-word.
 Pick the single best category key from:
 arkitektur, fasteignir, skipulag, efnahagur, frettir, menning
 
-Write the summary in clear English, 2–3 sentences, plain language, jargon removed.
-Set spin_flag=true ONLY if the headline oversells or misleads versus the body;
-if so, spin_note explains the gap in one sentence (else empty string).
+Write the summary in clear English, 2-3 sentences, plain language, jargon removed.
+Set spin_flag=true ONLY if the headline oversells, misleads, or is one-sided versus
+the body; if so, spin_note explains the gap in one sentence (else empty string).
 
 SOURCE: {source}
 TITLE: {title}
@@ -156,8 +179,11 @@ def main():
     kept_ids = {a["id"] for a in kept}
 
     candidates = []
+    print("--- feeds ---")
     for feed in config.get("feeds", []):
         parsed = feedparser.parse(feed["url"])
+        n_total = len(parsed.entries)
+        n_new = 0
         for entry in parsed.entries:
             eid = item_id(entry)
             if not eid or eid in seen:
@@ -166,26 +192,32 @@ def main():
                 seen.add(eid)
                 continue
             candidates.append((feed, entry, eid))
+            n_new += 1
+        flag = "  <-- EMPTY, check this feed URL" if n_total == 0 else ""
+        print(f"  {feed['name']}: {n_total} in feed, {n_new} new{flag}")
 
     candidates = candidates[:MAX_PER_RUN]
-    print(f"{len(candidates)} new article(s) to judge")
+    print(f"--- judging {len(candidates)} ---")
 
     added = 0
     for feed, entry, eid in candidates:
         title = entry.get("title", "").strip()
-        body = fetch_body(entry.get("link", ""), fallback=entry.get("summary", ""))
+        text, image = fetch_article(entry.get("link", ""),
+                                    fallback_text=entry.get("summary", ""))
+        if not image:
+            image = feed_image(entry)
         try:
             verdict = gemini_judge(preferences, feed["name"],
-                                   feed.get("trusted", False), title, body)
+                                   feed.get("trusted", False), title, text)
         except Exception as e:
-            print(f"  ! skip (will retry next run) {title[:50]}: {e}")
-            continue          # not marked seen -> retried next time
+            print(f"  ! skip (retry next run) {title[:50]}: {e}")
+            continue
 
         seen.add(eid)
         if verdict.get("keep") and eid not in kept_ids:
             kept.append({
                 "id": eid, "title": title, "link": entry.get("link", ""),
-                "source": feed["name"],
+                "source": feed["name"], "image": image,
                 "published": entry.get("published", "") or entry.get("updated", ""),
                 "category": verdict["category"], "summary": verdict["summary"],
                 "spin_flag": verdict["spin_flag"], "spin_note": verdict["spin_note"],
@@ -193,9 +225,9 @@ def main():
             })
             kept_ids.add(eid)
             added += 1
-            print(f"  + KEEP [{verdict['category']}] {title[:60]}")
+            print(f"  + KEEP [{verdict['category']}] {title[:55]}")
         else:
-            print(f"  - drop {title[:60]}")
+            print(f"  - drop {title[:55]}")
         time.sleep(SLEEP_BETWEEN_CALLS)
 
     kept.sort(key=lambda a: a.get("added_at", ""), reverse=True)
