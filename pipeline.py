@@ -1,16 +1,5 @@
 #!/usr/bin/env python3
-"""
-Fréttafilter — personal Icelandic news filter.
-
-Runs on a schedule (GitHub Actions). For each new article it:
-  1. drops anything in a sport/gossip section for free (no AI),
-  2. fetches the full article body,
-  3. asks Gemini to decide keep/discard + category + summary + spin-check,
-     judged against preferences.md,
-  4. writes the survivors to docs/articles.json for the web app to read.
-
-You only edit preferences.md. You should not need to touch this file.
-"""
+"""Fréttafilter — personal Icelandic news filter."""
 
 import json
 import os
@@ -18,6 +7,7 @@ import pathlib
 import sys
 import time
 import urllib.request
+import urllib.error
 
 import feedparser
 import trafilatura
@@ -34,11 +24,9 @@ SEEN_FILE = STATE / "seen.json"
 API_KEY = os.environ.get("GEMINI_API_KEY")
 MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 
-# Keep the run gentle on the free tier and quick: process at most this many
-# brand-new articles per run. Anything beyond is picked up next hour.
 MAX_PER_RUN = 40
-SLEEP_BETWEEN_CALLS = 4.0          # seconds, stays under the free-tier RPM ceiling
-MAX_KEPT = 250                     # cap the size of the feed the app reads
+SLEEP_BETWEEN_CALLS = 6.0
+MAX_KEPT = 250
 
 CATEGORIES = {
     "arkitektur": "Architecture & design",
@@ -49,8 +37,6 @@ CATEGORIES = {
     "menning":    "Culture",
 }
 
-
-# ----------------------------------------------------------------------------- helpers
 
 def load_json(path, default):
     try:
@@ -82,17 +68,32 @@ def fetch_body(url, fallback=""):
     return fallback[:6000]
 
 
-# ----------------------------------------------------------------------------- Gemini
+def gemini_post(payload):
+    """POST with retry/backoff on rate-limit (429) and transient (503)."""
+    url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
+           f"{MODEL}:generateContent?key={API_KEY}")
+    body = json.dumps(payload).encode("utf-8")
+    for attempt in range(4):
+        try:
+            req = urllib.request.Request(
+                url, data=body,
+                headers={"Content-Type": "application/json"}, method="POST")
+            with urllib.request.urlopen(req, timeout=90) as resp:
+                return json.loads(resp.read().decode("utf-8"))
+        except urllib.error.HTTPError as e:
+            if e.code in (429, 503) and attempt < 3:
+                time.sleep(12 * (attempt + 1))
+                continue
+            raise
+
 
 def gemini_judge(preferences, source, trusted, title, body):
-    """Return a dict: keep, category, summary, spin_flag, spin_note, reason."""
     trusted_note = (
         "This source only publishes Icelandic building-industry news, so it is "
         "PRE-APPROVED: set keep=true. Still categorise, summarise and spin-check it."
         if trusted else
         "Decide keep vs discard strictly against the preferences."
     )
-
     prompt = f"""You curate a personal Icelandic news feed. Judge ONE article
 against the owner's preferences. The article is in Icelandic — read idiom in
 context, never translate word-for-word.
@@ -115,7 +116,6 @@ TITLE: {title}
 BODY:
 {body}
 """
-
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {
@@ -136,24 +136,13 @@ BODY:
             },
         },
     }
-
-    url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
-           f"{MODEL}:generateContent?key={API_KEY}")
-    req = urllib.request.Request(
-        url, data=json.dumps(payload).encode("utf-8"),
-        headers={"Content-Type": "application/json"}, method="POST")
-
-    with urllib.request.urlopen(req, timeout=90) as resp:
-        data = json.loads(resp.read().decode("utf-8"))
-
+    data = gemini_post(payload)
     text = data["candidates"][0]["content"]["parts"][0]["text"]
     out = json.loads(text)
     if out.get("category") not in CATEGORIES:
         out["category"] = "frettir"
     return out
 
-
-# ----------------------------------------------------------------------------- main
 
 def main():
     if not API_KEY:
@@ -166,7 +155,6 @@ def main():
     kept = load_json(ARTICLES_FILE, {}).get("items", [])
     kept_ids = {a["id"] for a in kept}
 
-    # gather brand-new candidates
     candidates = []
     for feed in config.get("feeds", []):
         parsed = feedparser.parse(feed["url"])
@@ -175,7 +163,7 @@ def main():
             if not eid or eid in seen:
                 continue
             if not feed.get("trusted") and in_dropped_section(entry, drop_sections):
-                seen.add(eid)                      # junk section: drop, never AI it
+                seen.add(eid)
                 continue
             candidates.append((feed, entry, eid))
 
@@ -184,29 +172,23 @@ def main():
 
     added = 0
     for feed, entry, eid in candidates:
-        seen.add(eid)
         title = entry.get("title", "").strip()
-        body = fetch_body(entry.get("link", ""),
-                          fallback=entry.get("summary", ""))
+        body = fetch_body(entry.get("link", ""), fallback=entry.get("summary", ""))
         try:
             verdict = gemini_judge(preferences, feed["name"],
                                    feed.get("trusted", False), title, body)
         except Exception as e:
-            print(f"  ! skip (API error) {title[:50]}: {e}")
-            continue
+            print(f"  ! skip (will retry next run) {title[:50]}: {e}")
+            continue          # not marked seen -> retried next time
 
+        seen.add(eid)
         if verdict.get("keep") and eid not in kept_ids:
             kept.append({
-                "id": eid,
-                "title": title,
-                "link": entry.get("link", ""),
+                "id": eid, "title": title, "link": entry.get("link", ""),
                 "source": feed["name"],
-                "published": entry.get("published", "")
-                             or entry.get("updated", ""),
-                "category": verdict["category"],
-                "summary": verdict["summary"],
-                "spin_flag": verdict["spin_flag"],
-                "spin_note": verdict["spin_note"],
+                "published": entry.get("published", "") or entry.get("updated", ""),
+                "category": verdict["category"], "summary": verdict["summary"],
+                "spin_flag": verdict["spin_flag"], "spin_note": verdict["spin_note"],
                 "added_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
             })
             kept_ids.add(eid)
@@ -214,10 +196,8 @@ def main():
             print(f"  + KEEP [{verdict['category']}] {title[:60]}")
         else:
             print(f"  - drop {title[:60]}")
-
         time.sleep(SLEEP_BETWEEN_CALLS)
 
-    # newest first, capped
     kept.sort(key=lambda a: a.get("added_at", ""), reverse=True)
     kept = kept[:MAX_KEPT]
 
@@ -225,7 +205,6 @@ def main():
         {"updated": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
          "items": kept}, ensure_ascii=False, indent=2), encoding="utf-8")
     SEEN_FILE.write_text(json.dumps(list(seen)[-5000:]), encoding="utf-8")
-
     print(f"Done. {added} kept this run, {len(kept)} in feed.")
 
 
