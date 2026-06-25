@@ -14,99 +14,108 @@
   :root{
     --bg:#0E100F; --surface:#151817; --surface2:#1C201E; --line:#272C29;
     --text:#F1F3F0; --muted:#868F89;
-    --green:#7FE0A3; --green-dim:#5FB281;
-    --green-wash:rgba(127,224,163,.12); --green-line:rgba(127,224,163,.35);
+    --green:#7FE0A3; --green-wash:rgba(127,224,163,.12); --green-line:rgba(127,224,163,.35);
+    --r-arkitektur:#7FE0A3; --r-skipulag:#7FC9E0; --r-fasteignir:#E0C97F;
+    --r-efnahagur:#9BB4E0; --r-frettir:#E09B9B; --r-menning:#C99BE0;
   }
   *{box-sizing:border-box}
   html,body{margin:0}
-  body{
-    background:var(--bg); color:var(--text);
+  body{background:var(--bg);color:var(--text);
     font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
-    -webkit-font-smoothing:antialiased; padding-bottom:env(safe-area-inset-bottom);
-  }
+    -webkit-font-smoothing:antialiased;padding-bottom:env(safe-area-inset-bottom)}
   a{color:inherit;text-decoration:none}
   .mono{font-family:"IBM Plex Mono",ui-monospace,monospace}
-  .wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+  .wrap{max-width:1120px;margin:0 auto;padding:0 22px}
 
+  /* masthead */
   header{position:sticky;top:0;z-index:20;
-    background:rgba(14,16,15,.86);backdrop-filter:blur(14px);
+    background:rgba(14,16,15,.9);backdrop-filter:blur(14px);
     border-bottom:1px solid var(--line);padding-top:env(safe-area-inset-top)}
-  .top{display:flex;align-items:baseline;justify-content:space-between;gap:12px;
-    padding:15px 0 0}
+  .top{display:flex;align-items:center;justify-content:space-between;gap:14px;
+    padding:16px 0 14px}
+  .brand{display:flex;align-items:center;gap:11px}
+  .brand svg{display:block;flex:none}
   .mark{font-family:"Space Grotesk",sans-serif;font-weight:700;letter-spacing:-.02em;
-    font-size:22px}
+    font-size:25px;line-height:1}
   .mark span{color:var(--green)}
   .meta{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);
     white-space:nowrap;text-align:right}
   .meta b{color:var(--green);font-weight:500}
-  .chips{display:flex;gap:8px;overflow-x:auto;padding:13px 0;scrollbar-width:none}
+  .navbar{border-top:1px solid var(--line)}
+  .chips{display:flex;gap:0;overflow-x:auto;scrollbar-width:none}
   .chips::-webkit-scrollbar{display:none}
-  .chip{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.05em;
-    text-transform:uppercase;border:1px solid var(--line);background:transparent;
-    color:var(--muted);padding:7px 13px;border-radius:6px;white-space:nowrap;cursor:pointer}
-  .chip[aria-pressed="true"]{background:var(--green-wash);color:var(--green);
-    border-color:var(--green-line)}
+  .chip{font-family:"IBM Plex Mono",monospace;font-size:12.5px;letter-spacing:.06em;
+    text-transform:uppercase;border:0;border-bottom:2px solid transparent;
+    background:transparent;color:var(--muted);padding:13px 16px;white-space:nowrap;
+    cursor:pointer}
+  .chip:hover{color:var(--text)}
+  .chip[aria-pressed="true"]{color:var(--green);border-bottom-color:var(--green)}
 
-  main{padding:22px 0 70px}
+  main{padding:24px 0 72px}
 
-  /* today's brief */
   .brief{background:var(--green-wash);border:1px solid var(--green-line);
     border-radius:10px;padding:16px 18px;margin-bottom:26px}
   .brief .lbl{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.12em;
     text-transform:uppercase;color:var(--green);margin-bottom:7px}
-  .brief p{margin:0;font-size:15px;line-height:1.6;color:var(--text)}
+  .brief p{margin:0;font-size:15px;line-height:1.6}
 
-  /* source monogram */
+  .ribbon{position:absolute;top:11px;left:11px;z-index:2;
+    font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.06em;
+    text-transform:uppercase;padding:3px 9px;border-radius:5px;
+    backdrop-filter:blur(6px);font-weight:500}
   .src{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.04em;
     color:var(--text);border:1px solid var(--line);border-radius:4px;
     padding:2px 6px;background:var(--surface2)}
   .eyebrow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;
     font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.05em;
     text-transform:uppercase;color:var(--muted)}
-  .cat{color:var(--green);font-weight:500}
   .new{color:var(--bg);background:var(--green);border-radius:4px;padding:2px 6px;
     font-weight:500;letter-spacing:.06em}
 
+  .why{margin-top:10px;padding-left:11px;border-left:2px solid var(--green-line);
+    font-size:13.5px;line-height:1.5;color:#CBD2CC}
+  .why b{font-family:"IBM Plex Mono",monospace;font-size:10px;letter-spacing:.08em;
+    text-transform:uppercase;color:var(--green);display:block;margin-bottom:3px;font-weight:500}
+
   /* hero */
-  .hero{position:relative;display:block;border-radius:12px;overflow:hidden;
-    margin-bottom:26px;background:var(--surface);border:1px solid var(--line);
-    min-height:300px}
-  .hero img{width:100%;height:100%;min-height:300px;max-height:480px;object-fit:cover;
-    display:block;opacity:.62}
+  .hero{position:relative;display:block;border-radius:13px;overflow:hidden;
+    margin-bottom:26px;background:var(--surface);border:1px solid var(--line);min-height:320px}
+  .hero img{width:100%;height:100%;min-height:320px;max-height:500px;object-fit:cover;
+    display:block;opacity:.6}
   .hero .overlay{position:absolute;inset:0;
-    background:linear-gradient(to top,rgba(8,9,8,.94) 8%,rgba(8,9,8,.25) 70%,transparent)}
-  .hero .ctext{position:absolute;left:0;right:0;bottom:0;padding:24px}
+    background:linear-gradient(to top,rgba(8,9,8,.95) 6%,rgba(8,9,8,.2) 72%,transparent)}
+  .hero .ctext{position:absolute;left:0;right:0;bottom:0;padding:26px}
   .hero h1{font-family:"Space Grotesk",sans-serif;font-weight:700;letter-spacing:-.015em;
-    font-size:clamp(24px,3.4vw,38px);line-height:1.1;margin:10px 0 10px;color:#fff}
-  .hero .sum{font-size:15px;color:#D6DAD6;margin:0;max-width:620px}
+    font-size:clamp(25px,3.6vw,40px);line-height:1.08;margin:10px 0 10px;color:#fff;max-width:760px}
+  .hero .sum{font-size:15.5px;color:#D6DAD6;margin:0;max-width:660px}
+  .hero .why{border-left-color:var(--green);max-width:660px}
   .hero.noimg{min-height:0}
-  .hero.noimg .ctext{position:static;padding:22px}
+  .hero.noimg .overlay{display:none}
+  .hero.noimg .ctext{position:static;padding:24px}
   .hero.noimg h1{color:var(--text)}
 
-  /* grid */
   .grid{display:grid;grid-template-columns:1fr;gap:18px}
   @media(min-width:640px){.grid{grid-template-columns:1fr 1fr}}
   @media(min-width:980px){.grid{grid-template-columns:1fr 1fr 1fr}}
 
-  .card{display:flex;flex-direction:column;background:var(--surface);
-    border:1px solid var(--line);border-radius:10px;overflow:hidden}
-  .card .thumb{width:100%;aspect-ratio:16/10;background:var(--surface2);overflow:hidden}
+  .card{position:relative;display:flex;flex-direction:column;background:var(--surface);
+    border:1px solid var(--line);border-radius:11px;overflow:hidden}
+  .card .thumb{position:relative;width:100%;aspect-ratio:16/10;background:var(--surface2);overflow:hidden}
   .card .thumb img{width:100%;height:100%;object-fit:cover;display:block}
   .card .body{padding:14px 15px 13px;display:flex;flex-direction:column;flex:1}
   .card h2{font-family:"Space Grotesk",sans-serif;font-weight:600;letter-spacing:-.01em;
     font-size:18px;line-height:1.28;margin:9px 0 7px}
   .card a.t:hover h2{color:var(--green)}
-  .card .sum{color:#C0C5C0;font-size:14px;margin:0 0 4px}
+  .card .sum{color:#C0C5C0;font-size:14px;margin:0}
   .spin{display:flex;gap:7px;margin-top:10px;padding:8px 10px;border-radius:5px;
-    background:rgba(224,163,127,.1);border:1px solid rgba(224,163,127,.3);
-    font-family:"IBM Plex Mono",monospace;font-size:11px;line-height:1.45;color:#E6B79B}
+    background:rgba(224,155,155,.1);border:1px solid rgba(224,155,155,.3);
+    font-family:"IBM Plex Mono",monospace;font-size:11px;line-height:1.45;color:#E6AFAF}
   .actions{display:flex;gap:8px;margin-top:auto;padding-top:12px}
   .vote{font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.03em;
     border:1px solid var(--line);background:transparent;color:var(--muted);
     padding:6px 10px;border-radius:5px;cursor:pointer}
   .vote:hover{border-color:var(--muted);color:var(--text)}
-  .vote[aria-pressed="true"]{border-color:var(--green-line);color:var(--green);
-    background:var(--green-wash)}
+  .vote[aria-pressed="true"]{border-color:var(--green-line);color:var(--green);background:var(--green-wash)}
 
   .empty{font-family:"IBM Plex Mono",monospace;color:var(--muted);font-size:13px;
     text-align:center;padding:80px 20px;line-height:1.7}
@@ -119,7 +128,7 @@
   @media(prefers-reduced-motion:no-preference){
     .hero,.card{animation:rise .4s ease both}
     @keyframes rise{from{opacity:0;transform:translateY(7px)}to{opacity:1;transform:none}}
-    h1,h2,.vote{transition:color .15s,border-color .15s,background .15s}
+    h1,h2,.vote,.chip{transition:color .15s,border-color .15s,background .15s}
   }
 </style>
 </head>
@@ -127,144 +136,115 @@
 <header>
   <div class="wrap">
     <div class="top">
-      <div class="mark">FRÉTT<span>VALDUR</span></div>
+      <div class="brand">
+        <svg width="30" height="30" viewBox="0 0 30 30" fill="none">
+          <rect x="2.5" y="2.5" width="25" height="25" rx="4" stroke="#7FE0A3" stroke-width="2"/>
+          <rect x="8" y="15" width="3.4" height="8" fill="#7FE0A3"/>
+          <rect x="13.3" y="10" width="3.4" height="13" fill="#F1F3F0"/>
+          <rect x="18.6" y="7" width="3.4" height="16" fill="#7FE0A3"/>
+        </svg>
+        <div class="mark">FRÉTT<span>VALDUR</span></div>
+      </div>
       <div class="meta mono" id="meta"></div>
     </div>
-    <div class="chips" id="chips"></div>
   </div>
+  <div class="navbar"><div class="wrap"><div class="chips" id="chips"></div></div></div>
 </header>
 
 <main><div class="wrap" id="feed"></div></main>
 
 <script>
-const CATS = {
-  arkitektur:"Arkitektúr", fasteignir:"Fasteignir", skipulag:"Skipulag",
-  efnahagur:"Efnahagur", frettir:"Fréttir", menning:"Menning"
-};
+const CATS = {arkitektur:"Arkitektúr",fasteignir:"Fasteignir",skipulag:"Skipulag",
+  efnahagur:"Efnahagur",frettir:"Fréttir",menning:"Menning"};
 const PRIORITY = ["arkitektur","skipulag","fasteignir"];
-let DATA = {items:[]}, FILTER = "all";
-const votes = JSON.parse(localStorage.getItem("votes") || "{}");
-const prevVisit = localStorage.getItem("lastVisit") || "";
+let DATA={items:[]}, FILTER="all";
+const votes=JSON.parse(localStorage.getItem("votes")||"{}");
+const prevVisit=localStorage.getItem("lastVisit")||"";
 
 function esc(s){return (s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));}
-function relTime(iso){
-  if(!iso) return "";
-  const d=new Date(iso); if(isNaN(d)) return "";
+function relTime(iso){if(!iso)return"";const d=new Date(iso);if(isNaN(d))return"";
   const m=Math.round((Date.now()-d)/60000);
-  if(m<1) return "núna"; if(m<60) return m+" mín";
-  if(m<1440) return Math.round(m/60)+" klst"; return Math.round(m/1440)+" d";
-}
-function isNew(a){ return prevVisit && (a.added_at||"") > prevVisit; }
+  if(m<1)return"núna";if(m<60)return m+" mín";
+  if(m<1440)return Math.round(m/60)+" klst";return Math.round(m/1440)+" d";}
+function isNew(a){return prevVisit&&(a.added_at||"")>prevVisit;}
+function ribbon(a){const c=`var(--r-${a.category})`;
+  return `<span class="ribbon" style="color:${c};background:color-mix(in srgb,${c} 16%,transparent);border:1px solid color-mix(in srgb,${c} 34%,transparent)">${CATS[a.category]||a.category}</span>`;}
 
-function interleave(arr){
-  const b={}; arr.forEach(a=>{(b[a.source]=b[a.source]||[]).push(a);});
-  const keys=Object.keys(b), out=[]; let go=true;
-  while(go){ go=false; for(const k of keys){ if(b[k].length){ out.push(b[k].shift()); go=true; } } }
-  return out;
-}
+function interleave(arr){const b={};arr.forEach(a=>{(b[a.source]=b[a.source]||[]).push(a);});
+  const keys=Object.keys(b),out=[];let go=true;
+  while(go){go=false;for(const k of keys){if(b[k].length){out.push(b[k].shift());go=true;}}}return out;}
 function ordered(){
-  let items = DATA.items.filter(a => FILTER==="all" || a.category===FILTER);
+  let items=DATA.items.filter(a=>FILTER==="all"||a.category===FILTER);
   items.sort((a,b)=>(b.added_at||"").localeCompare(a.added_at||""));
-  if(FILTER!=="all") return items;
-  const pri = items.filter(a=>PRIORITY.includes(a.category));
-  const rest = items.filter(a=>!PRIORITY.includes(a.category));
-  return [...interleave(pri), ...interleave(rest)];
-}
+  if(FILTER!=="all")return items;
+  const pri=items.filter(a=>PRIORITY.includes(a.category));
+  const rest=items.filter(a=>!PRIORITY.includes(a.category));
+  return [...interleave(pri),...interleave(rest)];}
+function pickHero(items){
+  return [...items].sort((a,b)=>{
+    const ia=a.importance||3,ib=b.importance||3; if(ib!==ia)return ib-ia;
+    const pa=PRIORITY.includes(a.category)?0:1,pb=PRIORITY.includes(b.category)?0:1;
+    if(pa!==pb)return pa-pb; return (b.added_at||"").localeCompare(a.added_at||"");
+  })[0];}
 
-function eyebrow(a){
-  return `<div class="eyebrow">
-    <span class="cat">${CATS[a.category]||a.category}</span>
-    <span class="src">${esc(a.source)}</span>
-    ${a.published?`<span>${relTime(a.published)}</span>`:""}
-    ${isNew(a)?`<span class="new">NÝTT</span>`:""}
-  </div>`;
-}
-function votesHTML(a){
-  const v=votes[a.id]||0;
+function eyebrow(a){return `<div class="eyebrow">
+  <span class="src">${esc(a.source)}</span>
+  ${a.published?`<span>${relTime(a.published)}</span>`:""}
+  ${isNew(a)?`<span class="new">NÝTT</span>`:""}</div>`;}
+function whyHTML(a){return a.why_matters?`<div class="why"><b>Hví þetta skiptir máli</b>${esc(a.why_matters)}</div>`:"";}
+function votesHTML(a){const v=votes[a.id]||0;
   return `<div class="actions">
     <button class="vote" aria-pressed="${v===1}" onclick="vote('${a.id}',1)">Meira svona</button>
-    <button class="vote" aria-pressed="${v===-1}" onclick="vote('${a.id}',-1)">Ekki sýna</button>
-  </div>`;
-}
+    <button class="vote" aria-pressed="${v===-1}" onclick="vote('${a.id}',-1)">Ekki sýna</button></div>`;}
 
 function heroHTML(a){
-  if(!a) return "";
-  const img = a.image
-    ? `<img loading="eager" src="${esc(a.image)}" onerror="this.closest('.hero').classList.add('noimg');this.remove()">`
-    : "";
+  if(!a)return"";
+  const img=a.image?`<img loading="eager" src="${esc(a.image)}" onerror="this.closest('.hero').classList.add('noimg');this.remove()">`:"";
   return `<a class="hero ${a.image?'':'noimg'}" href="${esc(a.link)}" target="_blank" rel="noopener">
-    ${img}<div class="overlay"></div>
+    ${ribbon(a)}${img}<div class="overlay"></div>
     <div class="ctext">${eyebrow(a)}<h1>${esc(a.title)}</h1>
-      <p class="sum">${esc(a.summary)}</p></div>
-  </a>`;
-}
+      <p class="sum">${esc(a.summary)}</p>${whyHTML(a)}</div></a>`;}
 function cardHTML(a){
-  const img = a.image
-    ? `<div class="thumb"><img loading="lazy" src="${esc(a.image)}" onerror="this.closest('.thumb').remove()"></div>`
-    : "";
+  const img=a.image?`<div class="thumb">${ribbon(a)}<img loading="lazy" src="${esc(a.image)}" onerror="this.closest('.thumb').remove()"></div>`:"";
+  const ribInline=a.image?"":ribbon(a);
   return `<article class="card">${img}<div class="body">
+    ${ribInline?`<div style="margin-bottom:8px">${ribInline}</div>`:""}
     ${eyebrow(a)}
     <a class="t" href="${esc(a.link)}" target="_blank" rel="noopener"><h2>${esc(a.title)}</h2></a>
-    <p class="sum">${esc(a.summary)}</p>
+    <p class="sum">${esc(a.summary)}</p>${whyHTML(a)}
     ${a.spin_flag?`<div class="spin mono">⚠&nbsp;<span>${esc(a.spin_note)}</span></div>`:""}
-    ${votesHTML(a)}</div></article>`;
-}
+    ${votesHTML(a)}</div></article>`;}
 
 function render(){
   const feed=document.getElementById("feed");
   const list=ordered();
-  const brief = (FILTER==="all" && DATA.brief)
-    ? `<div class="brief"><div class="lbl">Í dag</div><p>${esc(DATA.brief)}</p></div>` : "";
-  if(!list.length){
-    feed.innerHTML = brief + `<div class="empty">Engar fréttir í þessum flokki enn.<br>
-      Síðan uppfærist sjálfkrafa á klukkutíma fresti.</div>`;
-    return;
-  }
-  const hero = FILTER==="all" ? heroHTML(list[0]) : "";
-  const rest = FILTER==="all" ? list.slice(1) : list;
-  feed.innerHTML = brief + hero +
-    `<div class="grid">${rest.map(cardHTML).join("")}</div>` +
-    `<div class="tools"><button onclick="exportVotes()">Sækja umsagnir til að uppfæra preferences</button></div>`;
-}
+  const brief=(FILTER==="all"&&DATA.brief)?`<div class="brief"><div class="lbl">Í dag</div><p>${esc(DATA.brief)}</p></div>`:"";
+  if(!list.length){feed.innerHTML=brief+`<div class="empty">Engar fréttir í þessum flokki enn.<br>
+    Síðan uppfærist sjálfkrafa á klukkutíma fresti.</div>`;return;}
+  let hero="",rest=list;
+  if(FILTER==="all"){const h=pickHero(list);hero=heroHTML(h);rest=list.filter(a=>a.id!==h.id);}
+  feed.innerHTML=brief+hero+`<div class="grid">${rest.map(cardHTML).join("")}</div>`+
+    `<div class="tools"><button onclick="exportVotes()">Sækja umsagnir til að uppfæra preferences</button></div>`;}
 
-function vote(id,val){
-  votes[id]=(votes[id]===val)?0:val;
-  localStorage.setItem("votes",JSON.stringify(votes));
-  render();
-}
-function exportVotes(){
-  const L=[],D=[];
-  DATA.items.forEach(a=>{ if(votes[a.id]===1)L.push("• "+a.title); if(votes[a.id]===-1)D.push("• "+a.title); });
+function vote(id,val){votes[id]=(votes[id]===val)?0:val;localStorage.setItem("votes",JSON.stringify(votes));render();}
+function exportVotes(){const L=[],D=[];
+  DATA.items.forEach(a=>{if(votes[a.id]===1)L.push("• "+a.title);if(votes[a.id]===-1)D.push("• "+a.title);});
   navigator.clipboard?.writeText("KEEP more like:\n"+L.join("\n")+"\n\nDROP, don't show:\n"+D.join("\n"));
-  alert("Afritað. Límdu inn í preferences.md til að kenna síunni.");
-}
-function chips(){
-  const wrap=document.getElementById("chips");
-  const all=["all",...Object.keys(CATS)];
-  wrap.innerHTML=all.map(k=>{
-    const label=k==="all"?"Allt":CATS[k];
-    return `<button class="chip" aria-pressed="${FILTER===k}"
-      onclick="FILTER='${k}';chips();render()">${label}</button>`;
-  }).join("");
-}
+  alert("Afritað. Límdu inn í preferences.md til að kenna síunni.");}
+function chips(){const wrap=document.getElementById("chips");const all=["all",...Object.keys(CATS)];
+  wrap.innerHTML=all.map(k=>{const label=k==="all"?"Allt":CATS[k];
+    return `<button class="chip" aria-pressed="${FILTER===k}" onclick="FILTER='${k}';chips();render()">${label}</button>`;}).join("");}
 
 fetch("articles.json?t="+Date.now()).then(r=>r.json()).then(d=>{
   DATA=d;
   const newCount=(d.items||[]).filter(isNew).length;
-  document.getElementById("meta").innerHTML =
-    (newCount?`<b>${newCount} nýjar</b> · `:"") +
-    (d.updated?"uppfært "+relTime(d.updated)+" síðan":"");
-  chips(); render();
-  // stamp this visit AFTER computing what's new
+  document.getElementById("meta").innerHTML=(newCount?`<b>${newCount} nýjar</b> · `:"")+(d.updated?"uppfært "+relTime(d.updated)+" síðan":"");
+  chips();render();
   const newest=(d.items||[]).reduce((m,a)=>(a.added_at>m?a.added_at:m),"");
-  if(newest) localStorage.setItem("lastVisit",newest);
-}).catch(()=>{
-  document.getElementById("feed").innerHTML =
-    `<div class="empty">Næ ekki í fréttir. Hefur keyrslan klárast einu sinni?</div>`;
-  chips();
-});
+  if(newest)localStorage.setItem("lastVisit",newest);
+}).catch(()=>{document.getElementById("feed").innerHTML=`<div class="empty">Næ ekki í fréttir. Hefur keyrslan klárast einu sinni?</div>`;chips();});
 
-if("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(()=>{});
+if("serviceWorker" in navigator)navigator.serviceWorker.register("sw.js").catch(()=>{});
 </script>
 </body>
 </html>
