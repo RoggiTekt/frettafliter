@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Fréttafilter</title>
+<meta name="theme-color" content="#E7E6E1">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#E7E6E1; --card:#F3F1EB; --ink:#1B1D1F; --muted:#6A6D70;
+    --line:#D4D1C9; --accent:#2B3A55;
+    --c-arkitektur:#2B3A55; --c-fasteignir:#6E7B5B; --c-skipulag:#8A6D3B;
+    --c-efnahagur:#3F5E5A; --c-frettir:#7A3B3B; --c-menning:#5B4B6E;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0}
+  body{
+    background:var(--paper); color:var(--ink);
+    font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+    -webkit-font-smoothing:antialiased;
+    padding-bottom:env(safe-area-inset-bottom);
+  }
+  a{color:inherit;text-decoration:none}
+  .mono{font-family:"IBM Plex Mono",ui-monospace,monospace}
+
+  header{
+    position:sticky;top:0;z-index:10;background:var(--paper);
+    border-bottom:1px solid var(--line);
+    padding:calc(env(safe-area-inset-top) + 14px) 18px 0;
+  }
+  .bar{display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+  .mark{font-family:"Space Grotesk",sans-serif;font-weight:700;letter-spacing:-.02em;
+    font-size:19px}
+  .mark span{color:var(--accent)}
+  .updated{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);
+    white-space:nowrap}
+  .chips{display:flex;gap:7px;overflow-x:auto;padding:13px 0 12px;
+    scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.04em;
+    text-transform:uppercase;border:1px solid var(--line);background:transparent;
+    color:var(--muted);padding:6px 11px;border-radius:999px;white-space:nowrap;
+    cursor:pointer}
+  .chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);
+    border-color:var(--ink)}
+
+  main{max-width:660px;margin:0 auto;padding:8px 18px 60px}
+
+  .card{position:relative;background:var(--card);border:1px solid var(--line);
+    border-left:3px solid var(--muted);border-radius:4px;
+    padding:14px 16px 12px;margin:14px 0}
+  .eyebrow{display:flex;flex-wrap:wrap;gap:9px;align-items:center;
+    font-family:"IBM Plex Mono",monospace;font-size:10.5px;letter-spacing:.05em;
+    text-transform:uppercase;color:var(--muted);margin-bottom:8px}
+  .cat{font-weight:500}
+  .dot{width:3px;height:3px;border-radius:50%;background:var(--muted)}
+  h2{font-family:"Space Grotesk",sans-serif;font-weight:600;letter-spacing:-.01em;
+    font-size:18px;line-height:1.28;margin:0 0 7px}
+  .summary{color:#34373A;font-size:15px;margin:0}
+  .spin{display:flex;gap:7px;margin-top:10px;padding:8px 10px;border-radius:3px;
+    background:#F0E7DC;border:1px solid #E2D2BE;
+    font-family:"IBM Plex Mono",monospace;font-size:11.5px;line-height:1.45;
+    color:#7A5A2E}
+  .actions{display:flex;gap:8px;margin-top:11px;padding-top:11px;
+    border-top:1px solid var(--line)}
+  .vote{font-family:"IBM Plex Mono",monospace;font-size:11px;letter-spacing:.03em;
+    border:1px solid var(--line);background:transparent;color:var(--muted);
+    padding:5px 10px;border-radius:3px;cursor:pointer}
+  .vote[aria-pressed="true"]{border-color:var(--ink);color:var(--ink);font-weight:500}
+
+  .empty{font-family:"IBM Plex Mono",monospace;color:var(--muted);font-size:13px;
+    text-align:center;padding:70px 20px;line-height:1.6}
+  .tools{text-align:center;margin-top:28px}
+  .tools button{font-family:"IBM Plex Mono",monospace;font-size:11px;color:var(--muted);
+    background:none;border:none;text-decoration:underline;cursor:pointer}
+
+  a:focus-visible,.chip:focus-visible,.vote:focus-visible,button:focus-visible{
+    outline:2px solid var(--accent);outline-offset:2px}
+  @media(prefers-reduced-motion:no-preference){
+    .card{transition:border-left-color .2s}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <div class="mark">FRÉTTA<span>FILTER</span></div>
+    <div class="updated mono" id="updated"></div>
+  </div>
+  <div class="chips" id="chips"></div>
+</header>
+
+<main id="feed"></main>
+
+<script>
+const CATS = {
+  arkitektur:"Arkitektúr", fasteignir:"Fasteignir", skipulag:"Skipulag",
+  efnahagur:"Efnahagur", frettir:"Fréttir", menning:"Menning"
+};
+let ITEMS = [], FILTER = "all";
+const votes = JSON.parse(localStorage.getItem("votes") || "{}");
+
+function relTime(iso){
+  if(!iso) return "";
+  const d = new Date(iso); if(isNaN(d)) return "";
+  const m = Math.round((Date.now()-d)/60000);
+  if(m<60) return m+" mín";
+  if(m<1440) return Math.round(m/60)+" klst";
+  return Math.round(m/1440)+" d";
+}
+
+function vote(id,val){
+  votes[id] = (votes[id]===val) ? 0 : val;
+  localStorage.setItem("votes", JSON.stringify(votes));
+  render();
+}
+
+function render(){
+  const feed = document.getElementById("feed");
+  const shown = ITEMS.filter(a => FILTER==="all" || a.category===FILTER);
+  if(!shown.length){
+    feed.innerHTML = `<div class="empty">Engar fréttir í þessum flokki enn.<br>
+      Keyrslan uppfærir á klukkutíma fresti.</div>`;
+    return;
+  }
+  feed.innerHTML = shown.map(a=>{
+    const col = `var(--c-${a.category})`;
+    const v = votes[a.id] || 0;
+    return `<article class="card" style="border-left-color:${col}">
+      <div class="eyebrow">
+        <span class="cat" style="color:${col}">${CATS[a.category]||a.category}</span>
+        <span class="dot"></span><span>${a.source}</span>
+        ${a.published?`<span class="dot"></span><span>${relTime(a.published)}</span>`:""}
+      </div>
+      <a href="${a.link}" target="_blank" rel="noopener"><h2>${a.title}</h2></a>
+      <p class="summary">${a.summary||""}</p>
+      ${a.spin_flag?`<div class="spin mono">⚠&nbsp;<span>${a.spin_note}</span></div>`:""}
+      <div class="actions">
+        <button class="vote" aria-pressed="${v===1}" onclick="vote('${a.id}',1)">Meira svona</button>
+        <button class="vote" aria-pressed="${v===-1}" onclick="vote('${a.id}',-1)">Ekki sýna</button>
+      </div>
+    </article>`;
+  }).join("") + `<div class="tools">
+    <button onclick="exportVotes()">Sækja umsagnir til að uppfæra preferences</button></div>`;
+}
+
+function exportVotes(){
+  const liked=[], disliked=[];
+  ITEMS.forEach(a=>{ if(votes[a.id]===1)liked.push("• "+a.title);
+    if(votes[a.id]===-1)disliked.push("• "+a.title); });
+  const txt = "KEEP more like:\n"+liked.join("\n")+"\n\nDROP, don't show:\n"+disliked.join("\n");
+  navigator.clipboard?.writeText(txt);
+  alert("Afritað. Límdu inn í preferences.md (neðst) til að kenna síunni.");
+}
+
+function chips(){
+  const wrap = document.getElementById("chips");
+  const all = ["all", ...Object.keys(CATS)];
+  wrap.innerHTML = all.map(k=>{
+    const label = k==="all" ? "Allt" : CATS[k];
+    return `<button class="chip" aria-pressed="${FILTER===k}"
+      onclick="FILTER='${k}';chips();render()">${label}</button>`;
+  }).join("");
+}
+
+fetch("articles.json?t="+Date.now()).then(r=>r.json()).then(d=>{
+  ITEMS = d.items||[];
+  document.getElementById("updated").textContent =
+    "uppfært " + relTime(d.updated) + " síðan";
+  chips(); render();
+}).catch(()=>{
+  document.getElementById("feed").innerHTML =
+    `<div class="empty">Næ ekki í fréttir. Hefur keyrslan klárast einu sinni?</div>`;
+  chips();
+});
+
+if("serviceWorker" in navigator)
+  navigator.serviceWorker.register("sw.js").catch(()=>{});
+</script>
+</body>
+</html>
