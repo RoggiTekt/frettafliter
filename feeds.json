@@ -1,0 +1,42 @@
+{
+  "_comment": "Edit feed URLs here if any fail to load on first run. 'trusted: true' means the whole source is already on-topic and skips the keep/discard filter (it still gets summarised). 'drop_sections' are matched case-insensitively against each item's category/section tags before any AI is called.",
+
+  "drop_sections": [
+    "íþróttir", "ithrottir", "sport", "fótbolti", "fotbolti", "enski boltinn",
+    "fólk", "folk", "lífið", "lifid", "frægt fólk", "fraegt folk", "kjaftaslúður",
+    "sjónvarp", "sjonvarp", "tíska", "tiska", "lífsstíll", "lifsstill", "matur"
+  ],
+
+  "feeds": [
+    {
+      "name": "byggingar.is",
+      "url": "https://byggingar.is/feed/",
+      "trusted": true
+    },
+    {
+      "name": "mbl.is",
+      "url": "https://www.mbl.is/feeds/innlent/",
+      "trusted": false
+    },
+    {
+      "name": "mbl.is – viðskipti",
+      "url": "https://www.mbl.is/feeds/vidskipti/",
+      "trusted": false
+    },
+    {
+      "name": "RÚV",
+      "url": "https://www.ruv.is/rss/frettir",
+      "trusted": false
+    },
+    {
+      "name": "Vísir",
+      "url": "https://www.visir.is/rss/allt",
+      "trusted": false
+    },
+    {
+      "name": "DV",
+      "url": "https://www.dv.is/feed/",
+      "trusted": false
+    }
+  ]
+}
