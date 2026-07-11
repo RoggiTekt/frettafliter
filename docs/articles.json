@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-11T12:41:54Z",
+  "updated": "2026-07-11T14:30:16Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-11",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/07/11/myndir_eiki_hauks_og_sigga_beinteins_stalu_senunni/",
+      "title": "Myndir: Eiki Hauks og Sigga Beinteins stálu senunni",
+      "link": "https://www.mbl.is/frettir/innlent/2026/07/11/myndir_eiki_hauks_og_sigga_beinteins_stalu_senunni/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/fqm2SDCA3q5hETe9K93D5c1-0AQ=/1640x1093/smart/frimg/1/66/44/1664494.jpg",
+      "published": "Sat, 11 Jul 2026 08:04:00 +0000",
+      "category": "menning",
+      "summary": "The Kótelettan music festival took place in Selfoss, featuring performances by various Icelandic artists like Eiríkur Hauksson and Sigga Beinteins. The event was well-attended and created a positive atmosphere, with a BBQ festival and family activities also planned for the weekend.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-11T14:13:56Z"
+    },
     {
       "id": "https://www.ruv.is/frettir/innlent/2026-07-10-neyda-islensk-yfirvold-til-ad-heyra-sogur-fornarlamba-spillingar-480984/",
       "title": "Neyða íslensk yfirvöld til að heyra sögur fórnarlamba spillingar",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T00:23:13Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-06-bruin-yfir-thjorsa-vid-sultartangavirkjun-lokud-vegna-vidgerdar-480660/",
-      "title": "Brúin yfir Þjórsá við Sultartangavirkjun lokuð vegna viðgerðar",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-06-bruin-yfir-thjorsa-vid-sultartangavirkjun-lokud-vegna-vidgerdar-480660/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzLzVmNGE0NzA2LTEzMWYtNDk0ZC04NDM1LThmMjAxNWQ2ZTQxOV8xLmpwZyIsICJlZGl0cyI6IHsidG9Gb3JtYXQiOiAianBlZyIsICJqcGVnIjogeyJxdWFsaXR5IjogNjB9LCAicmVzaXplIjogeyJ3aWR0aCI6ICIxMjAwIiwgImZpdCI6ICJjb3ZlciIsICJoZWlnaHQiOiAiNjMwIn19fQ==",
-      "published": "Mon, 06 Jul 2026 23:52:58 +0000",
-      "category": "skipulag",
-      "summary": "A concrete truck drove off a bridge over the Þjórsá river near Sultartangavirkjun, causing significant damage to the bridge railing. The driver was rescued, and the bridge on road 32 (Þjórsárdalsvegur) is now closed for repairs. The closure is expected to last until the following morning, requiring travelers to use an alternative route.",
-      "importance": 5,
-      "why_matters": "The closure of this bridge disrupts travel for many and necessitates immediate infrastructure repair.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T00:22:59Z"
     }
   ]
 }
