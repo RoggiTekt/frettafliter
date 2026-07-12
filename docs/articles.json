@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-12T18:00:14Z",
+  "updated": "2026-07-12T20:06:39Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-12",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/07/12/rjomabu_i_floa_til_synis_i_sumar/",
+      "title": "Rjómabú í Flóa til sýnis í sumar",
+      "link": "https://www.mbl.is/frettir/innlent/2026/07/12/rjomabu_i_floa_til_synis_i_sumar/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/lN7GoXpgt7wJtsD9qFCoDDPU5pk=/1640x1093/smart/frimg/1/66/45/1664527.jpg",
+      "published": "Sun, 12 Jul 2026 18:28:00 +0000",
+      "category": "arkitektur",
+      "summary": "The historic Baugsstaðir Creamery in Flói is open to visitors this summer, showcasing its original equipment and operation from 1905 to 1952. It stands as a testament to early technological development and local design in Icelandic agriculture. The creamery now functions as a preserved museum, managed by the Árnesinga Folk Museum.",
+      "importance": 2,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-12T19:43:00Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/07/11/myndir_eiki_hauks_og_sigga_beinteins_stalu_senunni/",
       "title": "Myndir: Eiki Hauks og Sigga Beinteins stálu senunni",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T00:24:16Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-06-setja-upp-posa-vid-vadlaheidargong-480615/",
-      "title": "Setja upp posa við Vaðlaheiðargöng",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-06-setja-upp-posa-vid-vadlaheidargong-480615/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2ZyXzIwMjEwNTE4XzE1OTk1NC5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Mon, 06 Jul 2026 22:29:18 +0000",
-      "category": "skipulag",
-      "summary": "The Vaðlaheiðargöng tunnel is installing new POS terminals at its Akureyri entrance to facilitate toll payments. This change addresses ongoing issues with the previous automatic billing system, particularly for foreign tourists and rental car users who struggled with online payments. The new system allows drivers to stop, enter their license plate, and pay directly for their trip.",
-      "importance": 3,
-      "why_matters": "This change simplifies toll payments for travelers, particularly tourists, and helps ensure revenue collection for the tunnel's operation.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T00:23:13Z"
     }
   ]
 }
