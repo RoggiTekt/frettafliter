@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-13T22:46:35Z",
+  "updated": "2026-07-13T23:52:09Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-13",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/07/13/43_innbrots_og_thjofnadarmal_a_14_dogum/",
+      "title": "43 innbrots- og þjófnaðarmál á 14 dögum",
+      "link": "https://www.mbl.is/frettir/innlent/2026/07/13/43_innbrots_og_thjofnadarmal_a_14_dogum/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/tkeDwM3PeaC7ehp3SkVLqGcVFcE=/1640x1093/smart/frimg/1/66/49/1664913.jpg",
+      "published": "Mon, 13 Jul 2026 18:10:00 +0000",
+      "category": "frettir",
+      "summary": "Reykjavík police are investigating 43 burglary and theft cases that occurred in the past two weeks, with 20 of them in the city center. Authorities believe a small group of repeat offenders is responsible for these crimes, often targeting valuables for drug consumption. Police advise residents and businesses to secure their properties.",
+      "importance": 3,
+      "why_matters": "The increase in burglaries and thefts affects property owners and local security in Reykjavík.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-13T23:34:46Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/07/12/rjomabu_i_floa_til_synis_i_sumar/",
       "title": "Rjómabú í Flóa til sýnis í sumar",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T00:24:28Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-06-okumanni-bjargad-af-hlid-steypubils-i-thjorsa-480647/",
-      "title": "Ökumanni bjargað af hlið steypubíls í Þjórsá",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-06-okumanni-bjargad-af-hlid-steypubils-i-thjorsa-480647/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzLzVmNGE0NzA2LTEzMWYtNDk0ZC04NDM1LThmMjAxNWQ2ZTQxOV8xLmpwZyIsICJlZGl0cyI6IHsidG9Gb3JtYXQiOiAianBlZyIsICJqcGVnIjogeyJxdWFsaXR5IjogNjB9LCAicmVzaXplIjogeyJ3aWR0aCI6ICIxMjAwIiwgImZpdCI6ICJjb3ZlciIsICJoZWlnaHQiOiAiNjMwIn19fQ==",
-      "published": "Mon, 06 Jul 2026 20:15:57 +0000",
-      "category": "frettir",
-      "summary": "A concrete mixer truck drove off a bridge into the Þjórsá river near Sultartangastöð. The driver, who was alone, was rescued by a Coast Guard helicopter and suffered hypothermia. Emergency services responded extensively, and Landsvirkjun diverted water flow to assist in the rescue.",
-      "importance": 5,
-      "why_matters": "This is a major domestic accident requiring extensive emergency services and impacting local infrastructure operations.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T00:24:16Z"
     }
   ]
 }
