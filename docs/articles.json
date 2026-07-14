@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-14T00:44:07Z",
+  "updated": "2026-07-14T04:13:31Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-14",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/07/10/manstu_thegar_engum_datt_i_hug_ad_taka_til/",
+      "title": "Manstu þegar engum datt í hug að taka til?",
+      "link": "https://www.mbl.is/smartland/heimili/2026/07/10/manstu_thegar_engum_datt_i_hug_ad_taka_til/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/09F3Z4lbpEkTxvtinNfxGalkH6o=/1640x1093/smart/frimg/1/64/93/1649340.jpg",
+      "published": "Fri, 10 Jul 2026 22:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "Mbl's Smartland section is celebrating its 15th anniversary by revisiting past notable stories. One such story from 2013 featured a 382 sqm stone house on Holtsgata in Reykjavík that was listed for 107 million ISK. The property gained attention for being advertised for sale in a remarkably messy and unkempt state.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-14T03:51:18Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/07/13/43_innbrots_og_thjofnadarmal_a_14_dogum/",
       "title": "43 innbrots- og þjófnaðarmál á 14 dögum",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T00:24:37Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/erlent/2026-07-06-storfelldar-arasir-i-addraganda-leidtogafundar-nato-480639/",
-      "title": "Stórfelldar árásir í aðdraganda leiðtogafundar NATO",
-      "link": "https://www.ruv.is/frettir/erlent/2026-07-06-storfelldar-arasir-i-addraganda-leidtogafundar-nato-480639/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1R1cmtleV9OQVRPX1N1bW1pdF9yOVRTbEtmIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Mon, 06 Jul 2026 19:50:29 +0000",
-      "category": "frettir",
-      "summary": "Russian forces launched massive attacks on Ukraine, killing dozens and injuring many, just before a NATO summit in Turkey. NATO leaders, including Iceland's Prime Minister and Foreign Minister, are meeting to discuss continued support for Ukraine and alliance unity.",
-      "importance": 5,
-      "why_matters": "The ongoing conflict and NATO's response have significant geopolitical consequences and impact international stability.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T00:24:28Z"
     }
   ]
 }
