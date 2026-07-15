@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-15T12:24:18Z",
+  "updated": "2026-07-15T14:48:33Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-15",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=62094",
+      "title": "Brottfallið tengist vanda verknáms",
+      "link": "https://byggingar.is/brottfallid-tengist-vanda-verknams/?utm_source=rss&utm_medium=rss&utm_campaign=brottfallid-tengist-vanda-verknams",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/07/15.07.2026-Brottfallid-tengist-vanda-verknams.jpg",
+      "published": "Wed, 15 Jul 2026 14:05:29 +0000",
+      "category": "arkitektur",
+      "summary": "A leading researcher on student dropout rates in Iceland suggests that the high number of students leaving secondary education, which has been stable since 2020, may be due to challenges faced by vocational schools. Many students switch from academic studies to vocational training but are turned away because trade schools lack funding and cannot accommodate the increased demand.",
+      "importance": 3,
+      "why_matters": "The shortage of vocational training opportunities impacts the supply of skilled labor crucial for the construction and design industries.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-15T14:15:31Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/07/10/manstu_thegar_engum_datt_i_hug_ad_taka_til/",
       "title": "Manstu þegar engum datt í hug að taka til?",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T00:24:45Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-06-oskynsamlegt-ad-taka-einhverja-u-beygju-nuna-480636/",
-      "title": "„Óskynsamlegt að taka einhverja u-beygju núna“",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-06-oskynsamlegt-ad-taka-einhverja-u-beygju-nuna-480636/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL09sYWZ1cl9SYWduYXIuanBlZyIsICJlZGl0cyI6IHsidG9Gb3JtYXQiOiAianBlZyIsICJqcGVnIjogeyJxdWFsaXR5IjogNjB9LCAicmVzaXplIjogeyJ3aWR0aCI6ICIxMjAwIiwgImZpdCI6ICJjb3ZlciIsICJoZWlnaHQiOiAiNjMwIn19fQ==",
-      "published": "Mon, 06 Jul 2026 19:46:06 +0000",
-      "category": "efnahagur",
-      "summary": "A new movement called 'Áfram Ísland' (Forward Iceland) has been founded, attracting nearly a thousand attendees to its first meeting. The movement opposes re-opening accession talks with the European Union, with speakers like former President Ólafur Ragnar Grímsson arguing against a policy shift. Co-founder Halldór Benjamín Þorbergsson stated that Iceland's interests are best served outside the EU.",
-      "importance": 5,
-      "why_matters": "This movement's stance could influence future political decisions regarding Iceland's relationship with the European Union, impacting national policy and economy.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T00:24:37Z"
     }
   ]
 }
