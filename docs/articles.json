@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-15T18:14:19Z",
+  "updated": "2026-07-15T20:11:14Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-15",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/07/15/mun_ekki_lata_logreglu_radast_gegn_netsolu_afengis/",
+      "title": "Mun ekki láta lögreglu ráðast gegn netsölu áfengis",
+      "link": "https://www.mbl.is/frettir/innlent/2026/07/15/mun_ekki_lata_logreglu_radast_gegn_netsolu_afengis/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/9ejKZVtCWinuiAFkSOZa7XG7bq0=/1640x1093/smart/frimg/1/66/35/1663529.jpg",
+      "published": "Wed, 15 Jul 2026 13:51:00 +0000",
+      "category": "efnahagur",
+      "summary": "The Justice Minister, Þorbjörg Sigríður Gunnlaugsdóttir, has stated she will not order the police to take specific action against online alcohol retailers. This decision comes despite a recent district court ruling against an online seller, as the case is currently under appeal and a final legal precedent has not been set. The minister emphasizes that she believes ministers should not direct police operations, amidst calls from some MPs for government intervention.",
+      "importance": 3,
+      "why_matters": "This decision impacts the legal status and future of online alcohol sales in Iceland, affecting businesses and consumer access.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-15T20:00:32Z"
+    },
     {
       "id": "https://byggingar.is/?p=62094",
       "title": "Brottfallið tengist vanda verknáms",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T00:25:08Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-06-aetla-ad-kalla-alla-50-vaendiskaupendurna-i-skyrslutoku-480625/",
-      "title": "Ætla að kalla alla 50 vændiskaupendurna í skýrslutöku",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-06-aetla-ad-kalla-alla-50-vaendiskaupendurna-i-skyrslutoku-480625/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0V1cnBvbF9yYW5uc29rbl9mcmFtZV82Nzg3LmpwZWciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Mon, 06 Jul 2026 19:44:37 +0000",
-      "category": "frettir",
-      "summary": "Icelandic police are calling 50 men for questioning after they were caught on video visiting brothels run by a Chinese crime ring. This local investigation was part of a larger international operation against human trafficking. Sixteen women believed to be victims were offered assistance but declined.",
-      "importance": 4,
-      "why_matters": "This highlights ongoing efforts by Icelandic police to combat organized crime and human trafficking within the country.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T00:24:45Z"
     }
   ]
 }
