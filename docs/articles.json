@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-16T04:13:48Z",
+  "updated": "2026-07-16T07:06:14Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-16",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/07/15/295_milljona_luxushus_vid_almakor/",
+      "title": "295 milljóna lúxushús við Álmakór",
+      "link": "https://www.mbl.is/smartland/heimili/2026/07/15/295_milljona_luxushus_vid_almakor/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/JXPnmnwAR3yxJ1jCFy4ae_3zLx4=/1640x1093/smart/frimg/1/66/42/1664236.jpg",
+      "published": "Wed, 15 Jul 2026 14:00:00 +0000",
+      "category": "arkitektur",
+      "summary": "This article features a 295 million ISK luxury house in Kópavogur, highlighting its unique design and prime location. It details the contributions of a team of architects and designers, including Sigurður Hallgrímsson for the house design and Guðbjörg Magnúsdóttir for interior design. The property boasts high-end features, spacious rooms, and extensive outdoor living areas.",
+      "importance": 4,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-16T06:41:35Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/07/15/mun_ekki_lata_logreglu_radast_gegn_netsolu_afengis/",
       "title": "Mun ekki láta lögreglu ráðast gegn netsölu áfengis",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T00:25:25Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-06-atta-handtekin-og-yfirheyrd-vegna-kannabisraektunar-480605/",
-      "title": "Átta handtekin og yfirheyrð vegna kannabisræktunar",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-06-atta-handtekin-og-yfirheyrd-vegna-kannabisraektunar-480605/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1NjcmVlbnNob3RfMjAyNi0wNi0yOV8yMDQwMDUucG5nIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Mon, 06 Jul 2026 15:19:43 +0000",
-      "category": "frettir",
-      "summary": "Police arrested eight individuals and interrogated them in connection with stopping large-scale cannabis cultivation at three locations in southwest Iceland. Authorities seized nearly 800 cannabis plants, other drugs, money, and cultivation equipment, believing the substances were intended for sale and distribution.",
-      "importance": 4,
-      "why_matters": "This operation disrupts a significant drug supply chain in Iceland, impacting public safety and the illegal drug market.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T00:25:08Z"
     }
   ]
 }
