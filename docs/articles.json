@@ -1,8 +1,38 @@
 {
-  "updated": "2026-07-19T04:31:01Z",
+  "updated": "2026-07-19T07:17:18Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-19",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=62163",
+      "title": "Einn stór turn í stað þriggja minni",
+      "link": "https://byggingar.is/einn-stor-turn-i-stad-thriggja-minni/?utm_source=rss&utm_medium=rss&utm_campaign=einn-stor-turn-i-stad-thriggja-minni",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/07/18.07.2026-Einn-stor-turn-i-stad-thriggja-minni.jpg",
+      "published": "Sat, 18 Jul 2026 12:59:01 +0000",
+      "category": "skipulag",
+      "summary": "Construction is well underway on a large hotel tower at Skúlagata 26 in Reykjavik. An architect, who abstained from the 2015 planning council vote, points out that the current single large building consolidates the volume of three smaller towers originally planned for the site.",
+      "importance": 4,
+      "why_matters": "This article details a significant change in a specific urban development project in Reykjavik, directly impacting the city's landscape.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-19T06:47:32Z"
+    },
+    {
+      "id": "https://byggingar.is/?p=62166",
+      "title": "Yfir hundrað í­búðir gjörskemmdar",
+      "link": "https://byggingar.is/yfir-hundrad-ibudir-gjorskemmdar/?utm_source=rss&utm_medium=rss&utm_campaign=yfir-hundrad-ibudir-gjorskemmdar",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/07/18.07.2026-Yfir-hundrad-ibudir-gjorskemmdar.jpg",
+      "published": "Sat, 18 Jul 2026 15:11:10 +0000",
+      "category": "frettir",
+      "summary": "A large fire in Drammen, Norway, has destroyed over a hundred apartments and forced the evacuation of 400 residents. Firefighters are still battling the blaze, which the mayor has described as a disaster. Two people were hospitalized for smoke inhalation, and several emergency personnel were also affected.",
+      "importance": 3,
+      "why_matters": "This major fire has displaced hundreds of people and caused extensive property damage in Norway.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-19T06:46:59Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/07/15/295_milljona_luxushus_vid_almakor/",
       "title": "295 milljóna lúxushús við Álmakór",
@@ -3722,36 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:13:09Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-06-komugjold-a-heilsugaeslu-haekka-i-fyrsta-skipti-i-18-ar-480600/",
-      "title": "Komugjöld á heilsugæslu hækka í fyrsta skipti í 18 ár",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-06-komugjold-a-heilsugaeslu-haekka-i-fyrsta-skipti-i-18-ar-480600/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0hTTl9Ib2Zzb3NpLTEuanBnIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Mon, 06 Jul 2026 14:11:03 +0000",
-      "category": "efnahagur",
-      "summary": "Healthcare visit fees in Iceland are set to increase significantly on August 1st, some for the first time in 18 years. The Ministry of Health states this is necessary due to inflation and rising service costs, particularly for physical therapy, to address a projected budget deficit.",
-      "importance": 5,
-      "why_matters": "This policy change will directly increase healthcare costs for many Icelanders, impacting their personal finances and access to services.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T00:25:52Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-06-110-milljonir-i-lagfaeringar-a-skemmdum-felagsibudum-480591/",
-      "title": "110 milljónir í lagfæringar á skemmdum félagsíbúðum",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-06-110-milljonir-i-lagfaeringar-a-skemmdum-felagsibudum-480591/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FrdXJleXJhcmJhZXItNS5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Mon, 06 Jul 2026 14:55:07 +0000",
-      "category": "skipulag",
-      "summary": "Akureyri municipality plans to spend 110 million ISK on renovating its social housing, much of which is old and damaged, partly due to poor tenant care. The plan involves selling 15 older properties, buying new ones, and redistributing social housing more evenly across the town to better meet demand for smaller apartments.",
-      "importance": 4,
-      "why_matters": "This municipal plan aims to modernize Akureyri's social housing stock and improve its distribution, impacting housing availability and costs for vulnerable residents.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T00:25:25Z"
     }
   ]
 }
