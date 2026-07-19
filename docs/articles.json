@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-19T20:08:35Z",
+  "updated": "2026-07-19T21:43:30Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-19",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/07/17/vaerum_duglegri_ad_halda_gardveislur_ef_vedrid_vaer/",
+      "title": "„Værum duglegri að halda garðveislur ef veðrið væri til friðs“",
+      "link": "https://www.mbl.is/smartland/heimili/2026/07/17/vaerum_duglegri_ad_halda_gardveislur_ef_vedrid_vaer/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/fc7y29Peuiq76gHdim7362-Oy3Y=/1640x1093/smart/frimg/1/66/43/1664315.jpg",
+      "published": "Fri, 17 Jul 2026 11:00:00 +0000",
+      "category": "arkitektur",
+      "summary": "Singer and radio host Regína Ósk Óskarsdóttir shares details about her extensive outdoor living space at home. She and her husband have built and continuously improved a large deck with a hot tub, cold tub, and a sauna. They are also planning future additions like an outdoor kitchen and living room, even using AI for design ideas.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-19T21:18:44Z"
+    },
     {
       "id": "https://byggingar.is/?p=62163",
       "title": "Einn stór turn í stað þriggja minni",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:13:19Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61768",
-      "title": "Brúnni lokað eftir að steypubíll hafnaði í Þjórs­á",
-      "link": "https://byggingar.is/brunni-lokad-eftir-ad-steypubill-hafnadi-i-thjorsa/?utm_source=rss&utm_medium=rss&utm_campaign=brunni-lokad-eftir-ad-steypubill-hafnadi-i-thjorsa",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/07.07.2026-Brunni-lokad-eftir-ad-steypubill-hafnadi-i-THjorsa-a.jpg",
-      "published": "Tue, 07 Jul 2026 10:35:02 +0000",
-      "category": "frettir",
-      "summary": "A bridge over the Þjórsá river on Þjórsárdalsvegur has been closed for several days after a concrete truck fell into the river following an accident. The driver was rescued, and the Road Administration is working to repair the damaged bridge railing. Drivers are advised to use a detour via Landvegur.",
-      "importance": 5,
-      "why_matters": "The bridge closure disrupts travel on a key route and requires immediate infrastructure repair.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:13:09Z"
     }
   ]
 }
