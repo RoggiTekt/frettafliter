@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-20T11:48:23Z",
+  "updated": "2026-07-20T13:54:00Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-20",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/07/19/hefdi_aldrei_verid_samthykkt_i_dag/",
+      "title": "Hefði aldrei verið samþykkt í dag",
+      "link": "https://www.mbl.is/frettir/innlent/2026/07/19/hefdi_aldrei_verid_samthykkt_i_dag/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/xoV58UA3at7Tu1AXGYb5AhnvH8Y=/1640x1093/filters:cropcenter(44,42)/frimg/1/66/58/1665888.jpg",
+      "published": "Sun, 19 Jul 2026 22:30:00 +0000",
+      "category": "skipulag",
+      "summary": "The article discusses the controversial Radisson Red hotel tower in Reykjavík, nearing completion, which an architect argues would never be approved under current planning laws. She criticizes the city's past zoning decisions that allowed for such a large building and the financial incentives for municipalities to grant extensive building permits. The architect believes the building does not fit its environment and highlights issues with outdated planning.",
+      "importance": 4,
+      "why_matters": "This article highlights how past city planning decisions can lead to controversial large-scale developments and raises questions about the long-term impact of municipal planning policies.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-20T13:53:10Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/07/17/vaerum_duglegri_ad_halda_gardveislur_ef_vedrid_vaer/",
       "title": "„Værum duglegri að halda garðveislur ef veðrið væri til friðs“",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:13:29Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61764",
-      "title": "30.07.2026 Vínlandsleið (Laxalón-Þúsöld) – Stígagerð",
-      "link": "https://byggingar.is/vinlandsleid-laxalon-thusold-stigagerd/?utm_source=rss&utm_medium=rss&utm_campaign=vinlandsleid-laxalon-thusold-stigagerd",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/07.07.2026-Vinlandsleid-Laxalon-THusold-Stigagerd.jpg",
-      "published": "Tue, 07 Jul 2026 09:18:49 +0000",
-      "category": "skipulag",
-      "summary": "Reykjavík City's Environment and Planning Department is seeking bids for the construction of an approximately 800-meter-long bicycle path and street lighting project along Vínlandsleið, connecting Vesturlandsvegur to Laxalón. The project also includes a 100-meter path connection. Bids must be submitted electronically by July 29, 2026.",
-      "importance": 3,
-      "why_matters": "This project will add new bicycle paths and street lighting to a part of Reykjavík, improving local infrastructure.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:13:19Z"
     }
   ]
 }
