@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-21T21:11:21Z",
+  "updated": "2026-07-21T22:47:26Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-21",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/07/21/kari_leggst_gegn_umsokn_ad_evropusambandinu/",
+      "title": "Kári leggst gegn umsókn að Evrópusambandinu",
+      "link": "https://www.mbl.is/frettir/innlent/2026/07/21/kari_leggst_gegn_umsokn_ad_evropusambandinu/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/bZ1a4YC9tyhHvG-egyuPqncnsDc=/1640x1093/smart/mblvideo/thaettir/2c/273708_125442465.jpg",
+      "published": "Tue, 21 Jul 2026 20:00:28 +0000",
+      "category": "efnahagur",
+      "summary": "Prominent Icelandic figure Kári Stefánsson has publicly stated his opposition to Iceland's application to join the European Union. He expresses significant concerns about the EU's current state and believes a pragmatic assessment of national interests would lead him to vote against accession in a referendum. He notes that his stance could change if global circumstances evolve.",
+      "importance": 4,
+      "why_matters": "Iceland's potential EU membership would have profound implications for its economy, sovereignty, and international relations.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-21T22:36:47Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/07/21/ny_stjorn_landspitalans_skipud/",
       "title": "Ný stjórn Landspítalans skipuð",
@@ -3737,21 +3752,6 @@
       "spin_flag": true,
       "spin_note": "The headline highlights the profit figure but the body immediately clarifies that this represents a significant year-on-year decrease.",
       "added_at": "2026-07-07T12:13:57Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61752",
-      "title": "EZ Verk leitar að húsasmið með reynslu í klæðningarvinnu",
-      "link": "https://byggingar.is/ez-verk-leitar-ad-husasmid-med-reynslu-i-klaedningarvinnu/?utm_source=rss&utm_medium=rss&utm_campaign=ez-verk-leitar-ad-husasmid-med-reynslu-i-klaedningarvinnu",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/07.07.2026-EZ-Verk-leitar-ad-husasmid-med-reynslu-i-klaedningarvinnu.jpg",
-      "published": "Tue, 07 Jul 2026 08:35:13 +0000",
-      "category": "arkitektur",
-      "summary": "EZ Verk is seeking an experienced carpenter for cladding work on various construction projects. The role involves installing and finishing building exteriors, general carpentry, and material installation. The company is looking for a diligent and reliable individual to contribute to the construction of diverse structures.",
-      "importance": 2,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:13:38Z"
     }
   ]
 }
