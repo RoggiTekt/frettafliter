@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-21T14:58:50Z",
+  "updated": "2026-07-21T17:18:02Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-21",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/07/21/ny_stjorn_landspitalans_skipud/",
+      "title": "Ný stjórn Landspítalans skipuð",
+      "link": "https://www.mbl.is/frettir/innlent/2026/07/21/ny_stjorn_landspitalans_skipud/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/VKiTE6C6gqcP8a-ykzuq8EIaEto=/1640x1093/smart/frimg/1/66/62/1666246.jpg",
+      "published": "Tue, 21 Jul 2026 14:20:00 +0000",
+      "category": "efnahagur",
+      "summary": "The Minister of Health has appointed a new board for Landspítalinn, Iceland's National University Hospital, for the next two years. The board, comprising individuals with diverse backgrounds in administration, healthcare, and academia, will be responsible for setting long-term strategy and overseeing the hospital's operations and financial planning.",
+      "importance": 3,
+      "why_matters": "The new board will guide the strategic direction and operational oversight of Iceland's largest hospital, impacting healthcare services.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-21T17:05:44Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/07/19/hefdi_aldrei_verid_samthykkt_i_dag/",
       "title": "Hefði aldrei verið samþykkt í dag",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:13:38Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61756",
-      "title": "Verkeining ehf. leitar að leiðtoga í mótauppslætti",
-      "link": "https://byggingar.is/verkeining-ehf-leitar-ad-leidtoga-i-motauppslaetti/?utm_source=rss&utm_medium=rss&utm_campaign=verkeining-ehf-leitar-ad-leidtoga-i-motauppslaetti",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/07.07.2026-Verkeining-ehf.-leitar-ad-leidtoga-i-motauppslaetti.jpg",
-      "published": "Tue, 07 Jul 2026 08:44:33 +0000",
-      "category": "arkitektur",
-      "summary": "Verkeining ehf. is advertising a job opening for a formwork leader in Þorlákshöfn and its surroundings. The role involves daily supervision, project planning, and quality control for concrete and formwork operations on construction sites. Candidates need experience in formwork and concrete work, leadership skills, and the ability to read blueprints.",
-      "importance": 2,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:13:29Z"
     }
   ]
 }
