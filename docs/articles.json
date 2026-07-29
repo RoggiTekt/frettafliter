@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-29T20:19:43Z",
+  "updated": "2026-07-29T21:47:38Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-29",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=62563",
+      "title": "Lóðaþjónustan ehf. með lægsta tilboðið í yfirborðsfrágang á Ártúnshöfða",
+      "link": "https://byggingar.is/lodathjonustan-ehf-med-laegsta-tilbodid-i-yfirbordsfragang-a-artunshofda/?utm_source=rss&utm_medium=rss&utm_campaign=lodathjonustan-ehf-med-laegsta-tilbodid-i-yfirbordsfragang-a-artunshofda",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/07/29.07.2026-Lodathjonustan-ehf.-med-laegsta-tilbodid-i-yfirbordsfragang-a-Artunshofda.jpg",
+      "published": "Wed, 29 Jul 2026 17:59:27 +0000",
+      "category": "skipulag",
+      "summary": "Reykjavík City received five bids for surface finishing, road construction, and piping in the Ártúnshöfði development area. Lóðaþjónustan ehf. submitted the lowest bid, which was below the project's cost estimate. The city will now review the bids before selecting a contractor for this ongoing urban development project.",
+      "importance": 4,
+      "why_matters": "This marks a step forward in the ongoing urban development of the Ártúnshöfði area.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-29T21:15:13Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/07/21/kari_leggst_gegn_umsokn_ad_evropusambandinu/",
       "title": "Kári leggst gegn umsókn að Evrópusambandinu",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:14:05Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61747",
-      "title": "Ístak hagnast um milljarð",
-      "link": "https://byggingar.is/istak-hagnast-um-milljard/?utm_source=rss&utm_medium=rss&utm_campaign=istak-hagnast-um-milljard",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/07.07.2026-Istak-hagnast-um-milljard.jpg",
-      "published": "Tue, 07 Jul 2026 07:45:34 +0000",
-      "category": "efnahagur",
-      "summary": "Ístak, Iceland's largest construction company, reported a profit of 1 billion ISK for the last operating year, a decrease of 800 million ISK from the previous year. The company's board attributed the reduced profit to high interest rates, inflation, and global conflicts affecting material costs, with seismic activity in Reykjanes also impacting projects.",
-      "importance": 4,
-      "why_matters": "The financial performance of Iceland's largest construction company, directly impacted by inflation and interest rates, provides insight into the broader economic health of the building sector.",
-      "spin_flag": true,
-      "spin_note": "The headline highlights the profit figure but the body immediately clarifies that this represents a significant year-on-year decrease.",
-      "added_at": "2026-07-07T12:13:57Z"
     }
   ]
 }
