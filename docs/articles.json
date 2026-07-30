@@ -1,8 +1,38 @@
 {
-  "updated": "2026-07-30T21:10:20Z",
+  "updated": "2026-07-30T23:01:54Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-30",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/07/26/manstu_eftir_innliti_i_eldhus_bjarna_ben_og_thoru_m/",
+      "title": "Manstu eftir innliti í eldhús Bjarna Ben og Þóru Margrétar?",
+      "link": "https://www.mbl.is/smartland/heimili/2026/07/26/manstu_eftir_innliti_i_eldhus_bjarna_ben_og_thoru_m/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/iLVfic6kD8PKNTuR6MbJSBTRb7c=/1640x1093/smart/frimg/1/64/46/1644640.jpg",
+      "published": "Sun, 26 Jul 2026 22:00:00 +0000",
+      "category": "arkitektur",
+      "summary": "This article is a 15-year anniversary throwback from Smartland, revisiting a 2012 feature on interior designer Þóra Margrét Baldvinsdóttir's kitchen. It describes the open-plan kitchen she shares with her husband, Bjarni Benediktsson, highlighting its role as the family's central gathering space and Þóra's passion for cooking.",
+      "importance": 1,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-30T22:40:08Z"
+    },
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/07/27/kristjan_og_edda_falak_selja_i_101/",
+      "title": "Kristján og Edda Falak selja í 101",
+      "link": "https://www.mbl.is/smartland/heimili/2026/07/27/kristjan_og_edda_falak_selja_i_101/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/ts54MjxQhRXjp0XfyKfVYA-qvN8=/1640x1093/smart/frimg/1/47/54/1475431.jpg",
+      "published": "Mon, 27 Jul 2026 11:40:00 +0000",
+      "category": "fasteignir",
+      "summary": "Former podcast host Edda Falak and wrestler Kristján Helgi Hafliðason are selling their 58-square-meter apartment in Vesturbær, Reykjavík, for 61.9 million ISK. The apartment, built in 1974, is described as a perfect first home, featuring Icelandic Sóley chairs and a newly renovated kitchen. They are selling to accommodate their growing family.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-30T22:39:55Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/07/30/vitum_ekki_hvort_thad_koma_thusund_eda_tiu_thusund/",
       "title": "„Vitum ekki hvort það koma þúsund eða tíu þúsund“",
@@ -3722,36 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:14:54Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61710",
-      "title": "Gönguljósin á Miklu­braut: Bráðalausn eða bið eftir stokknum?",
-      "link": "https://byggingar.is/gonguljosin-a-miklubraut-bradalausn-eda-bid-eftir-stokknum/?utm_source=rss&utm_medium=rss&utm_campaign=gonguljosin-a-miklubraut-bradalausn-eda-bid-eftir-stokknum",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/06.07.2026-Gonguljosin-a-Miklubraut-Bradalausn-eda-bid-eftir-stokknum.jpg",
-      "published": "Tue, 07 Jul 2026 07:28:53 +0000",
-      "category": "skipulag",
-      "summary": "The article discusses major traffic bottlenecks in the capital area, focusing on pedestrian lights on Miklabraut, the Bústaðavegur/Reykjanesbraut intersection, and Kaplakriki. A transport engineer explains the complexities of temporary versus long-term solutions, such as the planned Miklabraut tunnel, and how urban planning prioritizes pedestrians and cyclists. It details ongoing and proposed infrastructure projects aimed at alleviating congestion and improving urban development.",
-      "importance": 5,
-      "why_matters": "These discussions and projects will directly affect traffic, urban development, and the daily lives of residents in the capital region.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:14:43Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61720",
-      "title": "110 milljónir í lagfæringar á skemmdum félagsíbúðum",
-      "link": "https://byggingar.is/110-milljonir-i-lagfaeringar-a-skemmdum-felagsibudum/?utm_source=rss&utm_medium=rss&utm_campaign=110-milljonir-i-lagfaeringar-a-skemmdum-felagsibudum",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/06.07.2026-110-milljonir-i-lagfaeringar-a-skemmdum-felagsibudum-a.jpg",
-      "published": "Tue, 07 Jul 2026 07:29:25 +0000",
-      "category": "fasteignir",
-      "summary": "Akureyri municipality plans to sell up to 15 old, high-maintenance social housing units and invest 110 million ISK in repairs for damaged properties. The goal is to modernize the social housing stock, better meet demand for smaller apartments, and improve the distribution of units across the town.",
-      "importance": 4,
-      "why_matters": "This decision impacts the availability and quality of social housing in Akureyri and involves significant public funds.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:14:30Z"
     }
   ]
 }
