@@ -1,8 +1,38 @@
 {
-  "updated": "2026-07-30T15:10:16Z",
+  "updated": "2026-07-30T17:24:24Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-30",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/07/30/vitum_ekki_hvort_thad_koma_thusund_eda_tiu_thusund/",
+      "title": "„Vitum ekki hvort það koma þúsund eða tíu þúsund“",
+      "link": "https://www.mbl.is/frettir/innlent/2026/07/30/vitum_ekki_hvort_thad_koma_thusund_eda_tiu_thusund/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/755jAKnRhXD2hVPu2xV0ALerWoA=/1640x1093/smart/frimg/1/64/29/1642904.jpg",
+      "published": "Thu, 30 Jul 2026 16:05:00 +0000",
+      "category": "skipulag",
+      "summary": "The mayor of Snæfellsbær is preparing for a large, but uncertain, number of visitors for an upcoming total solar eclipse. Preparations have been ongoing for over two years, involving various public services like the Road Administration and police, to manage traffic and accommodate guests. Campsites have been expanded, and a one-way traffic system will be implemented in some areas.",
+      "importance": 3,
+      "why_matters": "This article describes how a small town is preparing its infrastructure and services to handle a potentially massive influx of visitors for a natural event, impacting local logistics and public safety.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-30T17:14:34Z"
+    },
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/07/20/hildur_er_med_utibio_yfir_heita_pottinum/",
+      "title": "Hildur er með útibíó yfir heita pottinum",
+      "link": "https://www.mbl.is/smartland/heimili/2026/07/20/hildur_er_med_utibio_yfir_heita_pottinum/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/qc3pxPYQq1840A8vYDh5eQPTtAA=/1640x1093/filters:cropcenter(59,72)/frimg/1/66/43/1664308.jpg",
+      "published": "Mon, 20 Jul 2026 06:00:00 +0000",
+      "category": "arkitektur",
+      "summary": "Hildur Gunnlaugsdóttir, CEO of ASK Arkitekta, shares insights into the design and use of her home garden. She discusses practical modifications like lowering a section of her plot to improve access to a basement apartment and creating an outdoor cinema over her hot tub. The article highlights her approach to garden parties and her personal aesthetic influenced by Danish design.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-30T17:09:10Z"
+    },
     {
       "id": "https://byggingar.is/?p=62563",
       "title": "Lóðaþjónustan ehf. með lægsta tilboðið í yfirborðsfrágang á Ártúnshöfða",
@@ -3722,36 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:14:30Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61724",
-      "title": "Mjólkurstöðin færð til fyrri dýrðar",
-      "link": "https://byggingar.is/mjolkurstodin-faerd-til-fyrri-dyrdar/?utm_source=rss&utm_medium=rss&utm_campaign=mjolkurstodin-faerd-til-fyrri-dyrdar",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/06.07.2026-Mjolkurstodin-faerd-til-fyrri-dyrdar-a.jpg",
-      "published": "Tue, 07 Jul 2026 07:30:05 +0000",
-      "category": "arkitektur",
-      "summary": "The historic former milk station at Snorrabraut 54 in Reykjavík has undergone extensive renovation and will reopen as Mjólk Hótel. The project involved significant architectural work to restore the 1929 building, designed by Einar Erlendsson, to its original \"Icelandic hammer style,\" including changes approved by planning authorities. The new hotel will feature 22 apartments, with interior design by Officina Studio.",
-      "importance": 4,
-      "why_matters": "This project demonstrates the preservation and repurposing of a historic building in Reykjavík, impacting urban development and architectural heritage.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:14:17Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61739",
-      "title": "Framkvæmdir á Laugalandi í fullum gangi",
-      "link": "https://byggingar.is/framkvaemdir-a-laugalandi-i-fullum-gangi/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-a-laugalandi-i-fullum-gangi",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/06.07.2026-Framkvaemdir-a-Laugalandi-i-fullum-gangi-2200x1650.jpg",
-      "published": "Tue, 07 Jul 2026 07:30:38 +0000",
-      "category": "skipulag",
-      "summary": "Renovations are currently underway at Laugaland, encompassing the primary school, kindergarten, and sports hall. The work includes installing new ceilings, ventilation, flooring, doors, and windows, alongside upgrades to sports equipment and roof painting. These improvements aim to enhance facilities for students and staff, with most projects expected to conclude before the school year begins or by October.",
-      "importance": 3,
-      "why_matters": "These renovations will significantly improve public school and sports facilities for the community.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:14:05Z"
     }
   ]
 }
