@@ -1,8 +1,23 @@
 {
-  "updated": "2026-07-31T12:52:41Z",
+  "updated": "2026-07-31T16:04:16Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-07-31",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/07/15/tinna_og_ari_keyptu_einbyli_a_seltjarnarnesi/",
+      "title": "Tinna og Ari keyptu einbýli á Seltjarnarnesi",
+      "link": "https://www.mbl.is/smartland/heimili/2026/07/15/tinna_og_ari_keyptu_einbyli_a_seltjarnarnesi/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/b39W7gDp_mDyWoAeiyv81Lw0ZOM=/1640x1093/smart/frimg/1/66/49/1664976.jpg",
+      "published": "Wed, 15 Jul 2026 06:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "Tinna Brá Baldursdóttir, CEO of design store Hrím, and comedian Ari Eldjárn have purchased a 209 sqm detached house in Seltjarnarnes for 165 million ISK. The property, built in 1980, was listed for 169 million ISK and is located in a desirable family neighborhood. The article also briefly touches on their relationship.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-07-31T15:51:11Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/07/26/manstu_eftir_innliti_i_eldhus_bjarna_ben_og_thoru_m/",
       "title": "Manstu eftir innliti í eldhús Bjarna Ben og Þóru Margrétar?",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:15:05Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61760",
-      "title": "Á. Steindórsson ehf. óskar eftir húsasmið",
-      "link": "https://byggingar.is/a-steindorsson-ehf-oskar-eftir-husasmid/?utm_source=rss&utm_medium=rss&utm_campaign=a-steindorsson-ehf-oskar-eftir-husasmid",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/07.07.2026-A.-Steindorsson-ehf.-oskar-eftir-husasmid.jpg",
-      "published": "Tue, 07 Jul 2026 06:53:20 +0000",
-      "category": "arkitektur",
-      "summary": "Á. Steindórsson ehf. is seeking a skilled carpenter for various construction projects. The role involves maintenance, alterations, and new building construction, requiring an independent and reliable individual with a journeyman's certificate.",
-      "importance": 1,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:14:54Z"
     }
   ]
 }
