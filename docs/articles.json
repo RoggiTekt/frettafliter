@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-02T21:45:15Z",
+  "updated": "2026-08-02T22:46:04Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-02",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/02/komdu_ther_i_girinn_fyrir_brekkusonginn/",
+      "title": "Komdu þér í gírinn fyrir brekkusönginn",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/02/komdu_ther_i_girinn_fyrir_brekkusonginn/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/vhAo1LMius80bFO4abdXoUgL9eM=/1640x1093/smart/frimg/1/66/83/1668346.jpg",
+      "published": "Sun, 02 Aug 2026 14:45:00 +0000",
+      "category": "menning",
+      "summary": "The article reports on the successful Þjóðhátíð festival in Vestmannaeyjar, highlighting good weather, popular Icelandic musicians, and a surprise performance. It details the upcoming main event, Brekkusöngur, and its live broadcast preparations.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-02T22:45:14Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/01/fjogurra_ara_skirdur_i_fjolskyldutjaldinu_i_eyjum/",
       "title": "Fjögurra ára skírður í fjölskyldutjaldinu í Eyjum",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:15:43Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/logmadur_og_fangavordur_enn_med_stodu_sakbornings/",
-      "title": "Lögmaður og fangavörður enn með stöðu sakbornings",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/logmadur_og_fangavordur_enn_med_stodu_sakbornings/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/84g81SX8nY_oLjMTe920croEMP0=/1640x1093/smart/frimg/9/82/982744.jpg",
-      "published": "Tue, 07 Jul 2026 11:45:00 +0000",
-      "category": "frettir",
-      "summary": "A lawyer and a prison guard remain suspects in an ongoing investigation into large-scale drug cultivation in Raufarhöfn. The prison guard, from Litla-hraun, was sent on leave due to suspected misconduct in public office. The extensive case has not yet reached prosecution.",
-      "importance": 5,
-      "why_matters": "This ongoing investigation highlights potential corruption within the justice system and serious criminal activity in Iceland.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:15:24Z"
     }
   ]
 }
