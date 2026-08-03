@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-03T04:34:10Z",
+  "updated": "2026-08-03T08:23:07Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-03",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/02/sersveitin_kollud_ut_midadi_byssu_a_annan_mann/",
+      "title": "Sérsveitin kölluð út: Miðaði byssu á annan mann",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/02/sersveitin_kollud_ut_midadi_byssu_a_annan_mann/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/Th1UsxstjJUlosFd7COyuYz8yoQ=/1640x1093/smart/frimg/1/62/79/1627951.jpg",
+      "published": "Sun, 02 Aug 2026 20:17:00 +0000",
+      "category": "frettir",
+      "summary": "A man pointed a gun at another person in North Iceland, prompting the special forces to be called out. Five men were arrested, and two firearms were found in their vehicles. This incident occurred during a festival, where another individual was also arrested for carrying a bladed weapon the previous day.",
+      "importance": 4,
+      "why_matters": "This incident highlights ongoing issues with weapon-related crime and public safety, especially during public events.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-03T08:15:45Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/02/komdu_ther_i_girinn_fyrir_brekkusonginn/",
       "title": "Komdu þér í gírinn fyrir brekkusönginn",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:16:04Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/fjortan_saekjast_eftir_ad_verda_sveitarstjori/",
-      "title": "Fjórtán sækjast eftir að verða sveitarstjóri",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/fjortan_saekjast_eftir_ad_verda_sveitarstjori/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/NTuiHfN45GpFUgLQA4H0uNJPmyg=/1640x1093/smart/frimg/1/65/26/1652609.jpg",
-      "published": "Tue, 07 Jul 2026 11:10:00 +0000",
-      "category": "skipulag",
-      "summary": "Fourteen candidates are vying for the position of municipal manager in Skagaströnd, following the departure of the previous manager who served for eight years. The article lists the names and professions of all applicants.",
-      "importance": 3,
-      "why_matters": "The new municipal manager will oversee local governance and development, impacting planning and projects in Skagaströnd.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:15:43Z"
     }
   ]
 }
