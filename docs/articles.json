@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-03T12:20:54Z",
+  "updated": "2026-08-03T15:53:17Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-03",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/07/18/sannkollud_vesturbaejarperla_ad_hofsvallagotu/",
+      "title": "Sannkölluð Vesturbæjarperla að Hofsvallagötu",
+      "link": "https://www.mbl.is/smartland/heimili/2026/07/18/sannkollud_vesturbaejarperla_ad_hofsvallagotu/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/C3hR2GNJFPXLYULI6ypUYmbLf6A=/1640x1093/smart/frimg/1/66/48/1664842.jpg",
+      "published": "Sat, 18 Jul 2026 18:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "This article describes a large, bright, and recently renovated apartment for sale on Hofsvallagata in Vesturbær, Reykjavík. Built in 1956, the 240 square meter property features six bedrooms, four bathrooms, an additional basement apartment, and a garage. It is located next to Kaffi-Vest and across from Vesturbæjarlaugin, making it a notable property in a desirable area.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-03T15:39:16Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/02/sersveitin_kollud_ut_midadi_byssu_a_annan_mann/",
       "title": "Sérsveitin kölluð út: Miðaði byssu á annan mann",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:16:13Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/margt_a_huldu_um_talsmann_rikisstjornarinnar/",
-      "title": "Margt á huldu um talsmann ríkisstjórnarinnar",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/margt_a_huldu_um_talsmann_rikisstjornarinnar/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/fEQIpmUc0C1duWP_NkfhmN2WDts=/1640x1093/filters:cropcenter(52,15)/frimg/1/66/34/1663456.jpg",
-      "published": "Tue, 07 Jul 2026 10:45:00 +0000",
-      "category": "efnahagur",
-      "summary": "A British newspaper quoted an alleged \"spokesperson for the Icelandic government\" regarding future whaling legislation. However, mbl.is reports that the Icelandic government has no formal spokesperson, and the identity of this individual is unknown within the administration. The article highlights a discrepancy in government communication regarding a controversial policy.",
-      "importance": 3,
-      "why_matters": "This article raises questions about the official stance and communication of the Icelandic government on a policy issue, potentially affecting its international image and legislative process.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:16:04Z"
     }
   ]
 }
