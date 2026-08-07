@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-07T11:44:23Z",
+  "updated": "2026-08-07T12:32:36Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-07",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/08/01/baejarlistamadur_hafnarfjardar_selur_utsynisbustad/",
+      "title": "Bæjarlistamaður Hafnarfjarðar selur útsýnisbústað",
+      "link": "https://www.mbl.is/smartland/heimili/2026/08/01/baejarlistamadur_hafnarfjardar_selur_utsynisbustad/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/pLcJkv9qT9evGpo_0p-nVLwA9Uk=/1640x1093/smart/frimg/1/66/73/1667331.jpg",
+      "published": "Sat, 01 Aug 2026 14:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "Artist Arngunnur Ýr Gylfadóttir is selling her 71 sqm summer cabin and four additional plots of land in a planned summer house area near Hekla. The cabin features large windows, a fireplace, and tastefully arranged freestanding kitchen units. The property is located in a scenic area in Rangárþing ytra.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-07T12:13:40Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/07/18/sannkollud_vesturbaejarperla_ad_hofsvallagotu/",
       "title": "Sannkölluð Vesturbæjarperla að Hofsvallagötu",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:16:23Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/andlat_megas/",
-      "title": "Andlát: Megas",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/andlat_megas/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/fNEIToEDxNVy1QVsb2-L_Ly_Guk=/1640x1093/smart/frimg/1/66/34/1663459.jpg",
-      "published": "Tue, 07 Jul 2026 10:28:00 +0000",
-      "category": "menning",
-      "summary": "Magnús Þór Jónsson, widely known as Megas, a highly influential Icelandic musician, writer, and artist, has passed away at 81. He was celebrated for composing many beloved Icelandic songs and for his extensive work in music, literature, and visual arts, receiving numerous awards for his contributions to Icelandic culture and language.",
-      "importance": 4,
-      "why_matters": "This is a significant cultural event marking the passing of one of Iceland's most influential artists, impacting the nation's cultural landscape.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:16:13Z"
     }
   ]
 }
