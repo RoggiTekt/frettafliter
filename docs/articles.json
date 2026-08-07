@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-07T19:51:49Z",
+  "updated": "2026-08-07T21:34:20Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-07",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=62761",
+      "title": "Kólnun á húsnæðis­markaði Kaup­manna­hafnar",
+      "link": "https://byggingar.is/kolnun-a-husnaedismarkadi-kaupmannahafnar/?utm_source=rss&utm_medium=rss&utm_campaign=kolnun-a-husnaedismarkadi-kaupmannahafnar",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/08/06.08.2026-Kaupmannahofn.jpg",
+      "published": "Fri, 07 Aug 2026 08:03:31 +0000",
+      "category": "fasteignir",
+      "summary": "Copenhagen's housing market is cooling, with the number of apartments for sale increasing by 70% since the beginning of the year. Experts believe this significant rise in supply, after years of price hikes, could lead to a decrease in housing prices soon.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-07T21:04:34Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/08/01/baejarlistamadur_hafnarfjardar_selur_utsynisbustad/",
       "title": "Bæjarlistamaður Hafnarfjarðar selur útsýnisbústað",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:16:39Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/landverdir_bua_sig_undir_mikinn_fjolda/",
-      "title": "Landverðir búa sig undir mikinn fjölda",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/landverdir_bua_sig_undir_mikinn_fjolda/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/5kFNNLvi7e6cWnJ_Sks8pb6MMwo=/1640x1093/smart/frimg/1/66/34/1663476.jpg",
-      "published": "Tue, 07 Jul 2026 10:10:00 +0000",
-      "category": "skipulag",
-      "summary": "Park rangers in Snæfellsjökull National Park are preparing for a significant influx of visitors for an upcoming solar eclipse on August 12th. They anticipate up to 10,000 people, three times the usual peak, and are implementing measures like new parking areas, one-way traffic, and increased staffing to manage the crowds.",
-      "importance": 3,
-      "why_matters": "This plan impacts how a major natural event will be managed for public safety and access in a popular national park.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:16:23Z"
     }
   ]
 }
