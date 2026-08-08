@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-08T00:23:34Z",
+  "updated": "2026-08-08T02:57:19Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-08",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/07/28/keypti_fyrst_dyrasta_hus_gardabaejar_og_svo_annad_h/",
+      "title": "Keypti fyrst dýrasta hús Garðabæjar og svo annað hús sem kom á óvart",
+      "link": "https://www.mbl.is/smartland/heimili/2026/07/28/keypti_fyrst_dyrasta_hus_gardabaejar_og_svo_annad_h/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/qH8sGOUFURKsNbXTcMrNA8PoElg=/1640x1093/smart/frimg/1/66/72/1667299.jpg",
+      "published": "Tue, 28 Jul 2026 06:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "Businessman Hannes Hilmarsson and Óskar Þór Óskarsson have purchased a distinctive house in Mosfellsbær for 275 million ISK. The property is noted for its modern design and rural charm, featuring a main residence, an additional apartment, and a large garage. Hilmarsson is also known for previously acquiring the most expensive house in Garðabær.",
+      "importance": 4,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-08T02:40:42Z"
+    },
     {
       "id": "https://byggingar.is/?p=62761",
       "title": "Kólnun á húsnæðis­markaði Kaup­manna­hafnar",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:16:48Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/ookufaer_okutaeki_geymd_a_eidistorgi/",
-      "title": "Óökufær ökutæki geymd á Eiðistorgi",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/ookufaer_okutaeki_geymd_a_eidistorgi/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/K_ESXP1HmO5fHNEbbq1-chGKvpQ=/1640x1093/smart/frimg/1/66/34/1663402.jpg",
-      "published": "Tue, 07 Jul 2026 07:52:00 +0000",
-      "category": "skipulag",
-      "summary": "Several unroadworthy vehicles, some without license plates, have been left in a busy parking lot at Eiðistorg in Seltjarnarnes for an extended period. Residents are concerned about the visual impact and potential safety hazard, particularly one car left on paving stones with its rear wheels removed. The article highlights a local issue regarding the upkeep of public urban spaces.",
-      "importance": 1,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:16:39Z"
     }
   ]
 }
