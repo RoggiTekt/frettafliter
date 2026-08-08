@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-08T15:25:04Z",
+  "updated": "2026-08-08T16:21:20Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-08",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/07/31/manstu_thegar_hognuhusid_med_innilauginni_for_a_sol/",
+      "title": "Manstu þegar Högnuhúsið með innilauginni fór á sölu?",
+      "link": "https://www.mbl.is/smartland/heimili/2026/07/31/manstu_thegar_hognuhusid_med_innilauginni_for_a_sol/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/9MCbA3UZY6G_a1P9ZzpvEx8JC7g=/1640x1093/smart/frimg/1/64/93/1649326.jpg",
+      "published": "Fri, 31 Jul 2026 22:00:00 +0000",
+      "category": "arkitektur",
+      "summary": "This article celebrates Smartland's 15th anniversary by revisiting past notable stories, focusing on Högnuhúsið, a significant building designed by architect Högna Sigurðardóttir. Built in 1963, the house has been sold multiple times and was recently acquired and renovated by Grandview ehf. in its original style.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-08T16:01:27Z"
+    },
     {
       "id": "https://byggingar.is/?p=62769",
       "title": "Tilboði upp á 31.7 milljónir í framkvæmdir við lóð Grundaskóla hafnað",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:17:40Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/skuldathroun_skarri_a_islandi_en_i_esb/",
-      "title": "Skuldaþróun skárri á Íslandi en í ESB",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/skuldathroun_skarri_a_islandi_en_i_esb/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/rdrtrso_CPFfR8oCx_pf8JU1uRI=/1640x1093/smart/frimg/1/66/33/1663395.jpg",
-      "published": "Tue, 07 Jul 2026 06:00:00 +0000",
-      "category": "efnahagur",
-      "summary": "The IMF predicts Iceland's public finances will remain near balance, similar to the EU average. However, Iceland's public debt as a percentage of GDP is significantly lower than the EU average and is projected to diverge further, indicating a stronger fiscal position.",
-      "importance": 3,
-      "why_matters": "Iceland's lower public debt and stronger fiscal position compared to the EU could influence future economic stability and policy decisions.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:17:04Z"
     }
   ]
 }
