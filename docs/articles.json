@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-08T09:36:42Z",
+  "updated": "2026-08-08T10:31:33Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-08",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=62769",
+      "title": "Tilboði upp á 31.7 milljónir í framkvæmdir við lóð Grundaskóla hafnað",
+      "link": "https://byggingar.is/tilbodi-upp-a-31-7-milljonir-i-framkvaemdir-vid-lod-grundaskola-hafnad/?utm_source=rss&utm_medium=rss&utm_campaign=tilbodi-upp-a-31-7-milljonir-i-framkvaemdir-vid-lod-grundaskola-hafnad",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/08/07.08.2026-Grundaskoli.jpg",
+      "published": "Fri, 07 Aug 2026 08:59:48 +0000",
+      "category": "skipulag",
+      "summary": "The Akranes Planning and Environment Council rejected a 31.7 million ISK bid for construction work on the Grundaskóli grounds. The bid was 32% over the estimated cost. The project will be re-evaluated and tendered again as a comprehensive package after funding is secured.",
+      "importance": 3,
+      "why_matters": "This decision delays the school grounds project and requires a new planning and tendering process.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-08T09:59:06Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/07/28/keypti_fyrst_dyrasta_hus_gardabaejar_og_svo_annad_h/",
       "title": "Keypti fyrst dýrasta hús Garðabæjar og svo annað hús sem kom á óvart",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:17:04Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/bruin_yfir_thjorsa_lokud/",
-      "title": "Brúin yfir Þjórsá lokuð",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/bruin_yfir_thjorsa_lokud/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/NcFASbFmWDl_H6dQ5DFkFvlDewU=/1640x1093/smart/frimg/1/66/34/1663401.jpg",
-      "published": "Tue, 07 Jul 2026 07:17:00 +0000",
-      "category": "skipulag",
-      "summary": "The bridge over Þjórsá on Þjórsárdalsvegur is closed due to damage to its railing after a concrete truck went off the bridge. Repairs are expected to take several days, and a detour is available via Landvegur.",
-      "importance": 3,
-      "why_matters": "The bridge closure impacts travel on Þjórsárdalsvegur, requiring drivers to use a detour.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:16:48Z"
     }
   ]
 }
