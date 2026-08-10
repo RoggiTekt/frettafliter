@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-10T18:41:16Z",
+  "updated": "2026-08-10T19:52:58Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-10",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/10/ekki_haegt_ad_hafa_stjorn_a_evropudomstolnum/",
+      "title": "Ekki hægt að hafa stjórn á Evrópudómstólnum",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/10/ekki_haegt_ad_hafa_stjorn_a_evropudomstolnum/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/jQaLnN9oHzhG6LzSAO0T6VmyFVM=/1640x1093/filters:cropcenter(48,37)/frimg/1/66/67/1666716.jpg",
+      "published": "Mon, 10 Aug 2026 19:15:00 +0000",
+      "category": "efnahagur",
+      "summary": "Dr. Carl Baudenbacher, former president of the EFTA Court, criticizes the European Court of Justice (ECJ), stating many of its judges come from political rather than legal backgrounds, making it difficult to control. He highlights its immense power, opaque appointment processes, and the influence of French legal thinking due to its official language.",
+      "importance": 4,
+      "why_matters": "This critique of the ECJ's structure and power is relevant for understanding the legal implications of Iceland's relationship with the European Union.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-10T19:39:06Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/10/nagranni_heyrdi_oskur_og_kallad_var_eftir_adstod/",
       "title": "Nágranni heyrði öskur og kallað var eftir aðstoð",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T19:23:03Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-07-thessar-konur-vaeru-ekki-her-nema-thad-vaeri-gridarleg-eftirspurn-eftir-vaendiskaupum-480680/",
-      "title": "„Þessar konur væru ekki hér nema það væri gríðarleg eftirspurn eftir vændiskaupum“",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-07-thessar-konur-vaeru-ekki-her-nema-thad-vaeri-gridarleg-eftirspurn-eftir-vaendiskaupum-480680/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0lNR182NzI4X1BtajdSQ1UuSlBHIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Tue, 07 Jul 2026 09:28:05 +0000",
-      "category": "frettir",
-      "summary": "An expert from Bjarkarhlíð highlights the significant demand for prostitution in Iceland, stating that women would not be trafficked to the country without it. This follows a recent police operation in Reykjavík where 16 women, some believed to be victims of Chinese organized crime, and five buyers were apprehended. The article emphasizes the human rights violations involved and the challenges victims face in seeking help.",
-      "importance": 5,
-      "why_matters": "The article sheds light on the ongoing issue of human trafficking and prostitution in Iceland, indicating a significant domestic demand that fuels organized crime.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:18:50Z"
     }
   ]
 }
