@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-09T23:28:32Z",
+  "updated": "2026-08-10T00:20:59Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
-  "brief_date": "2026-08-09",
+  "brief_date": "2026-08-10",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=62790",
+      "title": "Hornafjörður óskar eftir tilboðum í nýjan leikvöll í Nesjum",
+      "link": "https://byggingar.is/hornafjordur-oskar-eftir-tilbodum-i-nyjan-leikvoll-i-nesjum/?utm_source=rss&utm_medium=rss&utm_campaign=hornafjordur-oskar-eftir-tilbodum-i-nyjan-leikvoll-i-nesjum",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2022/07/26.07.2022-Hornafjordur.jpg",
+      "published": "Sun, 09 Aug 2026 17:44:01 +0000",
+      "category": "skipulag",
+      "summary": "The municipality of Hornafjörður is seeking bids for the complete construction of a new playground in Nesjum. The project includes earthworks, base layer construction, surface finishing, and the installation of play equipment. Bids are due by August 20, 2026, with the project expected to be finished by October 15, 2026.",
+      "importance": 3,
+      "why_matters": "This project outlines a new public amenity and local infrastructure development in Hornafjörður.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-09T23:48:43Z"
+    },
     {
       "id": "https://byggingar.is/?p=62743",
       "title": "28.08.2026 Veitur ohf. bjóða út stofnlagnir meðfram Ölfusvegi",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:18:18Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-07-14-saekjast-eftir-starfi-sveitarstjora-a-skagastrond-480685/",
-      "title": "14 sækjast eftir starfi sveitarstjóra á Skagaströnd",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-07-14-saekjast-eftir-starfi-sveitarstjora-a-skagastrond-480685/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzLzIwMjUwODI0XzE4MDcyMi5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Tue, 07 Jul 2026 10:29:26 +0000",
-      "category": "skipulag",
-      "summary": "Fourteen individuals have applied for the municipal manager position in Skagaströnd, following two withdrawals from the initial 16 applicants. The list of candidates includes three former municipal managers and a range of other professionals.",
-      "importance": 3,
-      "why_matters": "The municipal manager is a key administrative role responsible for local government operations, including planning and development within the municipality.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:18:09Z"
     }
   ]
 }
