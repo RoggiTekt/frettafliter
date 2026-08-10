@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-10T03:09:45Z",
+  "updated": "2026-08-10T05:30:51Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-10",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=62764",
+      "title": "NCC sektað eftir banaslys við Northvolt í Svíþjóð",
+      "link": "https://byggingar.is/ncc-sektad-eftir-banaslys-vid-northvolt-i-svithjod/?utm_source=rss&utm_medium=rss&utm_campaign=ncc-sektad-eftir-banaslys-vid-northvolt-i-svithjod",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/08/07.08.2026-NCC-sektad-eftir-banaslys-vid-Northvolt-i-Svithjod-a.jpg",
+      "published": "Fri, 07 Aug 2026 08:35:07 +0000",
+      "category": "arkitektur",
+      "summary": "The Swedish construction company NCC has agreed to pay a 5 million SEK fine following a fatal accident at the Northvolt battery factory construction site in December 2023. One worker died and another was severely injured when a crane fell, with prosecutors citing NCC's inadequate risk assessment for the lifting operation. NCC has accepted the fine, acknowledging shortcomings in their safety preparations.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-10T05:01:06Z"
+    },
     {
       "id": "https://byggingar.is/?p=62790",
       "title": "Hornafjörður óskar eftir tilboðum í nýjan leikvöll í Nesjum",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:18:35Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-07-megas-latinn-480684/",
-      "title": "Megas látinn",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-07-megas-latinn-480684/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2ZyXzIwMTcxMDI3XzA3MjEwOC5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Tue, 07 Jul 2026 10:14:49 +0000",
-      "category": "menning",
-      "summary": "Magnús Þór Jónsson, widely known as Megas, a highly influential Icelandic musician, writer, and visual artist, has passed away at the age of 81. His prolific work and unique style, influenced by figures like Halldór Laxness and Bob Dylan, left a profound and lasting impact on Icelandic culture.",
-      "importance": 4,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:18:18Z"
     }
   ]
 }
