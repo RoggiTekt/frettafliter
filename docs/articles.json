@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-10T09:26:10Z",
+  "updated": "2026-08-10T11:11:29Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-10",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/10/nagranni_heyrdi_oskur_og_kallad_var_eftir_adstod/",
+      "title": "Nágranni heyrði öskur og kallað var eftir aðstoð",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/10/nagranni_heyrdi_oskur_og_kallad_var_eftir_adstod/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/bhV-8lm_e79JpwapufLa400G5-E=/1640x1093/smart/frimg/1/66/95/1669506.jpg",
+      "published": "Mon, 10 Aug 2026 09:59:00 +0000",
+      "category": "frettir",
+      "summary": "A neighbor in Kópavogur recounts witnessing events leading to a man's death, which police are investigating as a homicide. The neighbor saw two men in black enter and then flee the scene, followed by screams and the arrival of emergency services. Several individuals have been arrested in connection with the incident.",
+      "importance": 5,
+      "why_matters": "This is a serious crime in Iceland, indicating a significant public safety event.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-10T11:00:54Z"
+    },
     {
       "id": "https://byggingar.is/?p=62764",
       "title": "NCC sektað eftir banaslys við Northvolt í Svíþjóð",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T12:18:50Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-07-mesta-umferdin-a-fostudogum-en-minnst-a-laugardogum-480682/",
-      "title": "Mesta umferðin á föstudögum en minnst á laugardögum",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-07-mesta-umferdin-a-fostudogum-en-minnst-a-laugardogum-480682/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzLzI0LTA1MzJfVW1mZXJkX2FfU2FlYnJhdXRfZnJhbWVfMTM2MS5qcGVnIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Tue, 07 Jul 2026 09:40:08 +0000",
-      "category": "skipulag",
-      "summary": "Traffic in Iceland has increased by 1% since the start of the year, with a notable 3.6% rise on the ring road in June after a three-month decline. The Road Administration attributes much of this to increased vehicle numbers at Úlfarsfell and forecasts a 3.5% increase for the rest of the year.",
-      "importance": 3,
-      "why_matters": "This data informs future road infrastructure planning and development in Iceland.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T12:18:35Z"
     }
   ]
 }
