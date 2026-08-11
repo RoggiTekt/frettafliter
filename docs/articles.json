@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-10T23:32:05Z",
+  "updated": "2026-08-11T00:26:08Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
-  "brief_date": "2026-08-10",
+  "brief_date": "2026-08-11",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/08/04/gudmundur_selur_350_milljona_hus/",
+      "title": "Guðmundur selur 350 milljóna hús",
+      "link": "https://www.mbl.is/smartland/heimili/2026/08/04/gudmundur_selur_350_milljona_hus/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/BwX_ck3CgGcvkP15MXmPm4Fk6I8=/1640x1093/smart/frimg/1/66/85/1668513.jpg",
+      "published": "Tue, 04 Aug 2026 12:12:00 +0000",
+      "category": "fasteignir",
+      "summary": "Investor Guðmundur Hafsteinsson, known as Gummi Google, is selling his extensively renovated 286 sqm detached house in Grímshagi, Reykjavík, for 350 million ISK. The 1964-built property features a modern kitchen, a well-designed laundry room, a hot tub in the garden, and a sauna in the garage.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-11T00:06:17Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/10/ekki_haegt_ad_hafa_stjorn_a_evropudomstolnum/",
       "title": "Ekki hægt að hafa stjórn á Evrópudómstólnum",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T19:23:12Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61797",
-      "title": "27.07.2026 Dalvíkurbyggð. Birkihólar gatnagerð",
-      "link": "https://byggingar.is/dalvikurbyggd-birkiholar-gatnagerd/?utm_source=rss&utm_medium=rss&utm_campaign=dalvikurbyggd-birkiholar-gatnagerd",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/07.07.2026-Dalvikurbyggd.jpg",
-      "published": "Tue, 07 Jul 2026 17:30:38 +0000",
-      "category": "skipulag",
-      "summary": "Dalvíkurbyggð is soliciting bids for the construction of a new 70-meter cul-de-sac street in Birkihólar. The project includes earthworks, utility installation, paving, and street lighting. The goal is to prepare the adjacent plots for construction, with completion expected by November 1, 2026.",
-      "importance": 4,
-      "why_matters": "This project will create new infrastructure and enable future property development in the area.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T19:23:03Z"
     }
   ]
 }
