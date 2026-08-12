@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-12T21:38:29Z",
+  "updated": "2026-08-12T22:38:22Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-12",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/08/06/hrafnhildur_og_arni_selja_perlu_i_thingholtunum/",
+      "title": "Hrafnhildur og Árni selja perlu í Þingholtunum",
+      "link": "https://www.mbl.is/smartland/heimili/2026/08/06/hrafnhildur_og_arni_selja_perlu_i_thingholtunum/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/I3DyVUlWCp6elE8AtFFD6XkNNV0=/1640x1093/smart/frimg/1/66/89/1668919.jpg",
+      "published": "Thu, 06 Aug 2026 13:00:00 +0000",
+      "category": "arkitektur",
+      "summary": "A renovated 1925 concrete house in Þingholt, Reykjavík, owned by Hrafnhildur and Árni, is currently for sale at 172.9 million ISK. The owners meticulously restored the 162 sqm property, blending old and new elements with a \"more is more\" design philosophy. Hrafnhildur, with a background in art and design, emphasized respecting the house's history while incorporating modern touches like a Haf Studio kitchen and vintage finds.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-12T22:20:58Z"
+    },
     {
       "id": "https://byggingar.is/?p=62894",
       "title": "Starfsmaður reyndi að bregðast við eldsvoðanum",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T19:23:29Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61786",
-      "title": "Steypubíllinn dreginn á þurrt land",
-      "link": "https://byggingar.is/steypubillinn-dreginn-a-thurrt-land/?utm_source=rss&utm_medium=rss&utm_campaign=steypubillinn-dreginn-a-thurrt-land",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/07.07.2026-Steypubillinn-dreginn-a-thurrt-land-a.jpg",
-      "published": "Tue, 07 Jul 2026 17:06:13 +0000",
-      "category": "frettir",
-      "summary": "A concrete truck that fell off a bridge over Þjórsá near Sultartangavirkjun was successfully recovered from the river. The bridge's railing was damaged in the incident, leading to its closure until repairs are completed.",
-      "importance": 3,
-      "why_matters": "The bridge closure will affect local traffic and require repair work.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T19:23:21Z"
     }
   ]
 }
