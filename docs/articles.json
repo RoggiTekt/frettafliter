@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-12T18:43:17Z",
+  "updated": "2026-08-12T20:04:46Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-12",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=62894",
+      "title": "Starfsmaður reyndi að bregðast við eldsvoðanum",
+      "link": "https://byggingar.is/starfsmadur-reyndi-ad-bregdast-vid-eldsvodanum/?utm_source=rss&utm_medium=rss&utm_campaign=starfsmadur-reyndi-ad-bregdast-vid-eldsvodanum",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/08/12.08.2026-Starfsmadur-reyndi-ad-bregdast-vid-eldsvodanum.jpg",
+      "published": "Wed, 12 Aug 2026 19:19:52 +0000",
+      "category": "frettir",
+      "summary": "A fire broke out in a carpentry workshop in Grafarvogur, but no one was seriously injured. An employee attempted to put out the fire and was taken to the emergency room as a precaution. The fire originated in the building's exhaust system, and no foul play is suspected.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-12T19:31:32Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/08/04/gudmundur_selur_350_milljona_hus/",
       "title": "Guðmundur selur 350 milljóna hús",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T19:23:21Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61793",
-      "title": "27.07.2026 Böggvisbraut suður, endurnýjun götu og fráveitulagna",
-      "link": "https://byggingar.is/boggvisbraut-sudur-endurnyjun-gotu-og-fraveitulagna/?utm_source=rss&utm_medium=rss&utm_campaign=boggvisbraut-sudur-endurnyjun-gotu-og-fraveitulagna",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/07.07.2026-Dalvik.jpg",
-      "published": "Tue, 07 Jul 2026 17:24:08 +0000",
-      "category": "skipulag",
-      "summary": "Dalvíkurbyggð is seeking bids for the renovation of the southern 220 meters of Böggvisbraut. The project involves renewing the street's base, asphalt, sidewalk, and curb, as well as upgrading and expanding the sewage system. Bids are due by July 27, 2026, with the work to be completed by November 1, 2026.",
-      "importance": 3,
-      "why_matters": "This project will improve local infrastructure and public services in Dalvíkurbyggð.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T19:23:12Z"
     }
   ]
 }
