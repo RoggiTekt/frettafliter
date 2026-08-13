@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-13T09:18:13Z",
+  "updated": "2026-08-13T11:08:15Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-13",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/13/yfir_70_prosent_a_moti_adildarvidraedunum/",
+      "title": "Yfir 70 prósent á móti aðildarviðræðunum",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/13/yfir_70_prosent_a_moti_adildarvidraedunum/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/gCL713c_TGdL3KG5_rwVn0DObPk=/1640x1093/smart/frimg/1/67/2/1670205.jpg",
+      "published": "Thu, 13 Aug 2026 10:28:00 +0000",
+      "category": "efnahagur",
+      "summary": "A market survey indicates that over 70% of respondents would vote against resuming EU accession talks in a hypothetical referendum. Around 20% would vote in favor, with a small percentage undecided. This survey, conducted among market and analysis professionals, contrasts with other polls suggesting a closer split.",
+      "importance": 4,
+      "why_matters": "The potential resumption of EU accession talks could significantly alter Iceland's economic and political landscape.",
+      "spin_flag": true,
+      "spin_note": "The headline highlights a specific survey's strong result against EU talks, while the body notes other polls show a much closer divide.",
+      "added_at": "2026-08-13T10:55:54Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/08/06/hrafnhildur_og_arni_selja_perlu_i_thingholtunum/",
       "title": "Hrafnhildur og Árni selja perlu í Þingholtunum",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T19:23:39Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/einn_akaerdra_fekk_rikisborgararett_eftir_motmaeli/",
-      "title": "Einn ákærðra fékk ríkisborgararétt eftir mótmæli",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/einn_akaerdra_fekk_rikisborgararett_eftir_motmaeli/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/7Ki_HkVH7Ye0gwt278RkAUaXaBk=/1640x1093/smart/frimg/1/40/10/1401022.jpg",
-      "published": "Tue, 07 Jul 2026 18:45:00 +0000",
-      "category": "frettir",
-      "summary": "One of four individuals charged in a major amphetamine smuggling case, involving the ship Dettifoss, is an Icelandic citizen. He gained citizenship in 2015 after a high-profile public protest against his family's deportation, having previously fled Albania due to gang threats and sought medical care for his son in Iceland.",
-      "importance": 4,
-      "why_matters": "This article details a significant drug smuggling case in Iceland, highlighting ongoing efforts to combat serious crime.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T19:23:29Z"
     }
   ]
 }
