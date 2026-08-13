@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-13T18:44:36Z",
+  "updated": "2026-08-13T20:01:25Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-13",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/13/thess_vegna_fer_um_mann_onotatilfinning/",
+      "title": "„Þess vegna fer um mann ónotatilfinning“",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/13/thess_vegna_fer_um_mann_onotatilfinning/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/n7gDs0HUwjiQnPvQ0SuXAJc99to=/1640x1093/smart/frimg/1/67/3/1670314.jpg",
+      "published": "Thu, 13 Aug 2026 16:30:00 +0000",
+      "category": "frettir",
+      "summary": "A politician is strongly criticizing a temporary law that allows foreign prisoners to be deported after serving only one-third of their sentence. He highlights the case of Angjelin Sterkaj, convicted of manslaughter, who was deported after five years. The politician fears this policy shortens sentences for foreign inmates and could signal leniency to organized crime.",
+      "importance": 4,
+      "why_matters": "This policy discussion could impact the perceived fairness of the justice system and how Iceland deals with serious crimes involving foreign nationals.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-13T19:54:04Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/13/yfir_70_prosent_a_moti_adildarvidraedunum/",
       "title": "Yfir 70 prósent á móti aðildarviðræðunum",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T19:23:47Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/steypubillinn_sottur_ur_anni/",
-      "title": "Steypubíllinn sóttur úr ánni",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/steypubillinn_sottur_ur_anni/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/NcFASbFmWDl_H6dQ5DFkFvlDewU=/1640x1093/smart/frimg/1/66/34/1663401.jpg",
-      "published": "Tue, 07 Jul 2026 18:20:00 +0000",
-      "category": "frettir",
-      "summary": "A concrete truck that fell off a bridge into the Þjórsá river near Sultartangavirkjun has been retrieved. The driver was rescued by helicopter, and Landsvirkjun reduced river flow to facilitate the truck's removal. The bridge remains closed due to ongoing construction.",
-      "importance": 4,
-      "why_matters": "The bridge closure impacts local travel and infrastructure.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T19:23:39Z"
     }
   ]
 }
