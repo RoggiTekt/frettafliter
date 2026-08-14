@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-14T16:40:34Z",
+  "updated": "2026-08-14T17:47:24Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-14",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=62947",
+      "title": "Lögnin órofin en gæti þurft að leggja aðra",
+      "link": "https://byggingar.is/lognin-orofin-en-gaeti-thurft-ad-leggja-adra/?utm_source=rss&utm_medium=rss&utm_campaign=lognin-orofin-en-gaeti-thurft-ad-leggja-adra",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/08/14.08.2026-Lognin-orofin-en-gaeti-thurft-ad-leggja-adra.jpg",
+      "published": "Fri, 14 Aug 2026 12:40:07 +0000",
+      "category": "skipulag",
+      "summary": "A public safety pipeline being laid to Vestmannaeyjar suffered damage during its installation. Despite the damage being considered a \"total loss\" by the municipality, project managers decided to complete the laying of the pipe due to difficult conditions. An investigation is underway to determine the cause of the unexpected incident, but the pipeline itself is confirmed not to be broken.",
+      "importance": 4,
+      "why_matters": "This incident could lead to delays or increased costs for a critical public safety infrastructure project for Vestmannaeyjar.",
+      "spin_flag": true,
+      "spin_note": "The title emphasizes the pipeline is \"unbroken\" while the body clarifies the damage is considered a \"total loss\" by the municipality, implying it may not be fit for purpose.",
+      "added_at": "2026-08-14T17:17:30Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/13/thess_vegna_fer_um_mann_onotatilfinning/",
       "title": "„Þess vegna fer um mann ónotatilfinning“",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T19:24:07Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/handtekinn_grunadur_um_innbrot/",
-      "title": "Handtekinn grunaður um innbrot",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/handtekinn_grunadur_um_innbrot/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/N-YJtSmkPg3h0R92zQ_ZsHW9cao=/1640x1093/smart/frimg/1/64/11/1641155.jpg",
-      "published": "Tue, 07 Jul 2026 17:30:00 +0000",
-      "category": "frettir",
-      "summary": "Police in Reykjavík arrested one person suspected of burglary. The daily police log also noted two shoplifting incidents, a person removed from a bus for sleeping, and a driver caught speeding.",
-      "importance": 3,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T19:23:47Z"
     }
   ]
 }
