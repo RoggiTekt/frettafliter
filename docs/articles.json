@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-15T19:22:20Z",
+  "updated": "2026-08-15T20:10:32Z",
   "brief": "A new bridge over Breiðholtsbraut has opened, and repairs at Búrfellsvirkjun are nearing completion, lifting energy curtailments, while a historic single-family home in 101 Reykjavík was also sold. A fire broke out in the roof of an apartment block in Bryggjuhverfi, and emergency line issues continue to be a concern despite Australian acknowledgements of error. Economically, the Minister of Industries emphasized protecting Elkem's international competitiveness, and warnings were issued about the significant impact on living standards if the Euro were adopted. The terrorism case has concluded with no appeal from the State Prosecutor, while Icelandic authorities are being compelled to hear stories from corruption victims.",
   "brief_date": "2026-08-15",
   "items": [
+    {
+      "id": "https://www.mbl.is/vidskipti/frettir/2026/08/15/island_ma_ekki_heltast_ur_lestinni/",
+      "title": "Ísland má ekki heltast úr lestinni",
+      "link": "https://www.mbl.is/vidskipti/frettir/2026/08/15/island_ma_ekki_heltast_ur_lestinni/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/Un0fANXpzVBXtazVDd3ZtwqgBd4=/1640x1093/smart/frimg/1/67/6/1670695.jpg",
+      "published": "Sat, 15 Aug 2026 15:48:00 +0000",
+      "category": "menning",
+      "summary": "Alfreð Ásberg, CEO of Sambíóin, criticizes the Icelandic Film Centre for its support of Icelandic filmmaking, stating Iceland is falling behind in film project reimbursements. He suggests reforming the system, including splitting the film fund, which currently allocates to both Icelandic and larger foreign projects.",
+      "importance": 3,
+      "why_matters": "This article discusses potential issues with funding and support for the Icelandic film industry, which could impact its future growth and competitiveness.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-15T20:05:36Z"
+    },
     {
       "id": "https://byggingar.is/?p=62947",
       "title": "Lögnin órofin en gæti þurft að leggja aðra",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T19:24:37Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/07/thetta_er_bara_felagsleg_einangrun/",
-      "title": "„Þetta er bara félagsleg einangrun“",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/07/thetta_er_bara_felagsleg_einangrun/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/vEbY3YZOlS6tc2pcTDy976VQkWY=/1640x1093/smart/frimg/1/65/58/1655882.jpg",
-      "published": "Tue, 07 Jul 2026 16:06:00 +0000",
-      "category": "skipulag",
-      "summary": "Five hot tubs and the steam bath at Laugardalslaug swimming pool have been closed indefinitely due to safety concerns regarding the stadium stand above them. A new risk assessment revealed significant structural damage to the 1968-built stand. Regular patrons express frustration and a sense of social isolation due to the closure of their long-standing gathering spot.",
-      "importance": 3,
-      "why_matters": "This municipal decision impacts a significant public amenity and raises questions about the maintenance and safety of city infrastructure.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T19:24:07Z"
     }
   ]
 }
