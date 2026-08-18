@@ -1,8 +1,53 @@
 {
-  "updated": "2026-08-18T21:16:05Z",
+  "updated": "2026-08-18T22:13:40Z",
   "brief": "Today's real estate news highlights a 27 sqm apartment listed at 39 million ISK, with luxury homes also changing hands for significant sums. Construction continues on the University's health sciences building, and a new World Class hotel is underway. Economically, there are calls to lower mandatory savings, and the public expresses general concerns. Separately, a major theft has been reported at Eignabyggð.",
   "brief_date": "2026-08-18",
   "items": [
+    {
+      "id": "https://www.mbl.is/vidskipti/frettir/2026/08/17/tilbuin_til_samtals_vid_stjornvold/",
+      "title": "„Tilbúin til samtals við stjórnvöld“",
+      "link": "https://www.mbl.is/vidskipti/frettir/2026/08/17/tilbuin_til_samtals_vid_stjornvold/",
+      "source": "mbl Viðskipti",
+      "image": "https://c.arvakur.is/m2/tbuUwwW5MAl_lt11uwZDhGDh-PI=/1640x1093/smart/frimg/1/62/4/1620468.jpg",
+      "published": "Mon, 17 Aug 2026 08:00:00 +0000",
+      "category": "efnahagur",
+      "summary": "The Federation of Icelandic Financial Services Companies warns against proposed tax increases on banks, citing a survey where 51-66% of respondents believe such taxes would negatively impact customers, shareholders, Icelandic companies, and the general public. The federation's managing director suggests that other, more suitable methods should be considered to improve state finances.",
+      "importance": 4,
+      "why_matters": "Proposed tax increases on banks could impact the competitiveness of Iceland's financial sector and potentially lead to negative consequences for consumers and businesses.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-18T22:07:57Z"
+    },
+    {
+      "id": "https://www.mbl.is/vidskipti/frettir/2026/08/17/aukinn_verkefnaskortur_hja_verktokum_og_honnudum/",
+      "title": "Aukinn verkefnaskortur hjá verktökum og hönnuðum",
+      "link": "https://www.mbl.is/vidskipti/frettir/2026/08/17/aukinn_verkefnaskortur_hja_verktokum_og_honnudum/",
+      "source": "mbl Viðskipti",
+      "image": "https://c.arvakur.is/m2/-fOzhhECjzB0JkZ9k9AHiQKruTU=/1640x1093/smart/frimg/1/67/9/1670928.jpg",
+      "published": "Mon, 17 Aug 2026 20:40:00 +0000",
+      "category": "efnahagur",
+      "summary": "Icelandic contractors and designers are facing an increasing shortage of projects, primarily due to high interest costs on unsold and under-construction apartments. The Federation of Icelandic Industries is urging the Central Bank to maintain current interest rates, despite high inflation, to prevent further strain on the construction sector, which has seen a significant rise in defaults.",
+      "importance": 5,
+      "why_matters": "High interest rates and inflation are severely impacting the Icelandic construction and housing market, potentially leading to fewer new projects and increased defaults.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-18T22:05:19Z"
+    },
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/18/ofremdarastand_a_ibudamarkadi/",
+      "title": "„Ófremdarástand“ á íbúðamarkaði",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/18/ofremdarastand_a_ibudamarkadi/",
+      "source": "mbl Viðskipti",
+      "image": "https://c.arvakur.is/m2/JV0lqCnISOJ3nCVlq3-r2IcP9YU=/1640x1093/smart/frimg/1/67/10/1671055.jpg",
+      "published": "Tue, 18 Aug 2026 07:30:00 +0000",
+      "category": "fasteignir",
+      "summary": "The Icelandic housing market is facing a difficult situation due to high interest rates, which are making it hard for construction companies to finance projects and leaving them with unsold apartments. Industry leaders are calling for the Central Bank to halt further interest rate hikes, warning that a prolonged slowdown in construction could lead to a future housing shortage.",
+      "importance": 5,
+      "why_matters": "High interest rates are causing a slowdown in housing construction, which could lead to a future supply shortage and increased prices, directly impacting the owner's cost of living and housing options.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-18T22:04:59Z"
+    },
     {
       "id": "https://byggingar.is/?p=63084",
       "title": "Eik hagnaðist um ríflega 3,8 milljarða",
@@ -3707,51 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T16:22:29Z"
-    },
-    {
-      "id": "https://www.mbl.is/smartland/heimili/2026/07/08/karitas_og_hafsteinn_honnudu_svakalegt_radhus_i_gar/",
-      "title": "Karitas og Hafsteinn hönnuðu svakalegt raðhús í Garðabæ",
-      "link": "https://www.mbl.is/smartland/heimili/2026/07/08/karitas_og_hafsteinn_honnudu_svakalegt_radhus_i_gar/",
-      "source": "mbl Heimili",
-      "image": "https://c.arvakur.is/m2/Zv5Gk5pfLcw-nmUfop0v371HD24=/1640x1093/smart/frimg/1/66/36/1663653.jpg",
-      "published": "Wed, 08 Jul 2026 13:30:00 +0000",
-      "category": "arkitektur",
-      "summary": "This article showcases a luxurious 201 sqm end-townhouse for sale in Garðabær, designed by HAF Studio, featuring architects Hafsteinn Júlíusson and Karitas Sveinsdóttir. It highlights the timeless design, natural materials like oak and marble, advanced acoustics, and a spa-like outdoor area designed by Sólgörðum. The property emphasizes comfort, high-quality finishes, and integrated smart solutions.",
-      "importance": 3,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:22:21Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61819",
-      "title": "17.07.2026 Ístak leitar að stjórnendum á hjólagröfu til starfa",
-      "link": "https://byggingar.is/istak-leitar-ad-stjornendum-a-hjolagrofu-til-starfa/?utm_source=rss&utm_medium=rss&utm_campaign=istak-leitar-ad-stjornendum-a-hjolagrofu-til-starfa",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/08.07.2026-Istak-leitar-ad-stjornendum-a-hjolagrofu-til-starfa.jpg",
-      "published": "Wed, 08 Jul 2026 13:36:09 +0000",
-      "category": "skipulag",
-      "summary": "Ístak, a major Icelandic construction company, is recruiting experienced excavator operators. These positions are for extensive infrastructure and civil engineering projects located in the Highlands and Reykjanes regions.",
-      "importance": 2,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:22:08Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61824",
-      "title": "Segir hóteláformin gerð í samráði við nærsamfélagið",
-      "link": "https://byggingar.is/segir-hotelaformin-gerd-i-samradi-vid-naersamfelagid/?utm_source=rss&utm_medium=rss&utm_campaign=segir-hotelaformin-gerd-i-samradi-vid-naersamfelagid",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/08.07.2026-Segir-hotelaformin-gerd-i-samradi-vid-naersamfelagid-a.jpg",
-      "published": "Wed, 08 Jul 2026 14:06:58 +0000",
-      "category": "skipulag",
-      "summary": "Isavia is planning a hotel at Keflavík Airport, stating the plans are part of a 2015 development strategy and current zoning, and were made in consultation with local communities. However, the mayor of Reykjanesbær has expressed concern that the airport hotel would harm existing local businesses by drawing visitors away from the town. Isavia clarified they do not intend to build or operate the hotel themselves, but are assessing market interest for a third-party developer.",
-      "importance": 4,
-      "why_matters": "This project could impact local businesses and the development of the Keflavík Airport area, a key economic hub.",
-      "spin_flag": true,
-      "spin_note": "The headline presents only Isavia's perspective on consultation, while the article body includes significant concerns from the Reykjanesbær mayor.",
-      "added_at": "2026-07-08T16:21:59Z"
     }
   ]
 }
