@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-18T16:18:27Z",
+  "updated": "2026-08-18T17:24:09Z",
   "brief": "Today's real estate news highlights a 27 sqm apartment listed at 39 million ISK, with luxury homes also changing hands for significant sums. Construction continues on the University's health sciences building, and a new World Class hotel is underway. Economically, there are calls to lower mandatory savings, and the public expresses general concerns. Separately, a major theft has been reported at Eignabyggð.",
   "brief_date": "2026-08-18",
   "items": [
+    {
+      "id": "https://www.mbl.is/vidskipti/frettir/2026/08/18/godar_frettir_i_barattunni_vid_verdbolgu/",
+      "title": "„Góðar fréttir í baráttunni við verðbólgu“",
+      "link": "https://www.mbl.is/vidskipti/frettir/2026/08/18/godar_frettir_i_barattunni_vid_verdbolgu/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/RFB58VOqNCVcDIViLTdYffVTAtg=/1640x1093/smart/frimg/1/65/83/1658356.jpg",
+      "published": "Tue, 18 Aug 2026 13:28:00 +0000",
+      "category": "efnahagur",
+      "summary": "Icelandic credit card spending increased by 1.4% in July year-on-year, adjusted for inflation, driven by a significant rise in spending abroad. Domestic spending, however, saw a slight decrease. This shift towards foreign consumption is seen as positive for the fight against domestic inflation, though it could potentially weaken the Icelandic króna in the long term.",
+      "importance": 5,
+      "why_matters": "This article explains how current consumer spending patterns are influencing domestic inflation, a key economic concern for the owner.",
+      "spin_flag": true,
+      "spin_note": "The headline focuses solely on the 'good news' aspect regarding inflation, while the body also notes a potential counter-effect of weakening the exchange rate, which could create future inflationary pressure.",
+      "added_at": "2026-08-18T17:15:09Z"
+    },
     {
       "id": "https://www.mbl.is/vidskipti/frettir/2026/08/18/vaxtahaekkun_liklegust_ad_mati_staerstu_bankanna/",
       "title": "Vaxtahækkun líklegust að mati stærstu bankanna",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T09:33:38Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61812",
-      "title": "Viðmiðunargildi fyrir kolefnisspor nýbygginga",
-      "link": "https://byggingar.is/vidmidunargildi-fyrir-kolefnisspor-nybygginga/?utm_source=rss&utm_medium=rss&utm_campaign=vidmidunargildi-fyrir-kolefnisspor-nybygginga",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/07.07.2026-Vidmidunargildi-fyrir-kolefnisspor-nybygginga-a.jpg",
-      "published": "Wed, 08 Jul 2026 07:17:50 +0000",
-      "category": "skipulag",
-      "summary": "The Housing and Construction Authority (HMS) has released new reference values for the carbon footprint of new buildings in Iceland. Analysis shows that without changes, the construction industry will not meet its climate targets. HMS plans to implement mandatory maximum carbon footprint values for new constructions by autumn 2027.",
-      "importance": 5,
-      "why_matters": "This policy will mandate changes in how new buildings are designed and constructed in Iceland, aiming to reduce the environmental impact of the construction sector.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T09:33:27Z"
     }
   ]
 }
