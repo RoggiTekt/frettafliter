@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-18T22:13:40Z",
+  "updated": "2026-08-18T23:19:10Z",
   "brief": "Today's real estate news highlights a 27 sqm apartment listed at 39 million ISK, with luxury homes also changing hands for significant sums. Construction continues on the University's health sciences building, and a new World Class hotel is underway. Economically, there are calls to lower mandatory savings, and the public expresses general concerns. Separately, a major theft has been reported at Eignabyggð.",
   "brief_date": "2026-08-18",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=63077",
+      "title": "Framkvæmdir við stækkun hjúkrunarheimilisins Sóltúns ganga vel",
+      "link": "https://byggingar.is/framkvaemdir-vid-staekkun-hjukrunarheimilisins-soltuns-ganga-vel/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdir-vid-staekkun-hjukrunarheimilisins-soltuns-ganga-vel",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/08/18.08.2026-Framkvaemdir-vid-staekkun-hjukrunarheimilisins-Soltuns-ganga-vel-c.jpg",
+      "published": "Tue, 18 Aug 2026 16:10:50 +0000",
+      "category": "arkitektur",
+      "summary": "The expansion of the Sóltún nursing home is progressing well, with the steel structure now complete and parts of the building enclosed. This project will significantly increase the nursing home's capacity, adding 67 rooms and bringing the total to 159. The next steps involve completing the central section and technical rooms.",
+      "importance": 3,
+      "why_matters": "The expansion will significantly increase the capacity of nursing home care in the capital region.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-18T22:46:21Z"
+    },
     {
       "id": "https://www.mbl.is/vidskipti/frettir/2026/08/17/tilbuin_til_samtals_vid_stjornvold/",
       "title": "„Tilbúin til samtals við stjórnvöld“",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T16:22:45Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/08/allir_niu_i_fjogurra_vikna_gaesluvardhald_i_vidbot/",
-      "title": "Allir níu í fjögurra vikna gæsluvarðhald í viðbót",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/08/allir_niu_i_fjogurra_vikna_gaesluvardhald_i_vidbot/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/LAy1dR-XbrIKFN7WcVpQr4-LSYE=/1640x1093/smart/frimg/1/66/29/1662924.jpg",
-      "published": "Wed, 08 Jul 2026 16:15:00 +0000",
-      "category": "frettir",
-      "summary": "Nine individuals involved in the Straumsvík case, Iceland's largest drug smuggling operation, have been remanded in custody for an additional four weeks. The case involves the smuggling of 106 kilograms of cocaine from Brazil, which was retrieved from a cargo ship off Straumsvík. Several nationalities, including Icelanders, are among those detained.",
-      "importance": 5,
-      "why_matters": "This case represents the largest drug smuggling operation ever uncovered in Iceland, highlighting significant criminal activity and ongoing police efforts.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:22:29Z"
     }
   ]
 }
