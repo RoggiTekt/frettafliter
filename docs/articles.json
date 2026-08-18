@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-18T09:29:00Z",
+  "updated": "2026-08-18T10:24:24Z",
   "brief": "Today's real estate news highlights a 27 sqm apartment listed at 39 million ISK, with luxury homes also changing hands for significant sums. Construction continues on the University's health sciences building, and a new World Class hotel is underway. Economically, there are calls to lower mandatory savings, and the public expresses general concerns. Separately, a major theft has been reported at Eignabyggð.",
   "brief_date": "2026-08-18",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/08/12/helga_og_robert_keyptu_198_milljona_ibud_i_vesturba/",
+      "title": "Helga og Róbert keyptu 198 milljóna íbúð í Vesturbænum",
+      "link": "https://www.mbl.is/smartland/heimili/2026/08/12/helga_og_robert_keyptu_198_milljona_ibud_i_vesturba/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/7SA48qOP9laGRwmisFtpr5OvRMs=/1640x1093/smart/frimg/1/66/98/1669895.jpg",
+      "published": "Wed, 12 Aug 2026 10:07:00 +0000",
+      "category": "fasteignir",
+      "summary": "Helga María Pálsdóttir and Róbert Ragnarsson have purchased a 227 sqm apartment in Grenimel, Vesturbær, Reykjavík, for 198 million ISK. The 1945-built apartment features French windows, decorative ceilings, a fireplace, and elegant interiors. The sellers were Friðrik Ársælsson and Rakel Sævarsdóttir.",
+      "importance": 4,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-18T10:00:27Z"
+    },
     {
       "id": "https://www.mbl.is/vidskipti/frettir/2026/08/17/almenningur_deilir_ahyggjunum/",
       "title": "Almenningur deilir áhyggjunum",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T23:37:47Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-07-fjallalamb-vildi-ad-byggdastofnun-afskrifadi-lan-480701/",
-      "title": "Fjallalamb vildi að Byggðastofnun afskrifaði lán",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-07-fjallalamb-vildi-ad-byggdastofnun-afskrifadi-lan-480701/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2tvcGFza2VyX2ZqYWxsYWxhbWIuanBnIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Tue, 07 Jul 2026 13:59:30 +0000",
-      "category": "efnahagur",
-      "summary": "Fjallalamb, a significant employer in the fragile Öxarfjörður region, requested that the Icelandic Regional Development Institute (Byggðastofnun) write off a loan. Byggðastofnun declined the request due to a lack of legal authority but affirmed its commitment to continue supporting the company, which has recently seen improved operations.",
-      "importance": 3,
-      "why_matters": "This highlights the ongoing challenges and government support for businesses in Iceland's fragile rural regions.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T23:36:57Z"
     }
   ]
 }
