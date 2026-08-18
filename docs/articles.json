@@ -1,8 +1,38 @@
 {
-  "updated": "2026-08-18T13:44:14Z",
+  "updated": "2026-08-18T14:31:03Z",
   "brief": "Today's real estate news highlights a 27 sqm apartment listed at 39 million ISK, with luxury homes also changing hands for significant sums. Construction continues on the University's health sciences building, and a new World Class hotel is underway. Economically, there are calls to lower mandatory savings, and the public expresses general concerns. Separately, a major theft has been reported at Eignabyggð.",
   "brief_date": "2026-08-18",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/08/17/eik_gisla_selur_smart_ibud_i_sigvalda_husi/",
+      "title": "Eik Gísla selur smart íbúð í Sigvalda húsi",
+      "link": "https://www.mbl.is/smartland/heimili/2026/08/17/eik_gisla_selur_smart_ibud_i_sigvalda_husi/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/NBlbzw0XRFY6h-FchN2sqnGn-IM=/1640x1093/smart/frimg/1/67/8/1670860.jpg",
+      "published": "Mon, 17 Aug 2026 09:56:00 +0000",
+      "category": "arkitektur",
+      "summary": "Eik Gísladóttir, an Icelandair flight attendant, has put her 164 sqm apartment up for sale. The property, designed by architect Sigvaldi Thordarson in 1959, features a renovated interior with a modern kitchen, fishbone parquet flooring, and a home gym. It includes a converted garage that functions as a separate apartment.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-18T14:04:44Z"
+    },
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/08/18/192_milljona_radhus_i_fossvogi/",
+      "title": "192 milljóna raðhús í Fossvogi",
+      "link": "https://www.mbl.is/smartland/heimili/2026/08/18/192_milljona_radhus_i_fossvogi/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/FXE0TYICubPldWT8udPwGU4xVXs=/1640x1093/smart/frimg/1/67/11/1671117.jpg",
+      "published": "Tue, 18 Aug 2026 10:29:00 +0000",
+      "category": "fasteignir",
+      "summary": "A 215 sqm townhouse in Fossvogur, built in 1970, is listed for 192 million ISK. The article details its split-level design, a white kitchen, a living room with large windows and a fireplace, and a well-designed garden featuring hot and cold tubs and extensive lighting. It is presented as a cozy home suitable for families.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-18T14:04:32Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/08/12/helga_og_robert_keyptu_198_milljona_ibud_i_vesturba/",
       "title": "Helga og Róbert keyptu 198 milljóna íbúð í Vesturbænum",
@@ -3722,36 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-07T23:38:12Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-07-ordheppinn-madur-ordsins-480699/",
-      "title": "Orðheppinn maður orðsins",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-07-ordheppinn-madur-ordsins-480699/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2ZyXzIwMTUwNDA3XzAxMjEwNC5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Tue, 07 Jul 2026 13:03:09 +0000",
-      "category": "menning",
-      "summary": "The article reports the death of Magnús Þór Jónsson, known as Megas, a prominent Icelandic musician, writer, and artist, at age 81. It features an interview discussing Megas's significant legacy, highlighting his unique songwriting style and influence on Icelandic music and literature. Megas is remembered as a \"man of words\" who left behind over 700 songs.",
-      "importance": 4,
-      "why_matters": "His passing marks the end of an era for Icelandic music and literature, leaving a lasting legacy on the nation's cultural identity.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T23:38:05Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-07-hrun-hafstraumakerfisins-mogulega-oumflyjanlegt-480696/",
-      "title": "Hrun hafstraumakerfisins mögulega óumflýjanlegt",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-07-hrun-hafstraumakerfisins-mogulega-oumflyjanlegt-480696/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0FNT0Nfa2xpcHBfMjMuMDkuMjQuMDBfMDFfMzRfMjAuU3RpbGwwMDguanBnIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Tue, 07 Jul 2026 13:08:26 +0000",
-      "category": "frettir",
-      "summary": "A new study by British scientists suggests that the collapse of the Atlantic Ocean's major current system (AMOC) might be inevitable. This system is vital for Iceland's mild climate, and its failure could make the country nearly uninhabitable due to extreme cold. While the exact probabilities are debated, experts confirm that increasing greenhouse gas emissions raise the likelihood of this catastrophic event.",
-      "importance": 5,
-      "why_matters": "The potential collapse of the AMOC system could lead to a new cold period, making Iceland nearly uninhabitable and significantly impacting European agriculture.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-07T23:37:47Z"
     }
   ]
 }
