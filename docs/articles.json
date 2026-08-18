@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-18T20:11:15Z",
+  "updated": "2026-08-18T21:16:05Z",
   "brief": "Today's real estate news highlights a 27 sqm apartment listed at 39 million ISK, with luxury homes also changing hands for significant sums. Construction continues on the University's health sciences building, and a new World Class hotel is underway. Economically, there are calls to lower mandatory savings, and the public expresses general concerns. Separately, a major theft has been reported at Eignabyggð.",
   "brief_date": "2026-08-18",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=63084",
+      "title": "Eik hagnaðist um ríflega 3,8 milljarða",
+      "link": "https://byggingar.is/eik-hagnadist-um-riflega-38-milljarda/?utm_source=rss&utm_medium=rss&utm_campaign=eik-hagnadist-um-riflega-38-milljarda",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/08/18.08.2026-Eik-hagnadist-um-riflega-38-milljarda.jpg",
+      "published": "Tue, 18 Aug 2026 18:16:15 +0000",
+      "category": "fasteignir",
+      "summary": "Eik fasteignafélag, one of Iceland's largest real estate companies, reported a profit of 3.79 billion ISK in the first half of the year, with rental income increasing by 21.3%. The company's operating revenues reached 7.2 billion ISK, and it completed the acquisition of one property while selling three others.",
+      "importance": 4,
+      "why_matters": "The financial performance and transactions of a major real estate company like Eik provide insights into the health and trends of the Icelandic property market.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-18T20:43:08Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/18/neitar_thvi_ad_hafa_hotad_manninum_med_kedjusog/",
       "title": "Neitar því að hafa hótað manninum með keðjusög",
@@ -3737,21 +3752,6 @@
       "spin_flag": true,
       "spin_note": "The headline presents only Isavia's perspective on consultation, while the article body includes significant concerns from the Reykjanesbær mayor.",
       "added_at": "2026-07-08T16:21:59Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61829",
-      "title": "Sólar ehf. bauð 67.6% undir kostnaðaráætlun í ræstingarútboði",
-      "link": "https://byggingar.is/solar-ehf-baud-67-6-undir-kostnadaraaetlun-i-raestingarutbodi/?utm_source=rss&utm_medium=rss&utm_campaign=solar-ehf-baud-67-6-undir-kostnadaraaetlun-i-raestingarutbodi",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/08.07.2026-Solar-ehf.-baud-67.6-undir-kostnadaraaetlun-i-raestingarutbodi.jpg",
-      "published": "Wed, 08 Jul 2026 15:49:16 +0000",
-      "category": "skipulag",
-      "summary": "The Icelandic Road and Coastal Administration received only one bid for a three-year cleaning tender for its 453.7 square meter office in Borgarnes. Sólar ehf. submitted a bid that was 67.6% lower than the estimated cost. The agency is currently reviewing the offer.",
-      "importance": 2,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:21:49Z"
     }
   ]
 }
