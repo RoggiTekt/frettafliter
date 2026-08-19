@@ -1,8 +1,38 @@
 {
-  "updated": "2026-08-19T21:16:46Z",
+  "updated": "2026-08-19T22:16:20Z",
   "brief": "A planning investigation has concluded with no reason for further action, and the real estate market saw the purchase of a 220 million ISK home in Garðabær. An architect encourages taking chances in design, while a charming 101 home with impressive windows was also highlighted. Economically, there's been strong criticism of current management and a call for Althingi to revise alcohol legislation. River water levels are expected to rise in the coming days, and Nicole Kidman expressed her love for Iceland.",
   "brief_date": "2026-08-19",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/19/oroapulsar_undir_myrdalsjokli/",
+      "title": "Óróapúlsar undir Mýrdalsjökli",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/19/oroapulsar_undir_myrdalsjokli/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/OlUVA1mfnJHA7eIzEFbaJE7OSsU=/1640x1093/smart/frimg/1/67/15/1671514.jpg",
+      "published": "Wed, 19 Aug 2026 21:25:00 +0000",
+      "category": "frettir",
+      "summary": "Tremor pulses have been detected under Mýrdalsjökull, indicating potential activity from the Katla volcano. While experts from the Icelandic Met Office state there's no immediate sign of a very large glacial outburst flood, electrical conductivity in a nearby river has increased, suggesting some floodwater movement. Katla is one of Iceland's most active volcanoes and is considered overdue for an eruption.",
+      "importance": 5,
+      "why_matters": "Katla is a highly active volcano, and an eruption or large glacial flood could have significant impacts on infrastructure and safety in Iceland.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-19T21:51:02Z"
+    },
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/08/06/dr_marianna_selur_sjarmerandi_ibud/",
+      "title": "Dr. Maríanna selur sjarmerandi íbúð",
+      "link": "https://www.mbl.is/smartland/heimili/2026/08/06/dr_marianna_selur_sjarmerandi_ibud/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/t9-gJ6zIY03umK5ue1EuPc9oBA8=/1640x1093/smart/frimg/1/66/89/1668994.jpg",
+      "published": "Thu, 06 Aug 2026 22:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "Dr. Maríanna Garðarsdóttir is selling her 111 sqm apartment in Reykjavík. The building, constructed in 1958, was designed by the architect Sigvaldi Thordarson. The apartment has been tastefully renovated, and the building has undergone extensive exterior repairs.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-19T21:50:44Z"
+    },
     {
       "id": "https://www.mbl.is/vidskipti/frettir/2026/08/19/beint_asgeir_fer_yfir_stodu_mala/",
       "title": "Beint: Ásgeir fer yfir stöðu mála",
@@ -3722,36 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:50:32Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-rannsaka-skemmdarverk-vid-grafarvogskirkju-sem-hatursglaep-480852/",
-      "title": "Rannsaka skemmdarverk við Grafarvogskirkju sem hatursglæp",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-rannsaka-skemmdarverk-vid-grafarvogskirkju-sem-hatursglaep-480852/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0lNR184NDI4LmpwZyIsICJlZGl0cyI6IHsidG9Gb3JtYXQiOiAianBlZyIsICJqcGVnIjogeyJxdWFsaXR5IjogNjB9LCAicmVzaXplIjogeyJ3aWR0aCI6ICIxMjAwIiwgImZpdCI6ICJjb3ZlciIsICJoZWlnaHQiOiAiNjMwIn19fQ==",
-      "published": "Wed, 08 Jul 2026 14:09:00 +0000",
-      "category": "frettir",
-      "summary": "Vandalism occurred at Grafarvogskirkja where the Icelandic flag was painted over the rainbow flag on the church steps. Police are investigating the incident as a hate crime. The church plans to repaint the original rainbow flag.",
-      "importance": 3,
-      "why_matters": "This incident highlights an ongoing issue of hate-motivated acts in the community.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:28:57Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-sigla-a-minna-alagi-til-ad-minnka-oliunotkun-480854/",
-      "title": "Sigla á minna álagi til að minnka olíunotkun",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-sigla-a-minna-alagi-til-ad-minnka-oliunotkun-480854/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2ZyXzIwMjIwNTIzXzE3OTEwNi5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Wed, 08 Jul 2026 14:55:29 +0000",
-      "category": "efnahagur",
-      "summary": "The Grímsey ferry Sæfari is now sailing at reduced power to cut down on oil consumption. This decision by the Icelandic Road and Coastal Administration is a direct response to massive global oil price increases. The change extends the travel time by 10-15 minutes but can reduce fuel use by up to 30%.",
-      "importance": 3,
-      "why_matters": "This shows how rising global oil prices directly impact public services and travel times in Iceland.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:28:41Z"
     }
   ]
 }
