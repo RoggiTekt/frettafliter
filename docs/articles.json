@@ -1,8 +1,38 @@
 {
-  "updated": "2026-08-19T08:28:31Z",
+  "updated": "2026-08-19T09:28:52Z",
   "brief": "Today's real estate news highlights a 27 sqm apartment listed at 39 million ISK, with luxury homes also changing hands for significant sums. Construction continues on the University's health sciences building, and a new World Class hotel is underway. Economically, there are calls to lower mandatory savings, and the public expresses general concerns. Separately, a major theft has been reported at Eignabyggð.",
   "brief_date": "2026-08-19",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/frettir/2026/08/19/kidman_hrosar_landinu_i_hastert_vid_elskum_thig_isl/",
+      "title": "Kidman hrósar landinu í hástert: „Við elskum þig Ísland“",
+      "link": "https://www.mbl.is/smartland/frettir/2026/08/19/kidman_hrosar_landinu_i_hastert_vid_elskum_thig_isl/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/a1nrm8r6CpLla3Pn4kwnMLB5eGU=/1640x1093/smart/frimg/1/67/13/1671316.jpg",
+      "published": "Wed, 19 Aug 2026 08:22:00 +0000",
+      "category": "menning",
+      "summary": "Australian actress Nicole Kidman has been visiting Iceland for several days and posted photos and praise for the country on Instagram. She described her trip as \"the trip of a lifetime\" and expressed her love for Iceland.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-19T09:02:44Z"
+    },
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/08/06/keyptu_220_milljona_einbyli_i_gardabae/",
+      "title": "Keyptu 220 milljóna einbýli í Garðabæ",
+      "link": "https://www.mbl.is/smartland/heimili/2026/08/06/keyptu_220_milljona_einbyli_i_gardabae/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/8jwt9oF1Esa_u_YyN7VZlMRzkJk=/1640x1093/filters:cropcenter(44,30)/frimg/1/12/45/1124595.jpg",
+      "published": "Thu, 06 Aug 2026 06:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "A 207 sqm detached house in Garðabær, built in 1964, has been sold for 220 million ISK. The previous owner, Hildur Birkisdóttir, had decorated the house in a unique, personal style, featuring marble countertops and specific cabinet designs in the kitchen. The buyers are Sunna Dögg Björnsdóttir and Arnar Ómarsson.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-19T09:01:48Z"
+    },
     {
       "id": "https://byggingar.is/?p=63077",
       "title": "Framkvæmdir við stækkun hjúkrunarheimilisins Sóltúns ganga vel",
@@ -3722,36 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T16:23:35Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/08/hafa_akvedid_ad_loka_kaffihusinu/",
-      "title": "Hafa ákveðið að loka kaffihúsinu",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/08/hafa_akvedid_ad_loka_kaffihusinu/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/xljGe9I8W8Rwka3f9mpM7Cu4MFU=/1640x1093/smart/frimg/1/66/37/1663769.jpg",
-      "published": "Wed, 08 Jul 2026 15:51:00 +0000",
-      "category": "efnahagur",
-      "summary": "Plöntunnar bístró in the Nordic House is closing at the end of July due to difficult operating conditions and insufficient turnover. This closure is part of a trend, as it's the fourth coffee shop in the capital region to shut down in just over two months. The original Plöntunnar location on Njálsgata will remain open.",
-      "importance": 3,
-      "why_matters": "The closure of multiple businesses due to difficult conditions indicates broader economic challenges, potentially linked to inflation or high operating costs, affecting local commerce.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:22:56Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/08/logregla_oskar_eftir_ad_na_tali_af_tveimur_monnum/",
-      "title": "Lögregla óskar eftir að ná tali af tveimur mönnum",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/08/logregla_oskar_eftir_ad_na_tali_af_tveimur_monnum/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/LQU8kEqxYpSuwv7YSkY4IYaq4hI=/1640x1093/smart/frimg/1/66/37/1663786.jpg",
-      "published": "Wed, 08 Jul 2026 15:56:00 +0000",
-      "category": "frettir",
-      "summary": "The police in the capital region are seeking two men in connection with an ongoing investigation. They have released blurry images and are asking the public for help identifying them or providing information on their whereabouts.",
-      "importance": 3,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:22:45Z"
     }
   ]
 }
