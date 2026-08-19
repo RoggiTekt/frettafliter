@@ -1,8 +1,53 @@
 {
-  "updated": "2026-08-19T18:15:58Z",
+  "updated": "2026-08-19T19:27:05Z",
   "brief": "Today's real estate news highlights a 27 sqm apartment listed at 39 million ISK, with luxury homes also changing hands for significant sums. Construction continues on the University's health sciences building, and a new World Class hotel is underway. Economically, there are calls to lower mandatory savings, and the public expresses general concerns. Separately, a major theft has been reported at Eignabyggð.",
   "brief_date": "2026-08-19",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/19/gledjast_yfir_eigin_vangetu/",
+      "title": "Gleðjast yfir eigin vangetu",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/19/gledjast_yfir_eigin_vangetu/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/LWmv30cu3bdeaJPoFsvKkSu1ih4=/1640x1093/smart/frimg/1/54/2/1540216.jpg",
+      "published": "Wed, 19 Aug 2026 15:12:00 +0000",
+      "category": "efnahagur",
+      "summary": "Hildur Sverrisdóttir, a Reykjavík politician, criticizes the government following the Central Bank's interest rate hike. She accuses government supporters of using the economic situation to push for Iceland's EU accession and euro adoption, arguing that the euro is not a solution to current inflation and interest rate problems. She contends that the government has failed to manage the economy and is shirking responsibility.",
+      "importance": 5,
+      "why_matters": "This article discusses the ongoing debate about Iceland's economic policy, inflation, interest rates, and the potential impact of adopting the euro, all of which directly affect household finances.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-19T19:09:04Z"
+    },
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/19/vatnshaed_i_anni_gaeti_haekkad_a_naestu_dogum/",
+      "title": "Vatnshæð í ánni gæti hækkað á næstu dögum",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/19/vatnshaed_i_anni_gaeti_haekkad_a_naestu_dogum/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/lEFrjcTxEo1mr1HSlTVuzVMnDG0=/1640x1093/smart/frimg/1/67/13/1671371.jpg",
+      "published": "Wed, 19 Aug 2026 15:23:00 +0000",
+      "category": "frettir",
+      "summary": "A small glacial outburst flood (jökulhlaup) is occurring in Múlakvísl river, indicated by unusually high electrical conductivity. While water levels haven't significantly risen yet, the flood is accompanied by dangerous levels of hydrogen sulfide gas, posing a health risk to those near the river. The gas pollution is attributed to geothermal leakage rather than meltwater.",
+      "importance": 4,
+      "why_matters": "People near Múlakvísl river are warned of dangerous gas pollution that can cause health issues.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-19T19:08:46Z"
+    },
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/19/ekki_astaeda_til_ad_halda_athugun_afram/",
+      "title": "Ekki ástæða til að halda athugun áfram",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/19/ekki_astaeda_til_ad_halda_athugun_afram/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/IVqjfiQW5EEH-aBxcAfwMe0Tpaw=/1640x1093/smart/frimg/1/66/49/1664985.jpg",
+      "published": "Wed, 19 Aug 2026 15:55:00 +0000",
+      "category": "skipulag",
+      "summary": "The Parliamentary Ombudsman has concluded its review into the safety certification of an extension to the Stuðlar emergency shelter, finding no reason to continue the investigation. The building official had already granted temporary use permission after conditions were met. However, the case prompted a recommendation to the Agency for Children and Families to ensure safety requirements are met in facilities under its oversight, especially for vulnerable children.",
+      "importance": 3,
+      "why_matters": "This highlights the importance of proper oversight and safety standards for public facilities, particularly those housing vulnerable individuals.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-19T19:08:28Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/19/afellisdomur_yfir_hagstjorninni/",
       "title": "Áfellisdómur yfir hagstjórninni",
@@ -3707,51 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T16:25:30Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/08/nokkrir_manudir_i_ad_nidurrif_hefjist/",
-      "title": "Nokkrir mánuðir í að niðurrif hefjist",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/08/nokkrir_manudir_i_ad_nidurrif_hefjist/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/oOGwjQpeyrYHTNSQeb64fXuDfck=/1640x1093/smart/frimg/1/19/77/1197701.jpg",
-      "published": "Wed, 08 Jul 2026 13:05:00 +0000",
-      "category": "skipulag",
-      "summary": "Demolition of the spectator stand at Laugardalslaug is expected to begin in a few months. The structure, built in 1968, is severely damaged by alkali and corrosion, leading to the closure of hot tubs and other facilities. Reykjavík City is in the early stages of planning this municipal project, which may involve reviewing the pool's overall master plan.",
-      "importance": 4,
-      "why_matters": "This affects a major public swimming facility in Reykjavík, impacting services and potentially leading to significant changes in the area's master plan.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:25:11Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/08/biskup_kennir_i_brjosti_um_skemmdarvargana/",
-      "title": "Biskup kennir í brjósti um skemmdarvargana",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/08/biskup_kennir_i_brjosti_um_skemmdarvargana/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/H7XmMXZG_hX4ub0Qvegn8KPEyLs=/1640x1093/smart/frimg/1/66/37/1663713.jpg",
-      "published": "Wed, 08 Jul 2026 13:51:00 +0000",
-      "category": "frettir",
-      "summary": "The Bishop of Iceland commented on vandalism at Grafarvogskirkja church, where the rainbow flag painted on the steps was covered with colors resembling the Icelandic flag. She condemned the act as a misuse of the national flag and an attack on LGBTQ+ minorities, noting it's the fourth such incident. Police are investigating the event as vandalism and a hate crime, and the church plans to repaint the rainbow flag.",
-      "importance": 4,
-      "why_matters": "This incident highlights ongoing prejudice against LGBTQ+ individuals in Iceland and is being investigated as a hate crime, impacting community safety and inclusion.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:24:44Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/08/ny_skyrsla_um_stodu_islands_birt_a_vef_afram_island/",
-      "title": "Ný skýrsla um stöðu Íslands birt á vef Áfram Ísland",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/08/ny_skyrsla_um_stodu_islands_birt_a_vef_afram_island/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/h-3WO346qfhqtCyDAW0YzgctqOs=/1640x1093/smart/frimg/1/66/37/1663748.jpg",
-      "published": "Wed, 08 Jul 2026 14:10:00 +0000",
-      "category": "efnahagur",
-      "summary": "A new report from the \"Áfram Ísland\" movement claims Iceland's living standards and economic situation are stronger than most EU countries. While acknowledging high interest rates and inflation, the report highlights Iceland's economic growth, low unemployment, and high purchasing power compared to the EU.",
-      "importance": 4,
-      "why_matters": "This report contributes to the ongoing public debate about Iceland's economic standing relative to the EU and its potential future relationship with the union.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T16:24:35Z"
     }
   ]
 }
