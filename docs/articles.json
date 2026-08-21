@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-21T02:32:11Z",
+  "updated": "2026-08-21T03:51:04Z",
   "brief": "A planning investigation has concluded with no reason for further action, and the real estate market saw the purchase of a 220 million ISK home in Garðabær. An architect encourages taking chances in design, while a charming 101 home with impressive windows was also highlighted. Economically, there's been strong criticism of current management and a call for Althingi to revise alcohol legislation. River water levels are expected to rise in the coming days, and Nicole Kidman expressed her love for Iceland.",
   "brief_date": "2026-08-21",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/20/ekki_allir_sem_gera_krofu_a_kjotelskandi_thjofinn/",
+      "title": "Ekki allir sem gera kröfu á kjötelskandi þjófinn",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/20/ekki_allir_sem_gera_krofu_a_kjotelskandi_thjofinn/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/FYY5a7fmxzW_qZsZlP5Xs5zMnpE=/1640x1093/smart/frimg/1/67/17/1671719.jpg",
+      "published": "Thu, 20 Aug 2026 21:00:00 +0000",
+      "category": "frettir",
+      "summary": "A man is facing charges for 46 theft incidents across various stores in Iceland, with claims totaling over 800,000 ISK. The stolen items include a wide range of goods, from meat and groceries to skincare products, tools, and clothing. The case is scheduled to be heard in Reykjanes District Court in October.",
+      "importance": 4,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-21T03:33:49Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/19/hlekktist_a_i_lendingu_reykjavikurflugvollur_lokadu/",
       "title": "Hlekktist á í lendingu: Reykjavíkurflugvöllur lokaður",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:53:27Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-russneska-njosnaskipid-siglir-aftur-i-islenskri-efnahagslogsogu-480896/",
-      "title": "Rússneska njósnaskipið siglir aftur í íslenskri efnahagslögsögu",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-russneska-njosnaskipid-siglir-aftur-i-islenskri-efnahagslogsogu-480896/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzLzRfTmRaeHpVaS5KUEciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Wed, 08 Jul 2026 20:07:29 +0000",
-      "category": "frettir",
-      "summary": "A Russian spy ship, the Yuri Ivanov, has re-entered Iceland's economic zone, sailing north and west of the country. The ship, primarily for intelligence gathering, is being monitored by the Icelandic Coast Guard in cooperation with NATO, with no immediate threat identified.",
-      "importance": 3,
-      "why_matters": "This highlights ongoing geopolitical activity near Iceland and the country's role in monitoring its economic zone in cooperation with NATO.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:53:16Z"
     }
   ]
 }
