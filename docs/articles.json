@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-21T07:42:55Z",
+  "updated": "2026-08-21T08:32:07Z",
   "brief": "A planning investigation has concluded with no reason for further action, and the real estate market saw the purchase of a 220 million ISK home in Garðabær. An architect encourages taking chances in design, while a charming 101 home with impressive windows was also highlighted. Economically, there's been strong criticism of current management and a call for Althingi to revise alcohol legislation. River water levels are expected to rise in the coming days, and Nicole Kidman expressed her love for Iceland.",
   "brief_date": "2026-08-21",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=63132",
+      "title": "Nýtt torg verður á Stjórnarráðsreit",
+      "link": "https://byggingar.is/nytt-torg-verdur-a-stjornarradsreit/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-torg-verdur-a-stjornarradsreit",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/08/20.08.2026-Nytt-torg-verdur-a-Stjornarradsreit.jpg",
+      "published": "Thu, 20 Aug 2026 10:17:40 +0000",
+      "category": "skipulag",
+      "summary": "Plans for a new square and development on the Government House plot in Reykjavík are moving forward. A proposal for new detailed planning is expected this autumn, with potential approval by December. The project will add residential housing and services, centered around the new square.",
+      "importance": 4,
+      "why_matters": "This development will add new housing and public space in a desirable area of Reykjavík.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-21T08:06:48Z"
+    },
     {
       "id": "https://www.mbl.is/bill/frettir/2026/08/20/rafbilasala_rykur_upp_i_evropu/",
       "title": "Rafbílasala rýkur upp í Evrópu",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:53:54Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-syna-ekki-vilja-ad-sla-a-verdbolgu-og-haekka-alagningu-segir-fib-480894/",
-      "title": "Sýna ekki vilja að slá á verðbólgu og hækka álagningu, segir FÍB",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-syna-ekki-vilja-ad-sla-a-verdbolgu-og-haekka-alagningu-segir-fib-480894/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0JlbnNpbi5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Wed, 08 Jul 2026 19:29:11 +0000",
-      "category": "efnahagur",
-      "summary": "The Icelandic Automobile Association (FÍB) criticizes fuel companies for increasing markups, which they say contributes to inflation and shows no willingness to curb it. FÍB has called for real-time price transparency for all vehicle energy sellers and for the Consumer Agency to manage price comparisons. The article also notes a significant rise in electric car sales, partly influenced by tax changes and global oil prices.",
-      "importance": 5,
-      "why_matters": "This article highlights how fuel pricing impacts inflation and consumer costs, and discusses potential regulatory interventions.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:53:46Z"
     }
   ]
 }
