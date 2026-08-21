@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-21T05:30:11Z",
+  "updated": "2026-08-21T06:22:44Z",
   "brief": "A planning investigation has concluded with no reason for further action, and the real estate market saw the purchase of a 220 million ISK home in Garðabær. An architect encourages taking chances in design, while a charming 101 home with impressive windows was also highlighted. Economically, there's been strong criticism of current management and a call for Althingi to revise alcohol legislation. River water levels are expected to rise in the coming days, and Nicole Kidman expressed her love for Iceland.",
   "brief_date": "2026-08-21",
   "items": [
+    {
+      "id": "https://www.mbl.is/bill/frettir/2026/08/20/rafbilasala_rykur_upp_i_evropu/",
+      "title": "Rafbílasala rýkur upp í Evrópu",
+      "link": "https://www.mbl.is/bill/frettir/2026/08/20/rafbilasala_rykur_upp_i_evropu/",
+      "source": "mbl Viðskipti",
+      "image": "https://c.arvakur.is/m2/F_4FTb2wecF8mzFCQVJN8JSfNzk=/1640x1093/smart/frimg/1/67/10/1671098.jpg",
+      "published": "Thu, 20 Aug 2026 07:00:00 +0000",
+      "category": "efnahagur",
+      "summary": "Electric vehicle sales in Europe significantly increased in the second quarter of this year, setting records in 50 countries. This surge is attributed to rising fuel prices caused by the war in the Middle East, according to the International Energy Agency. The energy crisis has refocused attention on volatile fuel costs.",
+      "importance": 3,
+      "why_matters": "Rising fuel prices and the shift to EVs in Europe reflect global economic pressures that can indirectly influence energy markets and consumer choices in Iceland.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-21T06:21:04Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/20/ekki_allir_sem_gera_krofu_a_kjotelskandi_thjofinn/",
       "title": "Ekki allir sem gera kröfu á kjötelskandi þjófinn",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:53:46Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-jofnun-kostnadar-vid-dreifingu-raforku-gridarlega-mikilvaegt-byggdamal-480881/",
-      "title": "Jöfnun kostnaðar við dreifingu raforku „gríðarlega mikilvægt byggðamál“",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-jofnun-kostnadar-vid-dreifingu-raforku-gridarlega-mikilvaegt-byggdamal-480881/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2dhcnBzZGFsdXIuSlBHIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Wed, 08 Jul 2026 19:51:32 +0000",
-      "category": "efnahagur",
-      "summary": "The Icelandic parliament has passed new legislation to significantly increase the equalization of electricity distribution costs between rural and urban areas, effective July 1st. This policy aims to reduce electricity bills for rural households, farms, and businesses, while causing a minor increase for urban residents. The changes also introduce a tiered system to protect certain urban horticulture operations.",
-      "importance": 5,
-      "why_matters": "This legislation directly alters electricity costs for households and businesses across Iceland, particularly reducing expenses in rural and electrically heated areas.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:53:27Z"
     }
   ]
 }
