@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-21T09:34:39Z",
+  "updated": "2026-08-21T10:29:25Z",
   "brief": "A planning investigation has concluded with no reason for further action, and the real estate market saw the purchase of a 220 million ISK home in Garðabær. An architect encourages taking chances in design, while a charming 101 home with impressive windows was also highlighted. Economically, there's been strong criticism of current management and a call for Althingi to revise alcohol legislation. River water levels are expected to rise in the coming days, and Nicole Kidman expressed her love for Iceland.",
   "brief_date": "2026-08-21",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/21/skolahald_hefst_a_ny_i_grindavik/",
+      "title": "Skólahald hefst á ný í Grindavík",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/21/skolahald_hefst_a_ny_i_grindavik/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/RU9iLvDIJPmJVQaB8hU1RDgwnIo=/1640x1093/smart/frimg/1/64/40/1644080.jpg",
+      "published": "Fri, 21 Aug 2026 07:10:00 +0000",
+      "category": "frettir",
+      "summary": "The primary school in Grindavík is set to reopen next week, nearly three years after the town was evacuated due to volcanic activity. This marks a significant step in the community's reconstruction, with the kindergarten having already resumed operations earlier this month. Authorities have revised risk assessments, and safety plans are in place for students and staff in case of future eruptions.",
+      "importance": 5,
+      "why_matters": "This reopening is a crucial step in the long-term recovery and repopulation of Grindavík following the volcanic eruptions and evacuations.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-21T10:11:17Z"
+    },
     {
       "id": "https://byggingar.is/?p=63132",
       "title": "Nýtt torg verður á Stjórnarráðsreit",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:54:02Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-bull-og-vitleysa-ad-naegt-rafmagn-se-til-stadar-a-islandi-480893/",
-      "title": "„Bull og vitleysa“ að nægt rafmagn sé til staðar á Íslandi",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-bull-og-vitleysa-ad-naegt-rafmagn-se-til-stadar-a-islandi-480893/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL1VudGl0bGVkX2Rlc2lnbl8xX3o3RG9YZTcucG5nIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Wed, 08 Jul 2026 19:08:09 +0000",
-      "category": "efnahagur",
-      "summary": "A factory in Bíldudalur has been forced to halt all production due to power cuts caused by a malfunction in a power plant transformer. The CEO reports daily revenue losses of over 6 million ISK and strongly criticizes the idea that Iceland has sufficient electricity, advocating for new power plant construction in the Westfjords.",
-      "importance": 4,
-      "why_matters": "This article highlights critical issues with Iceland's energy infrastructure and supply, directly impacting businesses and sparking debate on national energy policy.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:53:54Z"
     }
   ]
 }
