@@ -1,8 +1,53 @@
 {
-  "updated": "2026-08-23T06:20:01Z",
+  "updated": "2026-08-23T07:36:36Z",
   "brief": "A planning investigation has concluded with no reason for further action, and the real estate market saw the purchase of a 220 million ISK home in Garðabær. An architect encourages taking chances in design, while a charming 101 home with impressive windows was also highlighted. Economically, there's been strong criticism of current management and a call for Althingi to revise alcohol legislation. River water levels are expected to rise in the coming days, and Nicole Kidman expressed her love for Iceland.",
   "brief_date": "2026-08-23",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/22/skagafjordur_skuldbatt_sig_til_hundrud_milljona_fra/",
+      "title": "Skagafjörður skuldbatt sig til hundruð milljóna  framkvæmda",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/22/skagafjordur_skuldbatt_sig_til_hundrud_milljona_fra/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/PVmvoTJpiVP-pnpPYwGW1um5sLc=/1640x1093/smart/frimg/1/43/28/1432848.jpg",
+      "published": "Sat, 22 Aug 2026 16:29:00 +0000",
+      "category": "skipulag",
+      "summary": "The municipality of Skagafjörður has committed to 376 million ISK in wastewater infrastructure projects in Hólar í Hjaltadal. The Icelandic state will contribute 150 million ISK, and the municipality will also acquire land and take over existing infrastructure. The projects must begin within a year and be completed within five years.",
+      "importance": 3,
+      "why_matters": "This project involves significant public spending and infrastructure development in a specific Icelandic municipality.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-23T07:25:52Z"
+    },
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/22/oska_eftir_thvi_ad_skila_lodum_i_vatnsendahverfi/",
+      "title": "Óska eftir því að skila lóðum í Vatnsendahverfi",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/22/oska_eftir_thvi_ad_skila_lodum_i_vatnsendahverfi/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/NhEBoc1swmcKrxxH-wwVJbJ4MvY=/1640x1093/smart/frimg/1/54/38/1543887.jpg",
+      "published": "Sat, 22 Aug 2026 16:59:00 +0000",
+      "category": "skipulag",
+      "summary": "A construction company, Fagmót, is requesting to return two building plots in Kópavogur's Vatnsendahverfi due to misleading information and significant delays from the municipality regarding plot handover and building permit approvals. Kópavogur municipality has acknowledged errors and is working on improvements, with a council member calling for an independent review.",
+      "importance": 4,
+      "why_matters": "Administrative issues in municipal planning can cause delays for developers, potentially impacting the availability and cost of housing in the capital region.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-23T07:24:55Z"
+    },
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/22/man_ekki_eftir_odru_eins_vatni_i_sigkotlum_myrdalsj/",
+      "title": "Man ekki eftir öðru eins vatni í sigkötlum Mýrdalsjökuls",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/22/man_ekki_eftir_odru_eins_vatni_i_sigkotlum_myrdalsj/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/yMs3hwN8sE-sWRX72NbwywK5pb4=/1640x1093/smart/frimg/1/67/20/1672092.jpg",
+      "published": "Sat, 22 Aug 2026 18:35:00 +0000",
+      "category": "frettir",
+      "summary": "A farmer near Mýrdalsjökull glacier reports unprecedented water levels in the glacier's cauldrons, expressing concern about a potential eruption of the Katla volcano beneath it. A glaciologist notes that such ponds often disappear before glacial outburst floods.",
+      "importance": 4,
+      "why_matters": "This unusual glacial activity could be a precursor to a volcanic eruption or a dangerous glacial outburst flood from Katla.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-23T07:23:32Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/21/skolahald_hefst_a_ny_i_grindavik/",
       "title": "Skólahald hefst á ný í Grindavík",
@@ -3707,51 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:54:33Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-baett-brunatjon-laekkadi-um-23-milli-ara-480890/",
-      "title": "Bætt brunatjón lækkaði um 23% milli ára",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-baett-brunatjon-laekkadi-um-23-milli-ara-480890/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0lNR185MTI3LmpwZyIsICJlZGl0cyI6IHsidG9Gb3JtYXQiOiAianBlZyIsICJqcGVnIjogeyJxdWFsaXR5IjogNjB9LCAicmVzaXplIjogeyJ3aWR0aCI6ICIxMjAwIiwgImZpdCI6ICJjb3ZlciIsICJoZWlnaHQiOiAiNjMwIn19fQ==",
-      "published": "Wed, 08 Jul 2026 18:00:44 +0000",
-      "category": "frettir",
-      "summary": "Compensated fire damage in Iceland decreased by 23% last year, totaling 3.6 billion ISK. Commercial properties accounted for the majority of costs, largely due to one significant fire, while residential properties saw over 950 million ISK in damages.",
-      "importance": 3,
-      "why_matters": "This statistic reflects significant financial losses from property damage across Iceland, which can impact insurance costs and property values.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:54:22Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-voru-i-fullum-retti-ad-reka-forstjorann-480878/",
-      "title": "Voru í fullum rétti að reka forstjórann",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-voru-i-fullum-retti-ad-reka-forstjorann-480878/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0t2ZWlrdXJfSW5uaGVpbXR1c3RvZm51bl8yMDI1MDQwMi4wMF8wNV8wN18wMi5TdGlsbDAxMS5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Wed, 08 Jul 2026 18:35:18 +0000",
-      "category": "frettir",
-      "summary": "A district court in Vestfirðir ruled that the former CEO of the Municipal Collection Agency was rightfully dismissed without notice due to serious misconduct. The CEO had sued the agency for over 90 million ISK for unlawful dismissal, but the court rejected all his claims and ordered him to pay legal costs. This case stems from an investigation into the CEO making an unauthorized contract with a law firm owned by another agency director.",
-      "importance": 4,
-      "why_matters": "This ruling highlights accountability for serious misconduct within a public institution and the legal consequences for officials who breach their duties.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:54:12Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/erlent/2026-07-08-thyskur-laeknir-myrti-ad-minnsta-kosti-15-sjuklinga-480891/",
-      "title": "Þýskur læknir myrti að minnsta kosti 15 sjúklinga",
-      "link": "https://www.ruv.is/frettir/erlent/2026-07-08-thyskur-laeknir-myrti-ad-minnsta-kosti-15-sjuklinga-480891/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL3BleGVscy1jb3R0b25icm8tNzU3OTgyNi5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Wed, 08 Jul 2026 18:51:48 +0000",
-      "category": "frettir",
-      "summary": "A German doctor has been sentenced to life in prison for murdering 15 of his palliative care patients by administering lethal sedatives without their consent. He confessed to the crimes, claiming he wanted to spare them suffering. Authorities are investigating 76 additional cases, suggesting he could be one of Germany's most prolific serial killers.",
-      "importance": 5,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:54:02Z"
     }
   ]
 }
