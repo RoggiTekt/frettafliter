@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-24T08:03:32Z",
+  "updated": "2026-08-24T09:39:39Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-08-24",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/21/veitingastadur_i_landsbankahusinu_a_teiknibordinu/",
+      "title": "Veitingastaður í Landsbankahúsinu á teikniborðinu",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/21/veitingastadur_i_landsbankahusinu_a_teiknibordinu/",
+      "source": "mbl Viðskipti",
+      "image": "https://c.arvakur.is/m2/KAZ59npO_vXi5djXFR-85qB9c7o=/1640x1093/smart/frimg/1/67/16/1671619.jpg",
+      "published": "Fri, 21 Aug 2026 15:38:00 +0000",
+      "category": "skipulag",
+      "summary": "Ideas are being explored to open a restaurant in the old Landsbanki building in Austurstræti 11. These plans are part of a larger development project for the area, which includes proposals for a glass structure over Hafnarstræti to create a pedestrian street and glass roofs over two street blocks to make them publicly accessible.",
+      "importance": 4,
+      "why_matters": "This project could significantly alter the appearance and public use of a central area in downtown Reykjavík.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-24T09:37:58Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/08/20/vesteinn_og_eva_selja_268_fm_fjolskylduhus/",
       "title": "Vésteinn og Eva selja 268 fm fjölskylduhús",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:55:10Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-ahyggjur-og-vonbrigdi-med-breytingar-a-heilbrigdiseftirliti-480837/",
-      "title": "Áhyggjur og vonbrigði með breytingar á heilbrigðiseftirliti",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-ahyggjur-og-vonbrigdi-med-breytingar-a-heilbrigdiseftirliti-480837/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0RKSV8yMDI1MDcyODEzMTgwOV8wMDEwX0QuanBnIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Wed, 08 Jul 2026 17:12:59 +0000",
-      "category": "efnahagur",
-      "summary": "The town council of Vogar expresses concerns and disappointment regarding new legislation that will transfer health and environmental inspection tasks from municipalities to the national Environment and Energy Agency. They highlight worries about potential service disruption, inadequate impact assessment, and the financial burden on municipalities as revenue-generating tasks move to the state while costly ones remain local.",
-      "importance": 4,
-      "why_matters": "This policy change could impact the quality and efficiency of health and environmental oversight, and shift financial burdens onto municipalities, potentially affecting local services or taxes.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:54:45Z"
     }
   ]
 }
