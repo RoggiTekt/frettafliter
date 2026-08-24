@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-24T06:28:27Z",
+  "updated": "2026-08-24T08:03:32Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-08-24",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/08/20/vesteinn_og_eva_selja_268_fm_fjolskylduhus/",
+      "title": "Vésteinn og Eva selja 268 fm fjölskylduhús",
+      "link": "https://www.mbl.is/smartland/heimili/2026/08/20/vesteinn_og_eva_selja_268_fm_fjolskylduhus/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/crP0Ma4Ks9pJLbESHjgKP2vwlUQ=/1640x1093/smart/frimg/1/67/13/1671363.jpg",
+      "published": "Thu, 20 Aug 2026 06:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "A luxurious 268 sqm detached house in Grafarholt, Reykjavík, is for sale. Built in 2004 with five bedrooms (potential for six), it features a well-planned layout, a south-facing garden, and is located near nature and walking paths. The property is owned by a former advertising manager and a real estate agent.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-24T07:40:36Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/22/skagafjordur_skuldbatt_sig_til_hundrud_milljona_fra/",
       "title": "Skagafjörður skuldbatt sig til hundruð milljóna  framkvæmda",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:54:45Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-milljarda-botakrafa-fell-a-agreiningi-um-thad-hver-se-hann-sjalfur-480856/",
-      "title": "Milljarða bótakrafa féll á ágreiningi um það hver sé „hann sjálfur“",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-milljarda-botakrafa-fell-a-agreiningi-um-thad-hver-se-hann-sjalfur-480856/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL01peENvbGxhZ2UtMjItRGVjLTIwMjUtMDYtMDctUE0tNTEzMC5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Wed, 08 Jul 2026 17:35:40 +0000",
-      "category": "skipulag",
-      "summary": "A court in Iceland rejected Vestmannaeyjar municipality's 2 billion ISK compensation claim against Huginn hf. and VÍS for damage to its water pipeline. The court ruled that maritime law limits liability to 360 million ISK, as the company's board or CEO were not proven to have shown gross negligence, only the crew. The municipality is considering an appeal, as a new pipeline is estimated to cost nearly 3 billion ISK.",
-      "importance": 5,
-      "why_matters": "This ruling significantly impacts Vestmannaeyjar municipality's finances and its ability to fund the replacement of critical water infrastructure.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:54:33Z"
     }
   ]
 }
