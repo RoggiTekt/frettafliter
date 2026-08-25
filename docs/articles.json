@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-25T13:47:55Z",
+  "updated": "2026-08-25T14:39:57Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-08-25",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=63276",
+      "title": "Nýtt 8.9 milljarða hjúkrunarheimili á Akureyri færist nær framkvæmdum",
+      "link": "https://byggingar.is/nytt-8-9-milljarda-hjukrunarheimili-a-akureyri-faerist-naer-framkvaemdum-2/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-8-9-milljarda-hjukrunarheimili-a-akureyri-faerist-naer-framkvaemdum-2",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/08/25.08.2026-THursaholt.jpg",
+      "published": "Tue, 25 Aug 2026 09:55:23 +0000",
+      "category": "skipulag",
+      "summary": "A new 140-bed nursing home in Akureyri, costing 8.9 billion ISK, is moving closer to construction. Reitir will build the 9,100 square meter facility and lease it to the state for 25 years, with Heilsuvernd operating it. Construction is expected to begin in the coming months.",
+      "importance": 3,
+      "why_matters": "This project represents a significant public investment and will provide new healthcare infrastructure for Akureyri.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-25T14:07:46Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/24/gangi_island_inn_tha_verdur_ekki_aftur_snuid/",
       "title": "Gangi Ísland inn, þá verður ekki aftur snúið",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:55:48Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-logreglan-leitar-tveggja-manna-480870/",
-      "title": "Lögreglan leitar tveggja manna",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-logreglan-leitar-tveggja-manna-480870/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL01peENvbGxhZ2UtMDgtSnVsLTIwMjYtMDMtNTItUE0tMjczMS5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Wed, 08 Jul 2026 15:56:51 +0000",
-      "category": "frettir",
-      "summary": "The Capital Region Police are searching for two men in connection with an ongoing investigation. They are asking the public for assistance in locating them.",
-      "importance": 3,
-      "why_matters": "The police are seeking public assistance in an ongoing criminal investigation.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:55:18Z"
     }
   ]
 }
