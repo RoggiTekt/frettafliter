@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-25T03:47:01Z",
+  "updated": "2026-08-25T04:37:24Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-08-25",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/24/gangi_island_inn_tha_verdur_ekki_aftur_snuid/",
+      "title": "Gangi Ísland inn, þá verður ekki aftur snúið",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/24/gangi_island_inn_tha_verdur_ekki_aftur_snuid/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/n6xEug8GK4iwqfkWPFEBZj3pL2g=/1640x1093/smart/frimg/1/67/23/1672347.jpg",
+      "published": "Mon, 24 Aug 2026 13:15:00 +0000",
+      "category": "efnahagur",
+      "summary": "Hilmar Veigar Pétursson, CEO of Fenris Creations, has reversed his stance on Iceland joining the EU. Previously a proponent, he now argues against it, citing his experience in post-Brexit UK and concerns about distraction from domestic opportunities. He believes joining the EU would be an irreversible decision for Iceland.",
+      "importance": 5,
+      "why_matters": "This article discusses a significant policy debate (EU accession) that could have profound and irreversible economic and political consequences for Iceland.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-25T04:29:06Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/21/veitingastadur_i_landsbankahusinu_a_teiknibordinu/",
       "title": "Veitingastaður í Landsbankahúsinu á teikniborðinu",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:55:18Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-skemmdarvargar-vid-grafarvogskirkju-nadust-a-upptoku-480875/",
-      "title": "Skemmdarvargar við Grafarvogskirkju náðust á upptöku",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-skemmdarvargar-vid-grafarvogskirkju-nadust-a-upptoku-480875/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0lNR184NDI1X2VwNExmOGUuanBnIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Wed, 08 Jul 2026 16:29:33 +0000",
-      "category": "frettir",
-      "summary": "Police in the capital region have obtained video footage showing two individuals vandalizing the steps of Grafarvogskirkja. The vandals painted over a rainbow flag with the colors of the Icelandic flag. The incident is currently under investigation as a hate crime.",
-      "importance": 3,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:55:10Z"
     }
   ]
 }
