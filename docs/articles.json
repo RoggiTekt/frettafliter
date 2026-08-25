@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-25T16:36:56Z",
+  "updated": "2026-08-25T17:31:52Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-08-25",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/25/viljum_ekki_bolvad_nyja_sjaland/",
+      "title": "„Viljum ekki bölvað Nýja-Sjáland“",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/25/viljum_ekki_bolvad_nyja_sjaland/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/SMPcmfdq1z44eMsKeFlMkke5jLY=/1640x1093/smart/frimg/1/67/25/1672558.jpg",
+      "published": "Tue, 25 Aug 2026 13:30:00 +0000",
+      "category": "efnahagur",
+      "summary": "A former chief veterinary officer warns that Iceland faces significant challenges in maintaining its strict live animal import bans if EU accession talks resume. He recounts past difficulties with EU officials dismissing Iceland's unique disease status, and highlights the potential for devastating financial losses to the dairy and horse industries from disease outbreaks if these bans are lifted.",
+      "importance": 5,
+      "why_matters": "If Iceland were to rejoin EU accession talks and fail to secure exemptions for live animal imports, it could expose vital Icelandic industries to devastating diseases and significant financial losses.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-25T17:15:29Z"
+    },
     {
       "id": "https://byggingar.is/?p=63276",
       "title": "Nýtt 8.9 milljarða hjúkrunarheimili á Akureyri færist nær framkvæmdum",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:55:56Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-vid-thurfum-bokasofn-rett-eins-og-vid-thurfum-graen-svaedi-480851/",
-      "title": "Við þurfum bókasöfn rétt eins og við þurfum græn svæði",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-vid-thurfum-bokasofn-rett-eins-og-vid-thurfum-graen-svaedi-480851/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2ZyXzIwMTgxMjEzXzEwMTUwNC5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Wed, 08 Jul 2026 14:01:41 +0000",
-      "category": "menning",
-      "summary": "The government's financial plan proposes replacing librarians at the National Library with security guards this autumn, leading to a significant reduction in services. Kamilla Einarsdóttir argues that libraries are essential community spaces, providing peace and quiet, and are crucial given rising loneliness.",
-      "importance": 3,
-      "why_matters": "The government's financial plan will reduce services at the National Library, impacting public access to information and community spaces.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:55:48Z"
     }
   ]
 }
