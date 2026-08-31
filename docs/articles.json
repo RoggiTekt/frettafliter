@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-31T06:13:56Z",
+  "updated": "2026-08-31T14:30:55Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-08-31",
   "items": [
+    {
+      "id": "https://www.mbl.is/menning/tonlist/2026/08/31/raf_og_tilraunatonlist_i_havegum/",
+      "title": "Raf- og tilraunatónlist í hávegum",
+      "link": "https://www.mbl.is/menning/tonlist/2026/08/31/raf_og_tilraunatonlist_i_havegum/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/X4i6Znn3BXWPdFNHlyBt3Xhmkr8=/1640x1093/smart/mblvideo/innlend/39/279353_125443457.jpg",
+      "published": "Mon, 31 Aug 2026 07:26:00 +0000",
+      "category": "menning",
+      "summary": "The Extreme Chill music festival, focusing on electronic and experimental music, is set to begin next week in Iceland. The 17-year-old festival has gained international recognition, attracting both prominent foreign and Icelandic artists.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-08-31T14:21:52Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/25/viljum_ekki_bolvad_nyja_sjaland/",
       "title": "„Viljum ekki bölvað Nýja-Sjáland“",
@@ -3737,21 +3752,6 @@
       "spin_flag": true,
       "spin_note": "The headline's 'indefinitely' sounds more severe than the body's clarification that cuts are expected to last only a few days and affect limited businesses.",
       "added_at": "2026-07-08T20:56:09Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-thrudur-vilhjalmsdottir-er-latin-480846/",
-      "title": "Þrúður Vilhjálmsdóttir er látin",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-thrudur-vilhjalmsdottir-er-latin-480846/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0RTQ0Y5NDUzLTMuanBnIiwgImVkaXRzIjogeyJ0b0Zvcm1hdCI6ICJqcGVnIiwgImpwZWciOiB7InF1YWxpdHkiOiA2MH0sICJyZXNpemUiOiB7IndpZHRoIjogIjEyMDAiLCAiZml0IjogImNvdmVyIiwgImhlaWdodCI6ICI2MzAifX19",
-      "published": "Wed, 08 Jul 2026 13:12:00 +0000",
-      "category": "menning",
-      "summary": "Þrúður Vilhjálmsdóttir, a prominent Icelandic actress known for her roles in films like \"101 Reykjavík\" and \"Djúpið,\" and various TV series, has passed away at 53 after a brief illness. She graduated from the Icelandic Drama School in 1997 and had a prolific career in theater, film, and television.",
-      "importance": 3,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:55:56Z"
     }
   ]
 }
