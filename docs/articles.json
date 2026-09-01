@@ -1,8 +1,23 @@
 {
-  "updated": "2026-08-31T20:42:18Z",
+  "updated": "2026-09-01T00:27:41Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
-  "brief_date": "2026-08-31",
+  "brief_date": "2026-09-01",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/08/31/areitti_stulku_i_sumarbustad/",
+      "title": "Áreitti stúlku í sumarbústað",
+      "link": "https://www.mbl.is/frettir/innlent/2026/08/31/areitti_stulku_i_sumarbustad/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/C7ycwBy5W5_jaJDpHlSOFgQSmuo=/1640x1093/filters:cropcenter(69,17)/frimg/1/61/5/1610567.jpg",
+      "published": "Mon, 31 Aug 2026 23:30:00 +0000",
+      "category": "frettir",
+      "summary": "A man has been charged by the District Prosecutor's Office for sexually harassing a young girl in a summer cottage in 2023. The indictment details that he groped her and attempted to kiss her. The girl's parent is seeking 2.5 million ISK in damages.",
+      "importance": 4,
+      "why_matters": "It reflects the ongoing legal process for a serious sexual harassment case in Iceland.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-01T00:06:38Z"
+    },
     {
       "id": "https://www.mbl.is/menning/tonlist/2026/08/31/raf_og_tilraunatonlist_i_havegum/",
       "title": "Raf- og tilraunatónlist í hávegum",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:56:17Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-skerda-orku-til-fyrirtaekja-a-sudurlandi-vesturlandi-og-vestfjordum-um-oakvedinn-tima-480842/",
-      "title": "Skerða orku til fyrirtækja á Suðurlandi, Vesturlandi og Vestfjörðum um óákveðinn tíma",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-skerda-orku-til-fyrirtaekja-a-sudurlandi-vesturlandi-og-vestfjordum-um-oakvedinn-tima-480842/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0lNR185MTkyLmpwZyIsICJlZGl0cyI6IHsidG9Gb3JtYXQiOiAianBlZyIsICJqcGVnIjogeyJxdWFsaXR5IjogNjB9LCAicmVzaXplIjogeyJ3aWR0aCI6ICIxMjAwIiwgImZpdCI6ICJjb3ZlciIsICJoZWlnaHQiOiAiNjMwIn19fQ==",
-      "published": "Wed, 08 Jul 2026 12:52:23 +0000",
-      "category": "efnahagur",
-      "summary": "Landsnet is implementing temporary energy cuts to certain businesses in South Iceland, West Iceland, and the Westfjords due to a serious transformer failure at Búrfellsvirkjun and ongoing maintenance. While the cuts are expected to last only a few days and affect a limited number of companies, they highlight vulnerabilities in the national power grid. Repairs are underway, and normal service is anticipated to resume shortly.",
-      "importance": 4,
-      "why_matters": "This incident highlights the fragility of Iceland's energy infrastructure and its potential impact on regional businesses.",
-      "spin_flag": true,
-      "spin_note": "The headline's 'indefinitely' sounds more severe than the body's clarification that cuts are expected to last only a few days and affect limited businesses.",
-      "added_at": "2026-07-08T20:56:09Z"
     }
   ]
 }
