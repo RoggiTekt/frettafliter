@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-01T19:08:09Z",
+  "updated": "2026-09-01T22:22:06Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-09-01",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/09/01/segja_stoduna_betri_en_adur_a_thessari_old/",
+      "title": "Segja stöðuna betri en áður á þessari öld",
+      "link": "https://www.mbl.is/frettir/innlent/2026/09/01/segja_stoduna_betri_en_adur_a_thessari_old/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/xTj78T9h58SwjCPcYbOU5V_hdiY=/1640x1093/smart/frimg/1/66/31/1663117.jpg",
+      "published": "Tue, 01 Sep 2026 16:18:00 +0000",
+      "category": "skipulag",
+      "summary": "The National University Hospital of Iceland reports a significant improvement in patient waiting times for nursing home beds, marking the best situation this century. This is attributed to the opening of 244 new beds for the elderly in the past year across various locations, including renovated facilities like Vífilsstaðir. Further expansion is planned for 2027 and 2028.",
+      "importance": 4,
+      "why_matters": "This indicates improved capacity in the healthcare system, reducing wait times for elderly patients needing long-term care and easing pressure on the main hospital.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-01T22:12:09Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/08/31/areitti_stulku_i_sumarbustad/",
       "title": "Áreitti stúlku í sumarbústað",
@@ -3737,21 +3752,6 @@
       "spin_flag": true,
       "spin_note": "The title emphasizes Isavia's claim of consultation, but the article immediately presents the mayor's concerns about the project.",
       "added_at": "2026-07-08T20:56:54Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-spa-thvi-ad-verdbolga-verdi-umfram-forsenduakvaedi-480841/",
-      "title": "Spá því að verðbólga verði umfram forsenduákvæði",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-spa-thvi-ad-verdbolga-verdi-umfram-forsenduakvaedi-480841/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL0lNR180NzEzLkpQRyIsICJlZGl0cyI6IHsidG9Gb3JtYXQiOiAianBlZyIsICJqcGVnIjogeyJxdWFsaXR5IjogNjB9LCAicmVzaXplIjogeyJ3aWR0aCI6ICIxMjAwIiwgImZpdCI6ICJjb3ZlciIsICJoZWlnaHQiOiAiNjMwIn19fQ==",
-      "published": "Wed, 08 Jul 2026 12:12:10 +0000",
-      "category": "efnahagur",
-      "summary": "Landsbankinn's analysis department forecasts that inflation will remain at 5.2% in July and is likely to exceed the 4.7% threshold in wage agreements by August. Rising airfares are a primary driver, while lower fuel prices and summer sales offer some downward pressure. Housing costs continue to be the main factor, though their contribution is lessening.",
-      "importance": 5,
-      "why_matters": "This forecast suggests inflation could trigger a clause allowing for the termination of wage agreements, impacting many Icelanders.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:56:17Z"
     }
   ]
 }
