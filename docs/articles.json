@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-01T22:22:06Z",
+  "updated": "2026-09-02T00:51:13Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
-  "brief_date": "2026-09-01",
+  "brief_date": "2026-09-02",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=63407",
+      "title": "28.09.2026 Vöruhús Beru hf á Hólmsheiði – Alútboð",
+      "link": "https://byggingar.is/voruhus-beru-hf-a-holmsheidi-alutbod/?utm_source=rss&utm_medium=rss&utm_campaign=voruhus-beru-hf-a-holmsheidi-alutbod",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/08/Husid-1-2200x1467.jpg",
+      "published": "Tue, 01 Sep 2026 18:00:56 +0000",
+      "category": "skipulag",
+      "summary": "JTV, on behalf of Bera hf, is seeking applications for a closed public tender for the design and construction of a 23,000 square meter warehouse on Hólmsheiði in Reykjavík. The project includes full design and construction of the warehouse, which will house an automated system, cold and freezer storage, goods reception, and offices. The deadline for applications is September 28, 2026.",
+      "importance": 4,
+      "why_matters": "This large-scale warehouse construction project will impact the urban landscape and commercial infrastructure of Reykjavík.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-02T00:20:39Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/09/01/segja_stoduna_betri_en_adur_a_thessari_old/",
       "title": "Segja stöðuna betri en áður á þessari öld",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-08T20:57:01Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/innlent/2026-07-08-segir-hotelaformin-gerd-i-samradi-vid-naersamfelagid-480808/",
-      "title": "Segir hóteláformin gerð í samráði við nærsamfélagið",
-      "link": "https://www.ruv.is/frettir/innlent/2026-07-08-segir-hotelaformin-gerd-i-samradi-vid-naersamfelagid-480808/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2ZyXzIwMjIxMTEwXzE4OTAyNS5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Wed, 08 Jul 2026 10:09:44 +0000",
-      "category": "skipulag",
-      "summary": "Isavia is moving forward with plans for a new hotel at Keflavík Airport, stating the project is part of a long-term vision and developed in consultation with local communities. However, the mayor of Reykjanesbær has raised concerns about the hotel creating unfair competition for existing businesses and exacerbating parking issues. Isavia clarifies they intend to find a third party to build and operate the hotel, not do it themselves.",
-      "importance": 4,
-      "why_matters": "This project could impact local businesses, tourism infrastructure, and parking at Iceland's main international airport.",
-      "spin_flag": true,
-      "spin_note": "The title emphasizes Isavia's claim of consultation, but the article immediately presents the mayor's concerns about the project.",
-      "added_at": "2026-07-08T20:56:54Z"
     }
   ]
 }
