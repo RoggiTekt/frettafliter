@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-07T05:19:51Z",
+  "updated": "2026-09-07T10:56:32Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-09-07",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/09/04/rosalegt_hus_i_akrahverfinu_a_420_milljonir/",
+      "title": "Rosalegt hús í Akrahverfinu á 420 milljónir",
+      "link": "https://www.mbl.is/smartland/heimili/2026/09/04/rosalegt_hus_i_akrahverfinu_a_420_milljonir/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/-AiYV0PvohGNQrvSAotfEJkVTf4=/1640x1093/smart/frimg/1/67/51/1675124.jpg",
+      "published": "Fri, 04 Sep 2026 22:00:00 +0000",
+      "category": "arkitektur",
+      "summary": "This article describes a luxurious 361 sqm house in Garðabær, priced at 420 million ISK. Designed by Sigurður Hallgrímsson with interior design by Rut Káradóttir, it features custom interiors, high ceilings, and a well-designed garden with a hot tub. The property has recently undergone significant renovations, enhancing its modern amenities and natural integration.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-07T10:34:13Z"
+    },
     {
       "id": "https://byggingar.is/?p=63407",
       "title": "28.09.2026 Vöruhús Beru hf á Hólmsheiði – Alútboð",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T10:32:32Z"
-    },
-    {
-      "id": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-07-08-rokkland-minnist-megasar-480824/",
-      "title": "Rokkland minnist Megasar",
-      "link": "https://www.ruv.is/frettir/menning-og-daegurmal/2026-07-08-rokkland-minnist-megasar-480824/",
-      "source": "RÚV",
-      "image": "https://myndir.ruv.is/eyJidWNrZXQiOiAicnV2LXByb2QtcnV2aXMtcHVibGljIiwgImtleSI6ICJtZWRpYS9wdWJsaWMvb3JpZ2luYWxfaW1hZ2VzL2ZyXzIwMTUwODIwXzAyMDc4My5qcGciLCAiZWRpdHMiOiB7InRvRm9ybWF0IjogImpwZWciLCAianBlZyI6IHsicXVhbGl0eSI6IDYwfSwgInJlc2l6ZSI6IHsid2lkdGgiOiAiMTIwMCIsICJmaXQiOiAiY292ZXIiLCAiaGVpZ2h0IjogIjYzMCJ9fX0=",
-      "published": "Wed, 08 Jul 2026 10:05:11 +0000",
-      "category": "menning",
-      "summary": "RÚV's Rokkland radio show is commemorating the passing of Megas, a highly influential Icelandic musician and lyricist. The program is broadcasting parts of a previously unaired interview from 1997 where Megas discusses his career beginnings and the origin of his stage name.",
-      "importance": 3,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-08T20:57:01Z"
     }
   ]
 }
