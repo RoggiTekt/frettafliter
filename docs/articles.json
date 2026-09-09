@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-09T17:14:41Z",
+  "updated": "2026-09-09T20:21:20Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-09-09",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/09/09/sprengdu_heimatilbuna_sprengju_i_mulagongum/",
+      "title": "Sprengdu heimatilbúna sprengju í Múlagöngum",
+      "link": "https://www.mbl.is/frettir/innlent/2026/09/09/sprengdu_heimatilbuna_sprengju_i_mulagongum/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/Li-tJkneZ8yD86DxfAhbvTcpAno=/1640x1093/smart/frimg/1/23/37/1233739.jpg",
+      "published": "Wed, 09 Sep 2026 16:13:00 +0000",
+      "category": "frettir",
+      "summary": "Two men received suspended sentences for detonating a homemade bomb in the Múlagöng tunnel in 2021. The explosion caused a power outage and over 3.1 million ISK in damage to the tunnel's technical room, disrupting infrastructure. The court deemed their actions highly reprehensible due to the bomb's dangerous nature.",
+      "importance": 4,
+      "why_matters": "The incident caused significant damage to public infrastructure and posed a serious safety risk, highlighting the consequences of such reckless acts.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-09T20:15:36Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/09/04/rosalegt_hus_i_akrahverfinu_a_420_milljonir/",
       "title": "Rosalegt hús í Akrahverfinu á 420 milljónir",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T10:32:41Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61868",
-      "title": "31.07.2026 MT Ísland leitar að smiðum til framtíðarstarfa",
-      "link": "https://byggingar.is/mt-island-leitar-ad-smidum-til-framtidarstarfa/?utm_source=rss&utm_medium=rss&utm_campaign=mt-island-leitar-ad-smidum-til-framtidarstarfa",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/09.07.2026-MT-Island-leitar-ad-smidum-til-framtidarstarfa.jpg",
-      "published": "Thu, 09 Jul 2026 08:53:51 +0000",
-      "category": "arkitektur",
-      "summary": "MT Ísland ehf., a company specializing in property damage repair and reconstruction, is seeking experienced carpenters for new projects. The company handles water, moisture, mold, and fire damage, offering diverse tasks in a professional team environment.",
-      "importance": 2,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T10:32:32Z"
     }
   ]
 }
