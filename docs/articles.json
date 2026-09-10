@@ -1,8 +1,38 @@
 {
-  "updated": "2026-09-10T11:59:54Z",
+  "updated": "2026-09-10T17:03:37Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-09-10",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/09/10/handvirk_vinna_a_landamaerum_haegir_a_ollu_ferlinu/",
+      "title": "Handvirk vinna á landamærum hægir á öllu ferlinu",
+      "link": "https://www.mbl.is/frettir/innlent/2026/09/10/handvirk_vinna_a_landamaerum_haegir_a_ollu_ferlinu/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/27T_OyFE12nY8QTEORb-XBenftw=/1640x1093/smart/frimg/1/9/67/1096784.jpg",
+      "published": "Thu, 10 Sep 2026 14:58:00 +0000",
+      "category": "skipulag",
+      "summary": "The implementation of new self-service border control stations at Keflavík Airport is delayed, leading to manual processing for non-EEA travelers and longer wait times. Officials hope the stations will be fully operational by next summer as part of a new Schengen border system. The project is complex, involving significant hardware and software updates.",
+      "importance": 3,
+      "why_matters": "This delay impacts travel efficiency and wait times for passengers arriving at Iceland's main international airport.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-10T16:53:00Z"
+    },
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/09/08/aslaug_arna_leigir_ut_luxusibud_i_midbaenum/",
+      "title": "Áslaug Arna leigir út lúxusíbúð í miðbænum",
+      "link": "https://www.mbl.is/smartland/heimili/2026/09/08/aslaug_arna_leigir_ut_luxusibud_i_midbaenum/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/GRsGh_dE7NxzhyFkhIK7gOeGDog=/1640x1093/smart/frimg/1/67/57/1675733.jpg",
+      "published": "Tue, 08 Sep 2026 10:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "Former Icelandic minister Áslaug Arna Sigurbjörnsdóttir is renting out her luxury apartment in Hafnartorg, downtown Reykjavík, after moving to London. The apartment is on the fifth floor with two bedrooms, two bathrooms, and an open kitchen. She is now working for Fenris Creations in London, leading an AI project.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-10T16:37:52Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/09/09/sprengdu_heimatilbuna_sprengju_i_mulagongum/",
       "title": "Sprengdu heimatilbúna sprengju í Múlagöngum",
@@ -3722,36 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T10:33:01Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61851",
-      "title": "Framkvæmdum við fyrsta áfanga bílaplans við Baug Bjólfs að ljúka",
-      "link": "https://byggingar.is/framkvaemdum-vid-fyrsta-afanga-bilaplans-vid-baug-bjolfs-ad-ljuka/?utm_source=rss&utm_medium=rss&utm_campaign=framkvaemdum-vid-fyrsta-afanga-bilaplans-vid-baug-bjolfs-ad-ljuka",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/08.07.2026-Baugur-Bjolfs.jpg",
-      "published": "Thu, 09 Jul 2026 07:25:04 +0000",
-      "category": "skipulag",
-      "summary": "The first phase of constructing a parking lot near the Baugur Bjólfs viewpoint in Seyðisfjörður is nearing completion. Work is also underway to clear the walking path to the viewpoint. The project faced delays due to an early winter, and the final stages, including road and path improvements, are planned after the summer tourist season.",
-      "importance": 3,
-      "why_matters": "This project improves infrastructure and access to a popular viewpoint in Seyðisfjörður.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T10:32:49Z"
-    },
-    {
-      "id": "https://byggingar.is/?p=61860",
-      "title": "Ný brú yfir Breið­holts­braut opnuð fyrir umferð á föstu­daginn",
-      "link": "https://byggingar.is/ny-bru-yfir-breidholtsbraut-opnud-fyrir-umferd-a-fostudaginn/?utm_source=rss&utm_medium=rss&utm_campaign=ny-bru-yfir-breidholtsbraut-opnud-fyrir-umferd-a-fostudaginn",
-      "source": "byggingar.is",
-      "image": "https://byggingar.is/wp-content/uploads/2026/07/08.07.2026-Ny-bru-yfir-Breid­holtsbraut-opnud-fyrir-umferd-a-fostudaginn-a-2200x1238.png",
-      "published": "Thu, 09 Jul 2026 07:53:23 +0000",
-      "category": "skipulag",
-      "summary": "A new bridge over Breiðholtsbraut is opening for traffic on Friday, leading to significant changes in road infrastructure and traffic flow in the capital region. This includes new sections of Arnarnesvegur and Vatnsendavegur, new traffic lights, and the reorganization of a major intersection. These changes are part of the ongoing Arnarnesvegur project.",
-      "importance": 4,
-      "why_matters": "This project will alter traffic flow and commuting patterns for residents in the capital region.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T10:32:41Z"
     }
   ]
 }
