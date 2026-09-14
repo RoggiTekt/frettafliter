@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-14T19:58:27Z",
+  "updated": "2026-09-14T23:43:41Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-09-14",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/09/14/timabundnar_truflanir_a_umferd/",
+      "title": "Tímabundnar truflanir á umferð",
+      "link": "https://www.mbl.is/frettir/innlent/2026/09/14/timabundnar_truflanir_a_umferd/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/EsGtVCT9xIO50nKxidKVKK4eQp8=/1640x1093/smart/frimg/1/67/47/1674752.jpg",
+      "published": "Mon, 14 Sep 2026 17:57:00 +0000",
+      "category": "skipulag",
+      "summary": "Reykjavíkurborg and Vegagerðin are updating traffic light controls at two major intersections on Miklubraut. This project aims to improve traffic safety and flow, causing temporary disruptions and light outages for a few hours each day.",
+      "importance": 3,
+      "why_matters": "This project aims to improve traffic safety and flow in the capital region.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-14T23:34:43Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/09/13/tvo_hogg_i_hofudid_fundu_bloduga_exi_a_heimilinu/",
       "title": "Tvö högg í höfuðið: Fundu blóðuga exi á heimilinu",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T10:34:33Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/09/fiskveidistefna_esb_ofravikjanleg/",
-      "title": "Fiskveiðistefna ESB ófrávíkjanleg",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/09/fiskveidistefna_esb_ofravikjanleg/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/WLfghcbKxim0W-nOv0e7w55GGs8=/1640x1093/smart/frimg/1/64/75/1647575.jpg",
-      "published": "Thu, 09 Jul 2026 06:00:00 +0000",
-      "category": "efnahagur",
-      "summary": "A Dutch parliamentary debate confirmed that any country joining the European Union must fully adopt its common fisheries policy, challenging previous suggestions of potential exemptions for Iceland. This firm stance, reinforced by a parliamentary vote, indicates that Iceland would likely not retain full sovereignty over its fisheries if it were to join the EU.",
-      "importance": 5,
-      "why_matters": "This clarifies a major hurdle for Iceland's potential EU accession, as relinquishing control over its vital fisheries sector would have significant economic and sovereignty implications.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T10:34:23Z"
     }
   ]
 }
