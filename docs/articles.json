@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-15T18:47:36Z",
+  "updated": "2026-09-15T22:00:32Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-09-15",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/09/03/audmadur_keypti_270_milljona_ibud_i_blokk/",
+      "title": "Auðmaður keypti 270 milljóna íbúð í blokk",
+      "link": "https://www.mbl.is/smartland/heimili/2026/09/03/audmadur_keypti_270_milljona_ibud_i_blokk/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/C8rM2jhw-F3HSiZH1ppSHaDPllM=/1640x1093/smart/frimg/1/67/45/1674519.jpg",
+      "published": "Thu, 03 Sep 2026 06:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "A 165.1 sqm apartment in a prominent building on Frakkastígur 1, designed by architect Arnhildur Pálmadóttir, has been purchased for 270 million ISK. The buyer is a company owned by Geir Valur Ágústsson, CFO of Air Atlanta.",
+      "importance": 4,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-15T21:42:25Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/09/14/timabundnar_truflanir_a_umferd/",
       "title": "Tímabundnar truflanir á umferð",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T10:34:41Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/09/aetla_ad_skoda_ny_taekifaeri_med_ibuunum/",
-      "title": "Ætla að skoða ný tækifæri með íbúunum",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/09/aetla_ad_skoda_ny_taekifaeri_med_ibuunum/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/ohsZxRGU2D1nSTIS0qthJNDwTUc=/1640x1093/smart/frimg/1/66/38/1663875.jpg",
-      "published": "Thu, 09 Jul 2026 06:00:00 +0000",
-      "category": "skipulag",
-      "summary": "The Mayor of Reykjavík, Hildur Björnsdóttir, announced plans to revise urban development in Grafarvogur, halting previous densification projects and seeking resident input for new, potentially smaller-scale housing, possibly for seniors. She also criticized the existing Keldnalandið development plan, particularly its transport assumptions, and intends to revise it to create a more viable future neighborhood and secure funding for regional transport infrastructure.",
-      "importance": 5,
-      "why_matters": "These planning revisions will directly impact future housing development, infrastructure funding, and the character of several neighborhoods in Reykjavík.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T10:34:33Z"
     }
   ]
 }
