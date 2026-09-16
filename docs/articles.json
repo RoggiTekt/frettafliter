@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-16T00:57:57Z",
+  "updated": "2026-09-16T06:40:36Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-09-16",
   "items": [
+    {
+      "id": "https://www.mbl.is/frettir/innlent/2026/09/15/ahyggjur_af_eldri_ukrainumonnum_i_sveitarfelaginu/",
+      "title": "Áhyggjur af eldri Úkraínumönnum í sveitarfélaginu",
+      "link": "https://www.mbl.is/frettir/innlent/2026/09/15/ahyggjur_af_eldri_ukrainumonnum_i_sveitarfelaginu/",
+      "source": "mbl",
+      "image": "https://c.arvakur.is/m2/0xo9BUugf-cd7BYLPMZcR9epGv0=/1640x1093/smart/frimg/1/63/40/1634069.jpg",
+      "published": "Tue, 15 Sep 2026 23:30:00 +0000",
+      "category": "efnahagur",
+      "summary": "The municipality of Borgarbyggð is concerned about the increasing financial burden of supporting older Ukrainian refugees who struggle to find work and accumulate pension rights. They are requesting the Ministry of Social Affairs and Housing to form a working group to address the issue, as the cost to the municipality is projected to be substantial after the initial two-year state reimbursement period ends.",
+      "importance": 3,
+      "why_matters": "This issue highlights a growing financial strain on municipalities due to refugee support, potentially impacting local budgets and requiring national policy adjustments.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-16T06:28:20Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/09/03/audmadur_keypti_270_milljona_ibud_i_blokk/",
       "title": "Auðmaður keypti 270 milljóna íbúð í blokk",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T10:35:01Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/09/sottu_kaldan_og_blautan_ferdamann/",
-      "title": "Sóttu kaldan og blautan ferðamann",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/09/sottu_kaldan_og_blautan_ferdamann/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/RQQ64vjucI3_iVeY5omCl-Q1C4Y=/1640x1093/smart/frimg/1/57/70/1577050.jpg",
-      "published": "Thu, 09 Jul 2026 05:29:13 +0000",
-      "category": "frettir",
-      "summary": "A hiker was rescued by a Coast Guard helicopter and multiple rescue teams after getting into trouble in Sveinsgil by Torfajökull. The search lasted five hours, and the man was found unharmed but cold and wet.",
-      "importance": 3,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T10:34:41Z"
     }
   ]
 }
