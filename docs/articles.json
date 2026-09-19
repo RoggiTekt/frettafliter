@@ -1,8 +1,23 @@
 {
-  "updated": "2026-09-18T23:10:04Z",
+  "updated": "2026-09-19T01:46:52Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
-  "brief_date": "2026-09-18",
+  "brief_date": "2026-09-19",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=63903",
+      "title": "Göng og brú setur fimm stór samgönguverkefni formlega í farveg",
+      "link": "https://byggingar.is/gong-og-bru-setur-fimm-stor-samgonguverkefni-formlega-i-farveg/?utm_source=rss&utm_medium=rss&utm_campaign=gong-og-bru-setur-fimm-stor-samgonguverkefni-formlega-i-farveg",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/09/18.09.2026-Gong-og-bru-setur-fimm-stor-samgonguverkefni-formlega-i-farveg.jpg",
+      "published": "Fri, 18 Sep 2026 09:43:51 +0000",
+      "category": "skipulag",
+      "summary": "A new state-owned company, Göng og brú (Tunnels and Bridge), has signed a letter of intent with the Ministry of Infrastructure to formally take over the development, financing, and operation of five major transportation projects, including Sundabraut and the expansion of Hvalfjarðargöng. This initiative aims to shift the funding of large infrastructure projects from traditional methods, freeing up the Icelandic Road Administration for general maintenance. The company is actively seeking international advisors and investors for these projects, which are estimated to cost over 1.5 billion euros.",
+      "importance": 5,
+      "why_matters": "This marks a significant shift in how major national infrastructure projects are financed and developed in Iceland, impacting future travel and economic development.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-09-19T01:14:39Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/09/15/ahyggjur_af_eldri_ukrainumonnum_i_sveitarfelaginu/",
       "title": "Áhyggjur af eldri Úkraínumönnum í sveitarfélaginu",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T10:35:20Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/08/myndir_adgerdir_gengu_vel_vid_thjorsa/",
-      "title": "Myndir: Aðgerðir gengu vel við Þjórsá",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/08/myndir_adgerdir_gengu_vel_vid_thjorsa/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/ZtD9UQ0Rgwz2QG6tsQcxcTgLR9A=/1640x1093/smart/frimg/1/66/37/1663701.jpg",
-      "published": "Wed, 08 Jul 2026 23:55:00 +0000",
-      "category": "frettir",
-      "summary": "A concrete mixer truck that fell off a bridge into the Þjórsá river was successfully recovered. The driver, who suffered hypothermia, is now recovering at home. Repairs to the bridge were completed, and it has reopened to traffic.",
-      "importance": 3,
-      "why_matters": "The incident caused a temporary closure of a bridge on a public road, impacting travel, and required significant rescue and recovery efforts.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T10:35:01Z"
     }
   ]
 }
