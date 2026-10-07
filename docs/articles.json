@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-07T08:45:11Z",
+  "updated": "2026-10-07T16:34:56Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-10-07",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=64385",
+      "title": "IÐAN fjallar um vatnstjón og myglu í nýju hlaðvarpi",
+      "link": "https://byggingar.is/idan-fjallar-um-vatnstjon-og-myglu-i-nyju-hladvarpi/?utm_source=rss&utm_medium=rss&utm_campaign=idan-fjallar-um-vatnstjon-og-myglu-i-nyju-hladvarpi",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/10/07.06.2026-IDAN-fjallar-um-vatnstjon-og-myglu-i-nyju-hladvarpi.jpg",
+      "published": "Wed, 07 Oct 2026 15:37:53 +0000",
+      "category": "arkitektur",
+      "summary": "IÐAN educational center has launched a new podcast series, \"Vandað til verka,\" focusing on critical issues in the Icelandic construction industry. The initial episodes delve into common problems like water damage, pipe maintenance, and mold in buildings. Experts discuss the importance of quality design, material selection, and regular upkeep to ensure building longevity and healthy indoor environments.",
+      "importance": 3,
+      "why_matters": "Understanding these issues can help homeowners and professionals prevent costly damage and ensure healthier living environments.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-10-07T16:33:57Z"
+    },
     {
       "id": "https://byggingar.is/?p=63903",
       "title": "Göng og brú setur fimm stór samgönguverkefni formlega í farveg",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T10:35:40Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/08/byst_ekki_vid_thvi_ad_hotelid_risi/",
-      "title": "Býst ekki við því að hótelið rísi",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/08/byst_ekki_vid_thvi_ad_hotelid_risi/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/2efDQ1lPVbucm6gI4sewG9qAmpY=/1640x1093/smart/frimg/1/66/38/1663874.jpg",
-      "published": "Wed, 08 Jul 2026 23:30:00 +0000",
-      "category": "skipulag",
-      "summary": "Isavia's plans to build a large hotel at Keflavík Airport are facing opposition from local tourism stakeholders and Reykjanesbær officials. Critics argue the project doesn't align with the region's tourism vision and question if Isavia is exceeding its operational scope. The owner of Hótel Keflavíkur believes the hotel will not be built and that Isavia should prioritize other airport services.",
-      "importance": 4,
-      "why_matters": "This project could significantly alter the tourism landscape and development priorities around Keflavík Airport and the Reykjanes peninsula.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T10:35:20Z"
     }
   ]
 }
