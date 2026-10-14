@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-14T01:16:12Z",
+  "updated": "2026-10-14T06:14:44Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-10-14",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/10/13/bergthor_og_laufey_seldu_hollina_a_252_milljonir/",
+      "title": "Bergþór og Laufey seldu höllina á 252 milljónir",
+      "link": "https://www.mbl.is/smartland/heimili/2026/10/13/bergthor_og_laufey_seldu_hollina_a_252_milljonir/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/rngrwzQoj4LjHkJIFhCxgYYrmjY=/1640x1093/smart/frimg/1/68/39/1683981.jpg",
+      "published": "Tue, 13 Oct 2026 06:00:00 +0000",
+      "category": "fasteignir",
+      "summary": "A 364 square meter house in Arnarnes, previously owned by MP Bergþór Ólason and Laufey Rún Ketilsdóttir, has been sold for 252 million ISK. The buyers are athletes Gunnar Gunnarsson and Guðrún Erla Bjarnadóttir. The article describes the house's features, including a large sunroom, hot tub, and sauna.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-10-14T06:13:50Z"
+    },
     {
       "id": "https://byggingar.is/?p=64385",
       "title": "IÐAN fjallar um vatnstjón og myglu í nýju hlaðvarpi",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T10:35:48Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/08/cosplay_buningalist_fyrir_allan_aldur/",
-      "title": "Cosplay: búningalist fyrir allan aldur",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/08/cosplay_buningalist_fyrir_allan_aldur/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/i1zs8zQ1WJmK6BarkQxLlLskb9s=/1640x1093/smart/mblvideo/innlend/f4/271348_125442075.jpg",
-      "published": "Wed, 08 Jul 2026 22:45:00 +0000",
-      "category": "menning",
-      "summary": "The article explores cosplay as a costume art form and hobby, highlighting its growing community in Iceland. It features an interview with an Icelandic cosplayer who discusses the challenges of sourcing materials locally and the various sub-groups within the Icelandic cosplay scene.",
-      "importance": 2,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T10:35:40Z"
     }
   ]
 }
