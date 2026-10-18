@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-18T18:11:02Z",
+  "updated": "2026-10-18T20:50:24Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-10-18",
   "items": [
+    {
+      "id": "https://byggingar.is/?p=64639",
+      "title": "Nýtt 375 fermetra iðnaðarhús rís á Tálknafirði",
+      "link": "https://byggingar.is/nytt-375-fermetra-idnadarhus-ris-a-talknafirdi/?utm_source=rss&utm_medium=rss&utm_campaign=nytt-375-fermetra-idnadarhus-ris-a-talknafirdi",
+      "source": "byggingar.is",
+      "image": "https://byggingar.is/wp-content/uploads/2026/10/16.10.2026-Nytt-375-fermetra-idnadarhus-ris-a-Talknafirdi.jpg",
+      "published": "Fri, 16 Oct 2026 11:49:36 +0000",
+      "category": "arkitektur",
+      "summary": "A new 375 square meter industrial building is under construction in Tálknafjörður, featuring five 75-square-meter units for sale or rent. This project, the first industrial building in the village this century, aims to provide much-needed commercial and storage space, with completion anticipated by December 2026.",
+      "importance": 3,
+      "why_matters": "It provides new commercial and storage space in a community that has lacked such development.",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-10-18T20:48:39Z"
+    },
     {
       "id": "https://www.mbl.is/frettir/innlent/2026/10/17/thakplotur_farnar_ad_fjuka_a_grundarfirdi/",
       "title": "Þakplötur farnar að fjúka á Grundarfirði",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T18:15:58Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/09/ekki_eigi_ad_gagnryna_olaf_ragnar_fyrir_andstoduna/",
-      "title": "Ekki eigi að gagnrýna Ólaf Ragnar fyrir andstöðuna",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/09/ekki_eigi_ad_gagnryna_olaf_ragnar_fyrir_andstoduna/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/uKdv-WYKw_eZAf8E0D0RYqjf1DI=/1640x1093/smart/frimg/1/66/40/1664097.jpg",
-      "published": "Thu, 09 Jul 2026 17:58:00 +0000",
-      "category": "efnahagur",
-      "summary": "Minister of Justice Þorbjörg Sigríður Gunnlaugsdóttir commented on former President Ólafur Ragnar Grímsson's opposition to EU accession talks. She stated that while his stance shouldn't be criticized, it's not particularly newsworthy given his consistent history of opposing various international agreements. The discussion revolves around a proposed referendum on whether Iceland should begin EU accession negotiations.",
-      "importance": 4,
-      "why_matters": "A potential referendum on EU accession talks could significantly alter Iceland's economic and political landscape.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T18:15:49Z"
     }
   ]
 }
