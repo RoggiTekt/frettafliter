@@ -1,8 +1,23 @@
 {
-  "updated": "2026-10-19T07:53:51Z",
+  "updated": "2026-10-19T15:41:13Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-10-19",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/09/30/forsetaframbjodandi_seldi_husid_a_toppverdi/",
+      "title": "Forsetaframbjóðandi seldi húsið á toppverði",
+      "link": "https://www.mbl.is/smartland/heimili/2026/09/30/forsetaframbjodandi_seldi_husid_a_toppverdi/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/UlOSqsWreAksxTV_3MP6JZDOJ7E=/1640x1093/smart/frimg/1/65/87/1658772.jpg",
+      "published": "Wed, 30 Sep 2026 10:33:00 +0000",
+      "category": "fasteignir",
+      "summary": "Hrannar Pétursson, a former presidential candidate, and Margrét Arnardóttir have sold their 182 sqm house in Garðastræti, built in 1919. The property was purchased by Rakel Þórhallsdóttir and product designer Rowan Patrick Robinson Cain for 188,000,000 ISK.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-10-19T15:41:04Z"
+    },
     {
       "id": "https://byggingar.is/?p=64639",
       "title": "Nýtt 375 fermetra iðnaðarhús rís á Tálknafirði",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T18:16:16Z"
-    },
-    {
-      "id": "https://www.mbl.is/vidskipti/frettir/2026/07/09/rammagerdin_faer_ad_leita_naudasamninga/",
-      "title": "Rammagerðin fær að leita nauðasamninga",
-      "link": "https://www.mbl.is/vidskipti/frettir/2026/07/09/rammagerdin_faer_ad_leita_naudasamninga/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/dJJ5m1JDKa2EsR3f1gwIANUfwzg=/1640x1093/smart/frimg/1/42/31/1423109.jpg",
-      "published": "Thu, 09 Jul 2026 17:55:00 +0000",
-      "category": "efnahagur",
-      "summary": "Rammagerðin ehf., a company operating three retail stores in Reykjavík, has been granted permission by a district court to seek composition agreements with its creditors. This process allows the company to negotiate debt payments or forgiveness to avoid bankruptcy. Creditors are invited to a meeting to vote on the proposal.",
-      "importance": 3,
-      "why_matters": "This indicates financial distress for a notable Icelandic retail chain, reflecting broader economic conditions.",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T18:15:58Z"
     }
   ]
 }
