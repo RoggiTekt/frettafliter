@@ -1,8 +1,23 @@
 {
-  "updated": "2026-11-15T17:46:27Z",
+  "updated": "2026-11-15T22:53:37Z",
   "brief": "Skagafjörður has committed to hundreds of millions in new construction projects. Separately, a request has been made to return building plots in the Vatnsendahverfi area. Meanwhile, experts are noting unprecedented water levels in the meltwater cauldrons of Mýrdalsjökull.",
   "brief_date": "2026-11-15",
   "items": [
+    {
+      "id": "https://www.mbl.is/smartland/heimili/2026/11/04/arna_yr_fegurdardrottning_og_vignir_kiro_selja/",
+      "title": "Arna Ýr fegurðardrottning og Vignir kíró selja",
+      "link": "https://www.mbl.is/smartland/heimili/2026/11/04/arna_yr_fegurdardrottning_og_vignir_kiro_selja/",
+      "source": "mbl Heimili",
+      "image": "https://c.arvakur.is/m2/ijbUk6FMGpY0xaP0uupsLmZVyiU=/1640x1093/smart/frimg/1/68/94/1689495.jpg",
+      "published": "Wed, 04 Nov 2026 13:22:00 +0000",
+      "category": "fasteignir",
+      "summary": "Former Miss Iceland, Arna Ýr Jónsdóttir, and her husband, chiropractor Vignir Þór Bollason, have put their 134-square-meter apartment in Garðabær on the market for 110.9 million ISK. The ground-floor apartment, built in 2022, is located in Urriðaholt and features a stylish interior with light wood furniture and thoughtfully decorated children's rooms.",
+      "importance": 3,
+      "why_matters": "",
+      "spin_flag": false,
+      "spin_note": "",
+      "added_at": "2026-11-15T22:53:19Z"
+    },
     {
       "id": "https://www.mbl.is/smartland/heimili/2026/09/30/forsetaframbjodandi_seldi_husid_a_toppverdi/",
       "title": "Forsetaframbjóðandi seldi húsið á toppverði",
@@ -3737,21 +3752,6 @@
       "spin_flag": false,
       "spin_note": "",
       "added_at": "2026-07-09T18:16:33Z"
-    },
-    {
-      "id": "https://www.mbl.is/frettir/innlent/2026/07/09/keyrdi_yfir_umferdareyju_og_hafnadi_a_skilti/",
-      "title": "Keyrði yfir umferðareyju og hafnaði á skilti",
-      "link": "https://www.mbl.is/frettir/innlent/2026/07/09/keyrdi_yfir_umferdareyju_og_hafnadi_a_skilti/",
-      "source": "mbl",
-      "image": "https://c.arvakur.is/m2/3n81Wu7XAxlHNkDhuGqed2pt06U=/1640x1093/smart/frimg/1/54/19/1541960.jpg",
-      "published": "Thu, 09 Jul 2026 16:14:00 +0000",
-      "category": "frettir",
-      "summary": "A driver lost control of their car in Kópavogur, driving over a traffic island and crashing into a sign. Police and multiple ambulances responded to the scene, and at least one person was transported to the emergency room.",
-      "importance": 3,
-      "why_matters": "",
-      "spin_flag": false,
-      "spin_note": "",
-      "added_at": "2026-07-09T18:16:16Z"
     }
   ]
 }
